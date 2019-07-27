@@ -3,7 +3,7 @@
 打开阅读app，在书源界面选择从网络导入书源，把下面的链接粘贴上去即可。一般来说导入第一个就够用了，还有追书的书源
 
 
-#N个书源(长期更新)：
+# N个书源(长期更新)：
 
 https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N个书源(长期更新).txt
 
