@@ -8,8 +8,7 @@
 https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N个书源(长期更新).txt
 
 
-768个校对书源：
-
+# 768个校对书源：
 https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/768个校对书源.txt
 
 
