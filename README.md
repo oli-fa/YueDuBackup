@@ -34,6 +34,7 @@ https://gedoor.github.io/MyBookshelf/bookSource.json
 
 我的规则
 https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Backup/2019-0707-1318/myBookReplaceRule.json
+
 https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Rule.txt
 
 净化规则:
