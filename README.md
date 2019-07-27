@@ -1,27 +1,35 @@
 # BookReplaceRule
 
 打开阅读app，在书源界面选择从网络导入书源，把下面的链接粘贴上去即可。一般来说导入第一个就够用了，还有追书的书源
+
+
+# 我的规则
+https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Backup/2019-0707-1318/myBookReplaceRule.json
+
+https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Rule.txt
+
 # N个书源(长期更新)：
 https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N个书源(长期更新).txt
+
 # 768个校对书源：
 https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/768个校对书源.txt
+
 # 54个优质书源(14个发现)：
 https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/54个优质书源(14个发现).xml
+
 # 14个发现书源：
 https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/14个发现书源.txt
 
-
-900+书源:
+# 900+书源:
 
 https://gitlab.com/GJTQQ/YueDu/raw/master/Share/915.json
 
 
-400+书源:
+## 400+书源:
 
 https://gitlab.com/GJTQQ/YueDu/raw/master/Share/425.json
 
-
-100+书源:
+### 100+书源: 
 
 https://gitlab.com/GJTQQ/YueDu/raw/master/Share/WxSource.json
 
@@ -37,14 +45,9 @@ https://y154541000.github.io/BookConfig/
 
 https://gitee.com/superman1024/iFreeTimeBooks
 
-https://gedoor.github.io/MyBookshelf/bookSource.json
+https://gedoor.github.io/MyBookshelf/bookSource.js#on
 
 
-我的规则
-
-https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Backup/2019-0707-1318/myBookReplaceRule.json
-
-https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Rule.txt
 
 
 净化规则:
