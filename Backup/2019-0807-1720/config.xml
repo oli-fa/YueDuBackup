@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="immersionStatusBar" value="true" />
+    <boolean name="showAllFind" value="true" />
+    <int name="speechRate" value="25" />
+    <string name="lastNoteUrl">http://www.zaidudu.net/book/104885.html</string>
+    <boolean name="nightTheme" value="true" />
+    <long name="lineChange" value="1534806462935" />
+    <int name="clickSensitivity" value="17" />
+    <boolean name="hide_navigation_bar" value="false" />
+    <int name="webPort" value="1122" />
+    <int name="colorPrimary" value="-657931" />
+    <int name="colorAccentNight" value="-5434281" />
+    <boolean name="navigationBarColorChange" value="true" />
+    <boolean name="behaviorMain" value="true" />
+    <int name="colorBackgroundNight" value="-12434878" />
+    <int name="bgColor1" value="-16777216" />
+    <boolean name="process_text" value="true" />
+    <int name="bgColor4" value="-14803426" />
+    <int name="light" value="0" />
+    <boolean name="defaultToRead" value="false" />
+    <boolean name="bookshelfIsList" value="true" />
+    <int name="textDrawableIndex" value="2" />
+    <boolean name="auto_refresh" value="true" />
+    <float name="lineMultiplier" value="1.0" />
+    <boolean name="speechRateFollowSys" value="true" />
+    <int name="colorPrimaryNight" value="-12434878" />
+    <int name="colorAccent" value="-2614432" />
+    <int name="textKindIndex" value="9" />
+    <boolean name="darkStatusIcon1" value="false" />
+    <boolean name="darkStatusIcon4" value="false" />
+    <int name="threads_num" value="350" />
+    <string name="launcher_icon">ic_launcher_round</string>
+    <string name="fontPath">/storage/emulated/0/Fonts/黑体.TTF</string>
+    <boolean name="upChangeSourceLastChapter" value="false" />
+    <int name="textDrawableIndexNight" value="2" />
+    <boolean name="isfollowsys" value="true" />
+    <string name="bookshelf_px">0</string>
+    <int name="bgCustom4" value="0" />
+    <int name="colorBackground" value="-657931" />
+    <int name="bgCustom1" value="1" />
+    <int name="pageMode" value="1" />
+    <boolean name="hide_status_bar" value="false" />
+    <boolean name="E-InkMode" value="false" />
+    <boolean name="autoDownload" value="false" />
+    <int name="navBarColorInt" value="3" />
+    <int name="SourceSort" value="1" />
+    <int name="versionCode" value="15506" />
+    <int name="textColor1" value="-5066062" />
+    <int name="textColor4" value="-8355712" />
+    <boolean name="lightFollowSys" value="true" />
+    <boolean name="textBold" value="false" />
+    <int name="textConvertInt" value="1" />
+</map>
