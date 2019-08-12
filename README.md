@@ -12,6 +12,10 @@ https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Rule.txt
 
 https://gitlab.com/GJTQQ/YueDu/raw/master/Share/Rule.txt
 
+## 特殊语法（css/json/xpath/混合/正则） 53个
+
+https://moonbegonia.github.io/Source/yuedu/special.json
+
 ## YueDuの书源
 
 ### N个书源(长期更新)：
@@ -30,6 +34,47 @@ https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/14个发
 
 https://gitlab.com/GJTQQ/YueDu/raw/master/Share/915.json
 
+### 有声 38个: 
+
+https://moonbegonia.github.io/Source/yuedu/audio.json
+
+### 正版 15个:
+
+https://moonbegonia.github.io/Source/yuedu/genuine.json
+
+### 轻小说/英文/名著/其他 17个:
+
+https://moonbegonia.github.io/Source/yuedu/others.json
+
+### 激情 31个:
+
+https://moonbegonia.github.io/Source/yuedu/R18.json
+
+### 发现 254个:
+
+https://moonbegonia.github.io/Source/yuedu/discover.json
+
+### 优（优/A级/S级/优+发现/优+特殊语法） 235个: 
+
+https://moonbegonia.github.io/Source/yuedu/highQuality.json
+
+### 普通 408个:
+
+https://moonbegonia.github.io/Source/yuedu/general.json
+
+### 有效书源NOR18 1020个:
+
+https://moonbegonia.github.io/Source/yuedu/fullNOR18.json
+
+### 有效书源 1051个:
+
+https://moonbegonia.github.io/Source/yuedu/full.json
+
+### 总书源 1786个:
+
+https://moonbegonia.github.io/Source/yuedu/fullSourceIncludeInvalid.json
+
+https://gedoor.github.io/MyBookshelf/bookSource.json https://bookSources.github.io
 
 ### 400+书源:
 
