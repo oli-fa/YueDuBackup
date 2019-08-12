@@ -1,6 +1,22 @@
 # BookReplaceRule
 
-打开阅读app，在书源界面选择从网络导入书源，把下面的链接粘贴上去即可。一般来说导入第一个就够用了，还有追书的书源
+打开阅读app，在书源界面选择从网络导入书源，把下面的链接粘贴上去即可。
+
+## 个人备份说明
+
+每个文件夹都是以“年-几月几日-几时几分”的规则命名
+
+### 每个文件夹内包含的文件及意义
+
+myBookReplaceRule.json（图书替换规则）
+
+myBookSearchHistory.json（图书搜索历史）
+
+myBookShelf.json（书架）
+
+myBookSource.json（图书来源）
+
+myTxtChapterRule.json（Txt章节规则）
 
 
 ## 我的规则
