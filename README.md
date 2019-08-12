@@ -22,8 +22,6 @@ myTxtChapterRule.json（小说章节规则）
 ## 我的规则
 https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Backup/2019-0812-0900/myBookReplaceRule.json
 
-https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Rule.txt
-
 ## 净化规则:
 
 https://gitlab.com/GJTQQ/YueDu/raw/master/Share/Rule.txt
