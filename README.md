@@ -4,7 +4,7 @@
 
 ## 个人备份说明
 
-每个文件夹都是以“年-几月几日-几时几分”的规则命名
+备份存在Backup中，其中的每个文件夹都是以“年-几月几日-几时几分”的规则命名
 
 ### 每个文件夹内包含的文件及意义
 
@@ -16,7 +16,7 @@ myBookShelf.json（书架）
 
 myBookSource.json（图书来源）
 
-myTxtChapterRule.json（Txt章节规则）
+myTxtChapterRule.json（小说章节规则）
 
 
 ## 我的规则
