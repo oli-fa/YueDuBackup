@@ -12,9 +12,6 @@ https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Rule.txt
 
 https://gitlab.com/GJTQQ/YueDu/raw/master/Share/Rule.txt
 
-## 特殊语法（css/json/xpath/混合/正则） 53个
-
-https://moonbegonia.github.io/Source/yuedu/special.json
 
 ## YueDuの书源
 
@@ -57,6 +54,10 @@ https://moonbegonia.github.io/Source/yuedu/discover.json
 ### 优（优/A级/S级/优+发现/优+特殊语法） 235个: 
 
 https://moonbegonia.github.io/Source/yuedu/highQuality.json
+
+### 特殊语法（css/json/xpath/混合/正则） 53个
+
+https://moonbegonia.github.io/Source/yuedu/special.json
 
 ### 普通 408个:
 
