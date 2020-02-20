@@ -20,7 +20,7 @@ myTxtChapterRule.json（小说章节规则）
 
 
 ## 我的规则
-https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Backup/**`上传日期`**/myBookReplaceRule.json
+https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Backup/`上传日期`/myBookReplaceRule.json
 
 ## 净化规则:
 
