@@ -20,7 +20,7 @@ myTxtChapterRule.json（小说章节规则）
 
 
 ## 我的规则
-https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Backup/**`上传日期`**/myBookReplaceRule.json
+https://raw.githubusercontent.com/ifwlzs/YuDueSettings/master/Backup/上传日期/myBookReplaceRule.json
 
 
 ## 净化规则:
@@ -90,7 +90,9 @@ https://moonbegonia.github.io/Source/yuedu/full.json
 
 https://moonbegonia.github.io/Source/yuedu/fullSourceIncludeInvalid.json
 
-https://gedoor.github.io/MyBookshelf/bookSource.json https://bookSources.github.io
+https://gedoor.github.io/MyBookshelf/bookSource.json 
+
+https://bookSources.github.io
 
 ### 400+书源:
 
