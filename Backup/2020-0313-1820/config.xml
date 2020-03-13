@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="immersionStatusBar" value="true" />
+    <boolean name="showAllFind" value="true" />
+    <int name="speechRate" value="30" />
+    <long name="DonateHb" value="1578033830149" />
+    <string name="lastNoteUrl">http://www.zaidudu.net/book/104885.html</string>
+    <boolean name="nightTheme" value="false" />
+    <long name="lineChange" value="1534806462935" />
+    <int name="clickSensitivity" value="17" />
+    <boolean name="hide_navigation_bar" value="false" />
+    <int name="webPort" value="1122" />
+    <int name="colorPrimary" value="-657931" />
+    <int name="colorAccentNight" value="-5434281" />
+    <boolean name="navigationBarColorChange" value="true" />
+    <boolean name="behaviorMain" value="true" />
+    <int name="colorBackgroundNight" value="-12434878" />
+    <int name="bgColor1" value="-16777216" />
+    <boolean name="process_text" value="true" />
+    <int name="bgColor4" value="-14803426" />
+    <boolean name="findTypeIsFlexBox" value="true" />
+    <int name="light" value="15" />
+    <boolean name="defaultToRead" value="false" />
+    <boolean name="bookshelfIsList" value="true" />
+    <boolean name="replaceEnableDefault" value="true" />
+    <int name="screenTimeOut" value="3" />
+    <int name="textDrawableIndex" value="2" />
+    <boolean name="auto_refresh" value="true" />
+    <float name="lineMultiplier" value="1.0" />
+    <boolean name="speechRateFollowSys" value="false" />
+    <int name="colorPrimaryNight" value="-12434878" />
+    <int name="colorAccent" value="-4473925" />
+    <int name="textKindIndex" value="9" />
+    <boolean name="darkStatusIcon1" value="false" />
+    <boolean name="darkStatusIcon4" value="false" />
+    <string name="backupPath">/storage/emulated/0/YueDu</string>
+    <float name="paragraphSize" value="1.8" />
+    <int name="threads_num" value="183" />
+    <string name="launcher_icon">ic_launcher_round</string>
+    <string name="fontPath">/storage/emulated/0/Fonts/索尼兰亭黑体(最好的兰亭系列).ttf</string>
+    <boolean name="upChangeSourceLastChapter" value="false" />
+    <int name="textDrawableIndexNight" value="4" />
+    <boolean name="isfollowsys" value="true" />
+    <string name="bookshelf_px">0</string>
+    <int name="bgCustom4" value="0" />
+    <int name="colorBackground" value="-263" />
+    <int name="textSize" value="20" />
+    <int name="bgCustom1" value="1" />
+    <boolean name="canSelectText" value="true" />
+    <int name="pageMode" value="1" />
+    <boolean name="hide_status_bar" value="false" />
+    <boolean name="E-InkMode" value="false" />
+    <boolean name="autoDownload" value="false" />
+    <int name="navBarColorInt" value="3" />
+    <int name="SourceSort" value="1" />
+    <int name="versionCode" value="15871" />
+    <int name="textColor1" value="-5066062" />
+    <long name="lastBackup" value="1584094710156" />
+    <int name="textColor4" value="-9737365" />
+    <boolean name="lightFollowSys" value="true" />
+    <boolean name="textBold" value="false" />
+    <int name="textConvertInt" value="1" />
+</map>
