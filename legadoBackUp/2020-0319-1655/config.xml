@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="transparentStatusBar" value="true" />
+    <boolean name="auto_refresh" value="true" />
+    <string name="backupUri">content://com.android.externalstorage.documents/tree/primary%3AYueDu%2FlegadoBackUp</string>
+    <int name="chineseConverterType" value="1" />
+    <string name="list_screen_direction">0</string>
+    <boolean name="selectText" value="true" />
+    <boolean name="hideNavigationBar" value="true" />
+    <boolean name="volumeKeyPageOnPlay" value="false" />
+    <int name="colorPrimaryNight" value="-14606047" />
+    <string name="launcherIcon">ic_launcher</string>
+    <string name="themeMode">1</string>
+    <boolean name="recordLog" value="false" />
+    <int name="colorAccent" value="-5329234" />
+    <boolean name="webService" value="false" />
+    <boolean name="clickTurnPage" value="true" />
+    <string name="fontFolder">content://com.android.externalstorage.documents/tree/primary%3AFonts</string>
+    <boolean name="volumeKeyPage" value="true" />
+    <string name="keep_light">0</string>
+    <int name="colorPrimary" value="-657931" />
+    <boolean name="brightnessAuto" value="true" />
+    <int name="colorAccentNight" value="-1227907" />
+    <boolean name="navigationBarColorChange" value="true" />
+    <int name="colorBackground" value="-263" />
+    <int name="colorBackgroundNight" value="-16777216" />
+    <int name="readStyleSelect" value="2" />
+    <int name="threadCount" value="186" />
+    <boolean name="hideStatusBar" value="false" />
+    <boolean name="process_text" value="true" />
+    <boolean name="showRss" value="true" />
+    <int name="versionCode" value="4518" />
+    <long name="lastBackup" value="1584608120731" />
+    <int name="pageAnim" value="2" />
+    <boolean name="shareLayout" value="false" />
+    <boolean name="clickAllNext" value="false" />
+    <boolean name="defaultToRead" value="false" />
+    <boolean name="webDavCreateDir" value="true" />
+    <int name="colorBottomBackground" value="-1118482" />
+    <string name="readBookFont">/data/user/0/io.legado.app.release/files/Fonts/方正兰亭黑.TTF</string>
+    <boolean name="isEInkMode" value="true" />
+    <int name="colorBottomBackgroundNight" value="-12434878" />
+</map>
