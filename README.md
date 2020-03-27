@@ -31,6 +31,9 @@ https://gitlab.com/GJTQQ/YueDu/raw/master/Share/Rule.txt
 
 ## YueDuの书源
 
+### 源仓库收录的书源
+http://ku.mumuceo.com/
+
 ### N个书源(长期更新)：
 https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N个书源(长期更新).txt
 
