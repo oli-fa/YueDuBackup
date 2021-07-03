@@ -25,6 +25,12 @@ myBookSource.json（图书来源）
 
 myTxtChapterRule.json（小说章节规则）
 
+### R18版本的福利：
+
+R18订阅源：
+
+R18书源：
+
 
 ## 我的规则
 https://raw.githubusercontent.com/ifwlzs/YueDuBackup/master/Backup/上传日期/myBookReplaceRule.json
