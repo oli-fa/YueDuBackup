@@ -1,0 +1,155 @@
+[
+  {
+    "autoUpdate": false,
+    "customOrder": 1,
+    "id": 1621782002782,
+    "name": "pro",
+    "type": 1,
+    "update": 1621782002782,
+    "url": "http://yck.mumuceo.com/yuedu/rssyuan/jsons?id=765"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1621785352250,
+    "name": "订阅源1",
+    "type": 1,
+    "update": 1621785352250,
+    "url": "http://yck.mumuceo.com/yuedu/rssyuan/jsons?id=472-441"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1621785372668,
+    "name": "订阅源2",
+    "type": 1,
+    "update": 1621785372668,
+    "url": "http://shuyuan.miaogongzi.net/shuyuan/1619456819.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1621785442878,
+    "name": "r18书源",
+    "type": 0,
+    "update": 1621785442878,
+    "url": "https://moonbegonia.github.io/Source/yuedu/R18.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1621785498761,
+    "name": "r18订阅源",
+    "type": 1,
+    "update": 1621785498761,
+    "url": "http://shuyuan.miaogongzi.net/shuyuan/1618363759.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1623719663317,
+    "name": "namofree书源：（通用，精简，比较适合大多数人）",
+    "type": 0,
+    "update": 1623719663317,
+    "url": "http://shuyuan.miaogongzi.net/shuyuan/1622509629.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1623720034395,
+    "name": "不世玄奇大佬的书源(高级)",
+    "type": 0,
+    "update": 1623720034395,
+    "url": "https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E5%A4%B1%E6%95%88%E4%BF%AE%E5%A4%8D%E5%90%88%E9%9B%86.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1623720065551,
+    "name": "一程大佬的书源合集：（通用，精简，比较适合大多数人）",
+    "type": 0,
+    "update": 1623720065551,
+    "url": "http://shuyuan.miaogongzi.net/shuyuan/1622744487.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1623720111836,
+    "name": "乃星大佬的女频书源合集",
+    "type": 0,
+    "update": 1623720111836,
+    "url": "http://shuyuan.miaogongzi.net/shuyuan/1623355431.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1625153864186,
+    "name": "破冰大佬的听书源合集",
+    "type": 0,
+    "update": 1625153864186,
+    "url": "https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/yshj.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1625153892214,
+    "name": "haxc大佬的漫画源合集",
+    "type": 0,
+    "update": 1625153892214,
+    "url": "https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/Book3.0Source.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1625153916966,
+    "name": "关耳大佬的女频书源合集",
+    "type": 0,
+    "update": 1625153916966,
+    "url": "https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1625153979271,
+    "name": "天域战歌大佬的2.0书源",
+    "type": 0,
+    "update": 1625153979271,
+    "url": "https://tianyuzhange.coding.net/p/booksource/d/shuyuan/git/raw/master/2.0shuyuan.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1625154002242,
+    "name": "破冰大佬的700个收藏书源合集",
+    "type": 0,
+    "update": 1625154002242,
+    "url": "https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/syhj.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1625154027247,
+    "name": "千仞云大佬的书源合集",
+    "type": 0,
+    "update": 1625154027247,
+    "url": "http://shuyuan.miaogongzi.net/shuyuan/1624832786.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1625154114181,
+    "name": "cyao2q书源",
+    "type": 0,
+    "update": 1625154114181,
+    "url": "https://cdn.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1625154879494,
+    "name": "净化",
+    "type": 2,
+    "update": 1625154879494,
+    "url": "https://gitee.com/schoolyears_admin/codes/pg95f0xdzwhlm24r7ek3a100/raw?blob_name=exportReplaceRule.json"
+  }
+]

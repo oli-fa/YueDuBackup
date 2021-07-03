@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="transparentStatusBar" value="true" />
+    <string name="backupUri">content://com.android.externalstorage.documents/tree/primary%3AYueDu</string>
+    <int name="chineseConverterType" value="1" />
+    <boolean name="selectText" value="true" />
+    <boolean name="changeSourceCheckAuthor" value="true" />
+    <boolean name="volumeKeyPageOnPlay" value="false" />
+    <boolean name="immNavigationBar" value="true" />
+    <string name="themeMode">0</string>
+    <string name="language">zh</string>
+    <boolean name="useDefaultCover" value="false" />
+    <boolean name="recordLog" value="false" />
+    <boolean name="fullScreenGesturesSupport" value="true" />
+    <boolean name="webService" value="false" />
+    <boolean name="textFullJustify" value="false" />
+    <boolean name="volumeKeyPage" value="true" />
+    <string name="prevKeyCodes"></string>
+    <boolean name="ttsFollowSys" value="true" />
+    <int name="webPort" value="1122" />
+    <int name="colorPrimary" value="-657931" />
+    <int name="colorAccentNight" value="-8336444" />
+    <boolean name="highBrush" value="false" />
+    <int name="colorBackgroundNight" value="-12434878" />
+    <int name="readStyleSelect" value="2" />
+    <int name="threadCount" value="300" />
+    <boolean name="showBrightnessView" value="true" />
+    <boolean name="process_text" value="true" />
+    <boolean name="showRss" value="true" />
+    <boolean name="mediaButtonOnExit" value="true" />
+    <string name="nextKeyCodes">79</string>
+    <int name="saveTabPosition" value="3" />
+    <boolean name="precisionSearch" value="false" />
+    <string name="web_dav_account">2095145204@qq.com</string>
+    <string name="web_dav_password">a9pv5qthrbwka5pg</string>
+    <boolean name="defaultToRead" value="false" />
+    <boolean name="webDavCreateDir" value="true" />
+    <boolean name="replaceEnableDefault" value="true" />
+    <boolean name="syncBookProgress" value="true" />
+    <int name="colorBottomBackground" value="-1118482" />
+    <string name="searchGroup"></string>
+    <boolean name="showDiscovery" value="true" />
+    <boolean name="auto_refresh" value="false" />
+    <boolean name="hideNavigationBar" value="false" />
+    <int name="colorPrimaryNight" value="-13619152" />
+    <string name="launcherIcon">launcher6</string>
+    <int name="colorAccent" value="-11159120" />
+    <string name="screenOrientation">0</string>
+    <boolean name="autoClearExpired" value="true" />
+    <boolean name="textBottomJustify" value="true" />
+    <boolean name="autoChangeSource" value="true" />
+    <string name="fontFolder">/storage/emulated/0/Fonts</string>
+    <int name="autoReadSpeed" value="46" />
+    <string name="importBookPath">content://com.android.externalstorage.documents/tree/primary%3ADownload%2Fbook</string>
+    <string name="keep_light">0</string>
+    <boolean name="brightnessAuto" value="true" />
+    <int name="colorBackground" value="-657931" />
+    <int name="ttsSpeechRate" value="45" />
+    <boolean name="readAloudByPage" value="true" />
+    <boolean name="useZhLayout" value="true" />
+    <boolean name="hideStatusBar" value="false" />
+    <int name="system_typefaces" value="0" />
+    <long name="lastBackup" value="1625309155962" />
+    <boolean name="webDavCacheBackup" value="false" />
+    <boolean name="readBodyToLh" value="true" />
+    <int name="brightness" value="15" />
+    <string name="web_dav_url">https://dav.jianguoyun.com/dav/</string>
+    <boolean name="preDownload" value="true" />
+    <int name="colorBottomBackgroundNight" value="-12434878" />
+</map>
