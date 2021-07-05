@@ -165,9 +165,10 @@
 ## 替换净化规则分享
 
 | 序号 | 概述            | 地址                                                         |
-| ---- | --------------- | ------------------------------------------------------------ |
-| 1    | schoolyears净化 | https://gitee.com/schoolyears_admin/codes/pg95f0xdzwhlm24r7ek3a100/raw?blob_name=exportReplaceRule.json |
+| :----: | --------------- | ------------------------------------------------------------ |
+| 1    | 乌云净化         | http://shuyuan.miaogongzi.net/shuyuan/1623087998.txt |
 | 2    | GJTQQ           | https://gitlab.com/GJTQQ/YueDu/raw/master/Share/Rule.txt     |
+| 3    | schoolyears净化  | https://gitee.com/schoolyears_admin/codes/pg95f0xdzwhlm24r7ek3a100/raw?blob_name=exportReplaceRule.json |
 
 ---
 
