@@ -1,5 +1,49 @@
 [
   {
+    "bookSourceComment": "自制。需要vpn。发现需要手动刷新一次。直接点开会读不到(太菜了不会解决)",
+    "bookSourceGroup": "R18,ifwlzs",
+    "bookSourceName": "3H淫书(仅发现，需要手动刷新)",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://hhhbook.com",
+    "bookUrlPattern": "http://hhhbook.com/\\d*/\\d*/\\d*/.*/",
+    "customOrder": -185595,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "乱伦文学::http://hhhbook.com/category/%e4%ba%82%e5%80%ab%e6%96%87%e5%ad%b8/page/{{page-1==0?\"\":page}}&&人妻文学::http://hhhbook.com/category/%e4%ba%ba%e5%a6%bb%e6%96%87%e5%ad%b8/page/{{page-1==0?\"\":page}}&&校园师生::http://hhhbook.com/category/%e6%a0%a1%e5%9c%92%e5%b8%ab%e7%94%9f/page/{{page-1==0?\"\":page}}&&暴力虐待::http://hhhbook.com/category/%e6%9a%b4%e5%8a%9b%e8%99%90%e5%be%85/page/{{page-1==0?\"\":page}}&&都市生活::http://hhhbook.com/category/%e9%83%bd%e5%b8%82%e7%94%9f%e6%b4%bb/page/{{page-1==0?\"\":page}}&&名人明星::http://hhhbook.com/category/%e5%90%8d%e4%ba%ba%e6%98%8e%e6%98%9f/page/{{page-1==0?\"\":page}}&&武侠文学::http://hhhbook.com/category/%e6%ad%a6%e4%bf%a0%e6%96%87%e5%ad%b8/page/{{page-1==0?\"\":page}}",
+    "lastUpdateTime": 1625654950981,
+    "ruleBookInfo": {
+      "author": "class.entry-author-name@text",
+      "name": "class.entry-title@text",
+      "tocUrl": ""
+    },
+    "ruleContent": {
+      "content": ".entry-content@html##tag.div&&hhhbook.com"
+    },
+    "ruleExplore": {
+      "author": "",
+      "bookList": "tag.article",
+      "bookUrl": "class.entry-title@a@href",
+      "intro": "class.entry-content@tag.p@text",
+      "kind": "class.entry-categories@tag.a@text",
+      "name": "class.entry-title@tag.a@text",
+      "wordCount": ""
+    },
+    "ruleSearch": {
+      "author": "class.entry-author-name@text",
+      "bookList": "tag.article",
+      "bookUrl": "class.entry-title@a@href",
+      "intro": "class.entry-content@tag.p@text",
+      "kind": "class.entry-categories@tag.a@text",
+      "name": "class.tentry-itle@tag.a@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.entry-title",
+      "chapterName": "text"
+    },
+    "searchUrl": "http://hhhbook.com/?s={{key}}",
+    "weight": 0
+  },
+  {
     "bookSourceComment": "haxc",
     "bookSourceGroup": "R18",
     "bookSourceName": "18小说",
@@ -3217,6 +3261,106 @@
     "weight": 0
   },
   {
+    "bookSourceComment": "自制仅发现，无搜索功能(太菜了。)，需要vpn",
+    "bookSourceGroup": "R18,ifwlzs",
+    "bookSourceName": "风月文学网",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://www.h528.com/",
+    "bookUrlPattern": "http://www.h528.com/post/\\d*.html",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "人妻熟女::/post/category/人妻熟女/page/{{page}}&&家庭乱伦::/post/category/家庭亂倫/page/{{page}}&&强暴虐待::/post/category/強暴虐待/page/{{page}}&&学生校园::/post/category/校園師生/page/{{page}}&&武侠科幻::/post/category/武俠科幻/page/{{page}}&&动漫改编::/post/category/動漫改編/page/{{page}}&&名人明星::/post/category/名人明星/page/{{page}}&&都市生活::/post/category/都市生活/page/{{page}}&&变身系列::/post/category/變身系列/page/{{page}}&&经验故事::/post/category/經驗故事/page/{{page}}&&另类其它::/post/category/另類其它/page/{{page}}&&性知识::/post/category/性知識/page/{{page}}",
+    "lastUpdateTime": 1625475345337,
+    "ruleBookInfo": {
+      "name": "h2"
+    },
+    "ruleContent": {
+      "content": "class.entry@tag.p@html"
+    },
+    "ruleExplore": {
+      "bookList": "class.post",
+      "bookUrl": "tag.h3@tag.a@href",
+      "kind": "tag.small@tag.a@text",
+      "name": "tag.h3@tag.a@text"
+    },
+    "ruleSearch": {
+      "bookList": "class.post",
+      "bookUrl": "tag.h3@tag.a@href",
+      "kind": "tag.small@tag.a@text",
+      "name": "tag.h3@tag.a@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.post@tag.h2",
+      "chapterName": "text"
+    },
+    "searchUrl": "http://www.h528.com/{{page-1==0?\"\":page}}?s={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "永久网址(vpn)：52avav.com",
+    "bookSourceGroup": "ifwlzs,R18",
+    "bookSourceName": "52AVAV小说频道(仅发现)",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://t526uh0j52y985mn.com",
+    "bookUrlPattern": "/home/text/[0-9]*/[0-9_]*.html",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "都市情感::/home/textlist/7/836-{{page}}.html&&人妻熟女::/home/textlist/7/837-{{page}}.html&&玄幻武侠::/home/textlist/7/838-{{page}}.html&&另类其它::/home/textlist/7/839-{{page}}.html&&明星校园::/home/textlist/7/840-{{page}}.html&&家庭乱伦::/home/textlist/7/841-{{page}}.html&&成人小说::/home/textlist/7/842-{{page}}.html&&暴力虐待::/home/textlist/7/843-{{page}}.html",
+    "lastUpdateTime": 1625648676410,
+    "ruleBookInfo": {},
+    "ruleContent": {
+      "content": "class.newsbody@class.nbodys@html"
+    },
+    "ruleExplore": {
+      "bookList": "class.newslist textlist@tag.ul",
+      "bookUrl": "class.name@tag.a@href",
+      "intro": "class.time@tag.font@text||class.time@text",
+      "lastChapter": "",
+      "name": "class.name@tag.a@text"
+    },
+    "ruleSearch": {},
+    "ruleToc": {
+      "chapterList": "class.newsbody@class.title",
+      "chapterName": "text"
+    },
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "永久域名(vpn)：t66y.com，如需看图记得关闭“替换净化”选项",
+    "bookSourceGroup": "R18,ifwlzs",
+    "bookSourceName": "草榴(仅发现)",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://cl.qs37.xyz/",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "技术讨论区-吹水区::/thread0806.php?fid=7&page={{page}}&&新时代的我们::/thread0806.php?fid=8&page={{page}}&&达盖尔的旗帜-草榴自拍区::/thread0806.php?fid=16&page={{page}}&&成人文学交流区::/thread0806.php?fid=20&page={{page}}&&亚洲无码原创区::/thread0806.php?fid=2&page={{page}}&&亚洲有码原创区::/thread0806.php?fid=15&page={{page}}&&欧美原创区::/thread0806.php?fid=4&page={{page}}&&动漫原创区::/thread0806.php?fid=5&page={{page}}&&国产原创区::/thread0806.php?fid=25&page={{page}}&&中字原创区::/thread0806.php?fid=26&page={{page}}&&HTTP下载区::/thread0806.php?fid=21&page={{page}}",
+    "lastUpdateTime": 1625654660472,
+    "ruleBookInfo": {
+      "init": ""
+    },
+    "ruleContent": {
+      "content": "class.tpc_content do_not_catch@html##iyl.*-data##src",
+      "imageStyle": ""
+    },
+    "ruleExplore": {
+      "author": "class.bl@text",
+      "bookList": "id.tbody@tag.tr",
+      "bookUrl": "tag.h3@tag.a@href",
+      "intro": "class.f12@text",
+      "lastChapter": "class.f10@text",
+      "name": "tag.h3@text"
+    },
+    "ruleSearch": {},
+    "ruleToc": {
+      "chapterList": "class.f16",
+      "chapterName": "text"
+    },
+    "weight": 0
+  },
+  {
     "bookSourceComment": "①需要登录\n②vip章节为图片\n③图片章节请将翻页方式改成滚动\n\nBy天天gg+乃星补发现",
     "bookSourceGroup": "R18",
     "bookSourceName": "🔰书耽",
@@ -5422,35 +5566,6 @@
       "chapterUrl": "href"
     },
     "searchUrl": "/modules/article/search.php,{\n  \"charset\": \"gbk \",\n  \"method\": \"POST\",\n  \"body\": \"searchkey={{key}}&searchtype=articlename&page={{page}}\"\n}",
-    "weight": 0
-  },
-  {
-    "bookSourceComment": "",
-    "bookSourceGroup": "R18",
-    "bookSourceName": "🔞 风月文学 🚀",
-    "bookSourceType": 0,
-    "bookSourceUrl": "http://www.h528.com",
-    "customOrder": 225,
-    "enabled": true,
-    "enabledExplore": true,
-    "exploreUrl": "人妻熟女::/post/category/人妻熟女/page/{{page}}\n家庭亂倫::/post/category/家庭亂倫/page/{{page}}\n強暴虐待::/post/category/強暴虐待/page/{{page}}\n學生校園::/post/category/學生校園/page/{{page}}\n武俠科幻::/post/category/武俠科幻/page/{{page}}\n動漫改編::/post/category/動漫改編/page/{{page}}\n名人明星::/post/category/名人明星/page/{{page}}\n都市生活::/post/category/都市生活/page/{{page}}\n變身系列::/post/category/變身系列/page/{{page}}\n經驗故事::/post/category/經驗故事/page/{{page}}\n另類其它::/post/category/另類其它/page/{{page}}\n两性知識::/post/category/性知識/page/{{page}}",
-    "lastUpdateTime": 1622305362024,
-    "ruleBookInfo": {},
-    "ruleContent": {
-      "content": ".entry@tag.p!-1@text"
-    },
-    "ruleExplore": {},
-    "ruleSearch": {
-      "bookList": "id.content@table",
-      "bookUrl": "tag.a.1@href",
-      "kind": "tag.a.0@text",
-      "name": "tag.a.1@text"
-    },
-    "ruleToc": {
-      "chapterList": ".post@h2",
-      "chapterName": "text"
-    },
-    "searchUrl": "/page/{{page}}?s={{key}}",
     "weight": 0
   },
   {
