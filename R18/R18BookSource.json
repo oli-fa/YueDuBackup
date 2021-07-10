@@ -3298,36 +3298,6 @@
     "weight": 0
   },
   {
-    "bookSourceComment": "永久网址(vpn)：52avav.com",
-    "bookSourceGroup": "ifwlzs,R18",
-    "bookSourceName": "52AVAV小说频道(仅发现)",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://t526uh0j52y985mn.com",
-    "bookUrlPattern": "/home/text/[0-9]*/[0-9_]*.html",
-    "customOrder": 0,
-    "enabled": true,
-    "enabledExplore": true,
-    "exploreUrl": "都市情感::/home/textlist/7/836-{{page}}.html&&人妻熟女::/home/textlist/7/837-{{page}}.html&&玄幻武侠::/home/textlist/7/838-{{page}}.html&&另类其它::/home/textlist/7/839-{{page}}.html&&明星校园::/home/textlist/7/840-{{page}}.html&&家庭乱伦::/home/textlist/7/841-{{page}}.html&&成人小说::/home/textlist/7/842-{{page}}.html&&暴力虐待::/home/textlist/7/843-{{page}}.html",
-    "lastUpdateTime": 1625648676410,
-    "ruleBookInfo": {},
-    "ruleContent": {
-      "content": "class.newsbody@class.nbodys@html"
-    },
-    "ruleExplore": {
-      "bookList": "class.newslist textlist@tag.ul",
-      "bookUrl": "class.name@tag.a@href",
-      "intro": "class.time@tag.font@text||class.time@text",
-      "lastChapter": "",
-      "name": "class.name@tag.a@text"
-    },
-    "ruleSearch": {},
-    "ruleToc": {
-      "chapterList": "class.newsbody@class.title",
-      "chapterName": "text"
-    },
-    "weight": 0
-  },
-  {
     "bookSourceComment": "永久域名(vpn)：t66y.com，如需看图记得关闭“替换净化”选项",
     "bookSourceGroup": "R18,ifwlzs",
     "bookSourceName": "草榴(仅发现)",
@@ -3356,6 +3326,66 @@
     "ruleSearch": {},
     "ruleToc": {
       "chapterList": "class.f16",
+      "chapterName": "text"
+    },
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "永久网址(vpn)：52avav.com",
+    "bookSourceGroup": "ifwlzs,R18",
+    "bookSourceName": "52AVAV小说频道(仅发现)",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://t526uh0j52y985mn.com",
+    "bookUrlPattern": "/home/text/[0-9]*/[0-9_]*.html",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "都市情感::/home/textlist/7/836-{{page}}.html&&人妻熟女::/home/textlist/7/837-{{page}}.html&&玄幻武侠::/home/textlist/7/838-{{page}}.html&&另类其它::/home/textlist/7/839-{{page}}.html&&明星校园::/home/textlist/7/840-{{page}}.html&&家庭乱伦::/home/textlist/7/841-{{page}}.html&&成人小说::/home/textlist/7/842-{{page}}.html&&暴力虐待::/home/textlist/7/843-{{page}}.html",
+    "lastUpdateTime": 1625900641557,
+    "ruleBookInfo": {},
+    "ruleContent": {
+      "content": "class.newsbody@class.nbodys@html"
+    },
+    "ruleExplore": {
+      "bookList": "class.newslist textlist@tag.ul",
+      "bookUrl": "class.name@tag.a@href",
+      "intro": "class.time@tag.font@text||class.time@text",
+      "lastChapter": "",
+      "name": "class.name@tag.a@text"
+    },
+    "ruleSearch": {},
+    "ruleToc": {
+      "chapterList": "class.newsbody@class.title",
+      "chapterName": "text"
+    },
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "永久地址:52AVAV.com",
+    "bookSourceGroup": "ifwlzs,R18",
+    "bookSourceName": "52AVAV图片频道(仅发现)",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.5jg6awtnneb78spk.com/",
+    "bookUrlPattern": "",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "精品图集::/home/piclist/7/828-{{page}}.html&&欧美风情::/home/piclist/7/829-{{page}}.html&&亚洲情色::/home/piclist/7/830-{{page}}.html&&性爱自拍::/home/piclist/7/831-{{page}}.html&&成人动漫::/home/piclist/7/832-{{page}}.html&&美腿丝袜::/home/piclist/7/833-{{page}}.html&&唯美写真::/home/piclist/7/834-{{page}}.html&&人体艺术::/home/piclist/7/835-{{page}}.html",
+    "lastUpdateTime": 1625900710412,
+    "ruleBookInfo": {},
+    "ruleContent": {
+      "content": "class.nbodys@html"
+    },
+    "ruleExplore": {
+      "bookList": "class.listpic",
+      "bookUrl": "tag.a@href",
+      "coverUrl": "class.vodpic lazyload@data-original",
+      "lastChapter": "class.time@tag.font@text || class.time@text",
+      "name": "class.vodname@text"
+    },
+    "ruleSearch": {},
+    "ruleToc": {
+      "chapterList": "tag.h1",
       "chapterName": "text"
     },
     "weight": 0
