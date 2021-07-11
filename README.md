@@ -5,33 +5,34 @@
 
 ---
 
-<p align="center"style="color:red;font-size:30px;font-weight:bold">目录</p>
-
-* [软件下载地址（3\.0）：](#%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%8030)
-* [软件下载地址（2\.0）：](#%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%8020)
-* [软件的官方](#%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%AE%98%E6%96%B9)
-* [个人备份说明](#%E4%B8%AA%E4%BA%BA%E5%A4%87%E4%BB%BD%E8%AF%B4%E6%98%8E)
-* [官方教程](#%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B)
-* [书源导入教程](#%E4%B9%A6%E6%BA%90%E5%AF%BC%E5%85%A5%E6%95%99%E7%A8%8B)
-* [备份文件说明：](#%E5%A4%87%E4%BB%BD%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E)
-    * [2\.0版本：](#20%E7%89%88%E6%9C%AC)
-    * [3\.0前期版本(2021年之前？)](#30%E5%89%8D%E6%9C%9F%E7%89%88%E6%9C%AC2021%E5%B9%B4%E4%B9%8B%E5%89%8D)
-    * [3\.0后期版本(2021\-至今)](#30%E5%90%8E%E6%9C%9F%E7%89%88%E6%9C%AC2021-%E8%87%B3%E4%BB%8A)
-* [书源分享](#%E4%B9%A6%E6%BA%90%E5%88%86%E4%BA%AB)
-    * [【推荐】长期更新：](#%E6%8E%A8%E8%8D%90%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0)
-    * [other](#other)
-* [替换净化规则分享](#%E6%9B%BF%E6%8D%A2%E5%87%80%E5%8C%96%E8%A7%84%E5%88%99%E5%88%86%E4%BA%AB)
-* [订阅源分享](#%E8%AE%A2%E9%98%85%E6%BA%90%E5%88%86%E4%BA%AB)
-* [主题订阅分享](#%E4%B8%BB%E9%A2%98%E8%AE%A2%E9%98%85%E5%88%86%E4%BA%AB)
-* [在线语音（TTS）分享](#%E5%9C%A8%E7%BA%BF%E8%AF%AD%E9%9F%B3tts%E5%88%86%E4%BA%AB)
-* [异次元图源分享](#%E5%BC%82%E6%AC%A1%E5%85%83%E5%9B%BE%E6%BA%90%E5%88%86%E4%BA%AB)
+><p align="center"style="color:red;font-size:30px;font-weight:bold">目录</p>
+>
+>* [软件下载地址（3\.0）：](#软件下载地址30)
+>* [软件下载地址（2\.0）：](#软件下载地址20)
+>* [软件的官方](#软件的官方)
+>* [个人备份说明](#个人备份说明)
+>* [官方教程](#官方教程)
+>* [书源导入教程](#书源导入教程)
+>* [备份文件说明：](#备份文件说明)
+>    * [2\.0版本：](#20版本)
+>    * [3\.0前期版本(2021年之前？)](#30前期版本2021年之前)
+>    * [3\.0后期版本(2021\-至今)](#30后期版本2021-至今)
+>* [书源分享](#书源分享)
+>    * [【推荐】长期更新：](#推荐长期更新)
+>    * [other](#other)
+>* [替换净化规则分享](#替换净化规则分享)
+>* [订阅源分享](#订阅源分享)
+>* [主题订阅分享](#主题订阅分享)
+>* [在线语音/朗读引擎（TTS）分享](#在线语音朗读引擎tts分享)
+>* [字体分享](#字体分享)
+>* [异次元图源分享](#异次元图源分享)
 
 ---
 
 ## 软件下载地址（3.0）：
 
 | 序号 | 说明                    | 地址                                                         |
-| :--: | ----------------------- | ------------------------------------------------------------ |
+| :--: | ----------------------- | :------------------------------------------------------------ |
 |  1   | 酷安                    | https://www.coolapk.com/apk/io.legado.app.release            |
 |  2   | Github                  | https://github.com/gedoor/legado/releases                    |
 |  3   | Google play（暂时下架） | https://play.google.com/store/apps/details?id=io.legado.play.release |
@@ -42,7 +43,7 @@
 ## 软件下载地址（2.0）：
 
 | 序号 | 说明   | 地址                                                         |
-| :--: | ------ | ------------------------------------------------------------ |
+| :--: | ------ | :------------------------------------------------------------ |
 |  1   | Github | https://github.com/gedoor/MyBookshelf/releases/tag/2.21.010422 |
 |  2   | 90网盘 | https://www.90pan.com/wap.php?action=space&uid=0&folder_id=138703 |
 
@@ -64,7 +65,7 @@
 
 源仓库：http://yck.mumuceo.com/
 
-对于软件各个版本（R18，Pro，普通版本）的说明和的区别请看阅读官方TG通知群置顶 https://t.me/legado_channels/414
+对于软件各个版本（R18，Pro，普通版本）的说明和区别请看阅读官方TG通知群置顶 https://t.me/legado_channels/414
 
 
 
@@ -129,7 +130,7 @@
 >|  2   |   bookSource.json    |                     书源                     |
 >|  3   |    bookshelf.json    |                   书架信息                   |
 >|  4   |      config.xml      |                   软件配置                   |
->|  5   |     httpTTS.json     |                在线朗读引擎源                |
+>|  5   |     httpTTS.json     |            在线朗读引擎（TTS）源             |
 >|  6   |   readConfig.json    |                 阅读界面配置                 |
 >|  7   |   readRecord.json    |             每本书的阅读时长记录             |
 >|  8   |   replaceRule.json   |                 替换净化规则                 |
@@ -165,16 +166,16 @@
 |  15  | 千仞云2                     | http://shuyuan.miaogongzi.net/shuyuan/1619967369.json        |
 |  16  | cyao2q书源                  | https://cdn.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan      |
 |  17  | 风扬兮                      | http://shuyuan.miaogongzi.net/shuyuan/1619463469.txt         |
-|  18  | 渊呀                        | [https://olixina.coding.net/p/yuedu/d/source/git/raw/master/bookSource.json ](https://olixina.coding.net/p/yuedu/d/source/git/raw/master/bookSource.json) |
-|  19  | CNAD666 N个书源（长期更新） | [https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N%E4%B8%AA%E4%B9%A6%E6%BA%90(%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0).txt](https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N个书源(长期更新).txt) |
+|  18  | 渊呀                        | https://olixina.coding.net/p/yuedu/d/source/git/raw/master/bookSource.json |
+|  19  | CNAD666 N个书源（长期更新） | https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N%E4%B8%AA%E4%B9%A6%E6%BA%90(%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0).txt |
 
 #### other
 
 | 序号 | 概述                       | 地址                                                         |
-| :--: | -------------------------- | ------------------------------------------------------------ |
-|  1   | 768个校对书源              | [https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/768%E4%B8%AA%E6%A0%A1%E5%AF%B9%E4%B9%A6%E6%BA%90.txt](https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/768个校对书源.txt) |
-|  2   | 54个优质书源               | [https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/54%E4%B8%AA%E4%BC%98%E8%B4%A8%E4%B9%A6%E6%BA%90(14%E4%B8%AA%E5%8F%91%E7%8E%B0).xml](https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/54个优质书源(14个发现).xml) |
-|  3   | 14个发现书源               | [https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/14%E4%B8%AA%E5%8F%91%E7%8E%B0%E4%B9%A6%E6%BA%90.txt](https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/14个发现书源.txt) |
+| :--: | -------------------------- | :----------------------------------------------------------- |
+|  1   | 768个校对书源              | https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/768%E4%B8%AA%E6%A0%A1%E5%AF%B9%E4%B9%A6%E6%BA%90.txt |
+|  2   | 54个优质书源               | https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/54%E4%B8%AA%E4%BC%98%E8%B4%A8%E4%B9%A6%E6%BA%90(14%E4%B8%AA%E5%8F%91%E7%8E%B0).xml |
+|  3   | 14个发现书源               | https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/14%E4%B8%AA%E5%8F%91%E7%8E%B0%E4%B9%A6%E6%BA%90.txt |
 |  4   | 900+书源                   | https://gitlab.com/GJTQQ/YueDu/raw/master/Share/915.json     |
 |  5   | 有声 38个                  | https://moonbegonia.github.io/Source/yuedu/audio.json        |
 |  6   | 正版 15个                  | https://moonbegonia.github.io/Source/yuedu/genuine.json      |
@@ -187,8 +188,8 @@
 |  13  | 有效书源NOR18 1020个       | https://moonbegonia.github.io/Source/yuedu/fullNOR18.json    |
 |  14  | 有效书源 1051个            | https://moonbegonia.github.io/Source/yuedu/full.json         |
 |  15  | 总书源 1786个              | https://moonbegonia.github.io/Source/yuedu/fullSourceIncludeInvalid.json |
-|  16  | legado的书源               | [https://gedoor.github.io/MyBookshelf/bookSource.json ](https://gedoor.github.io/MyBookshelf/bookSource.json) |
-|  17  | 阅读在线书源分享库         | [https://bookSources.github.io](https://booksources.github.io/) |
+|  16  | legado的书源               | https://gedoor.github.io/MyBookshelf/bookSource.json         |
+|  17  | 阅读在线书源分享库         | https://bookSources.github.io                                |
 |  18  | 400+书源                   | https://gitlab.com/GJTQQ/YueDu/raw/master/Share/425.json     |
 |  19  | 100+书源                   | https://gitlab.com/GJTQQ/YueDu/raw/master/Share/WxSource.json |
 |  20  | ift123                     | https://gitee.com/ift123/iFreeTimeBookConfigs                |
@@ -203,8 +204,8 @@
 ## 替换净化规则分享
 
 | 序号 | 概述            | 地址                                                         |
-| :--: | --------------- | ------------------------------------------------------------ |
-|  1   | 乌云净化        | http://shuyuan.miaogongzi.net/shuyuan/1623087998.txt         |
+| :--: | --------------- | :---------------------------------------------------- |
+|  1   | 乌云净化        | http://shuyuan.miaogongzi.net/shuyuan/1623087998.txt  |
 |  2   | GJTQQ           | https://gitlab.com/GJTQQ/YueDu/raw/master/Share/Rule.txt     |
 |  3   | schoolyears净化 | https://gitee.com/schoolyears_admin/codes/pg95f0xdzwhlm24r7ek3a100/raw?blob_name=exportReplaceRule.json |
 
@@ -225,28 +226,46 @@
 ## 主题订阅分享
 
 | 序号 | 概述       | 地址                                              |
-| :--: | ---------- | ------------------------------------------------- |
+| :--: | ---------- | :------------------------------------------------ |
 |  1   | 源仓库     | http://yck.mumuceo.com/yuedu/theme/index.html     |
 |  2   | 酷安评论区 | https://www.coolapk.com/apk/io.legado.app.release |
 |  3   | 软件公众号 | legado-top                                        |
 
 ---
 
-## 在线语音（TTS）分享
+## 在线语音/朗读引擎（TTS）分享
 
 | 序号 | 概述   | 地址                                                  |
-| :--: | ------ | ----------------------------------------------------- |
+| :--: | ------ | :---------------------------------------------------- |
 |  1   | 千仞雪 | http://shuyuan.miaogongzi.net/shuyuan/1625432648.json |
 |  2   | 乘风   | http://shuyuan.miaogongzi.net/shuyuan/1620296316.txt  |
 
 ---
+
+## 字体分享
+
+|序号|概述|地址|
+|:--:|---|:----|
+|1|`不想守望的守望`的分享|https://www.aliyundrive.com/s/mgUahLVRTqa|
+|2|字体家|https://www.zitijia.com/|
+|3|字体设计网|http://ziti.cndesign.com/fonts/list/1_0_0_0_1.html|
+|4| 字体天下| https://www.fonts.net.cn/  |
+|5|iFonts|https://51ifonts.com/promotion/index2?from=shejidaren|
+|6|优优教程网字体下载|https://uiiiuiii.com/tool/typeface|
+|7|FontSpace（英文）|https://www.fontspace.com/|
+|8| DaFont（英文）  | https://www.dafont.com/  |
+
+
+---
 ## 异次元图源分享
 
-| 序号 | 概述                   | 地址                                               |
-| :--: | ---------------------- | -------------------------------------------------- |
+| 序号 | 概述  | 地址  |
+| :--: | ---------------------- | :------------------------------------------------- |
 |  1   | 源仓库                 | http://yck.mumuceo.com/yiciyuan/tuyuan/index.html  |
 |  2   | 官方整理（2021.06.28） | https://654373.caihuajing.workers.dev/?code=654373 |
-|  3   | 公众号                 | yiciyuanapp                                        |
+|  3   | 公众号                 | yiciyuanapp  |
 
 ----
 
+<p align="right">Updata By ifwlzs</p>
+<p align="right">2021.07.11</p>
