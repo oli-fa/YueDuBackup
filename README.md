@@ -35,8 +35,8 @@
 #### 阅读(2.0)下载地址
 
 | 序号 | 说明   | 地址                                                         |
-| :--: | ------ | :------------------------------------------------------------ |
-|  1   | Github | https://github.com/gedoor/MyBookshelf/releases/tag/2.21.010422 |
+| :--: | ------ | :----------------------------------------------------------- |
+|  1   | Github | https://github.com/gedoor/MyBookshelf/releases/              |
 |  2   | 90网盘 | https://www.90pan.com/wap.php?action=space&uid=0&folder_id=138703 |
 
 
@@ -195,7 +195,7 @@
 
 #### 书源项目地址
 
-一般项目里有大量的书源文件可供导入
+一般项目里有大量的书源文件可供导入（这只是仓库地址，不要直接导入！！！）
 
 | 序号 | 贡献者及概述       | 地址                                                         |
 | :--: | ------------------ | ------------------------------------------------------------ |
@@ -225,12 +225,12 @@
 
 ## 订阅源(RSS)分享
 
-| 序号 | 贡献者及概述 | 地址                                                         |
-| :--: | ------------ | ------------------------------------------------------------ |
-|  1   | ifwlzs订阅源 | https://cdn.jsdelivr.net/gh/ifwlzs/YueDuBackup@master/R18/R18RssSource.json |
-|  2   | 订阅源1      | http://yck.mumuceo.com/yuedu/rssyuan/jsons?id=765            |
-|  3   | 订阅源2      | http://yck.mumuceo.com/yuedu/rssyuan/jsons?id=472-441        |
-|  4   | 订阅源3      | http://shuyuan.miaogongzi.net/shuyuan/1619456819.json        |
+| 序号 | 贡献者及概述     | 地址                                                         |
+| :--: | ---------------- | ------------------------------------------------------------ |
+|  1   | ifwlzs R18订阅源 | https://cdn.jsdelivr.net/gh/ifwlzs/YueDuBackup@master/R18/R18RssSource.json |
+|  2   | 订阅源1          | http://yck.mumuceo.com/yuedu/rssyuan/jsons?id=765            |
+|  3   | 订阅源2          | http://yck.mumuceo.com/yuedu/rssyuan/jsons?id=472-441        |
+|  4   | 订阅源3          | http://shuyuan.miaogongzi.net/shuyuan/1619456819.json        |
 
 
 ---
@@ -282,6 +282,6 @@
 
 ----
 
-<p align="right">Updata By ifwlzs</p>
+<p align="right">Update By ifwlzs</p>
 <p align="right">2021.07.16</p>
 
