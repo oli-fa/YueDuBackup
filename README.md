@@ -239,10 +239,13 @@
 
 ## 在线语音/朗读引擎(TTS)分享
 
-| 序号 | 概述   | 地址                                                  |
-| :--: | ------ | :---------------------------------------------------- |
-|  1   | 千仞雪 | http://shuyuan.miaogongzi.net/shuyuan/1625432648.json |
-|  2   | 乘风   | http://shuyuan.miaogongzi.net/shuyuan/1620296316.txt  |
+| 序号 | 概述                      | 地址                                                         |
+| :--: | ------------------------- | :----------------------------------------------------------- |
+|  1   | 千仞雪                    | http://shuyuan.miaogongzi.net/shuyuan/1625432648.json        |
+|  2   | 乘风                      | http://shuyuan.miaogongzi.net/shuyuan/1620296316.txt         |
+|  3   | Ag2s20150909分享，微软TTS | https://cdn.jsdelivr.net/gh/ag2s20150909/TTS@master/release/ |
+
+微软TTS使用教程：https://mp.weixin.qq.com/s/D1zaYbxx4wwGRSmexFAusw
 
 ---
 

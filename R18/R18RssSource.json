@@ -1,6 +1,27 @@
 [
   {
     "articleStyle": 2,
+    "customOrder": -18406,
+    "enableJs": false,
+    "enabled": true,
+    "loadWithBaseUrl": false,
+    "ruleArticles": "$.list",
+    "ruleDescription": "$.vod_play_url\n@js:\nresult=result.replace('在线播放$','');\nresult=\"<video src=\\\"\"+result+\"\\\" width=\\\"100%\\\" controls height=\\\"285px\\\"></video>\";\nresult=\"<html><head><meat charset=\\\"utf-8\\\"><meat name=\\\"viewport\\\" content=\\\"width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no\\\"/><style>html,body{margin:0;padding:0;width:100%;}</style></head><body>\"+result+\"</body></html>\"",
+    "ruleImage": "$.vod_pic",
+    "ruleLink": "$.vod_id",
+    "ruleNextPage": "page",
+    "rulePubDate": "$.vod_time",
+    "ruleTitle": "$.vod_name",
+    "singleUrl": false,
+    "sortUrl": "中字::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=20&pg={{page}}\n人妻::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=26&pg={{page}}\n搜索::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&wd=全裸&pg={{page}}\n推荐::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&pg={{page}}\n国产::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=1&pg={{page}}\n精品::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=31&pg={{page}}\n日无::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=2&pg={{page}}\n日有::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=3&pg={{page}}\n主播::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=21&pg={{page}}\n动漫::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=22&pg={{page}}\n欧美::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=23&pg={{page}}\n私拍::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=24&pg={{page}}\n丝袜::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=25&pg={{page}}\n韩国::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=27&pg={{page}}\n香港::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=28&pg={{page}}",
+    "sourceComment": "搜索可更改分类中wd后的值",
+    "sourceGroup": "R18",
+    "sourceIcon": "https://z3.ax1x.com/2021/04/25/czt0OI.png",
+    "sourceName": "Tikhub",
+    "sourceUrl": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&pg={{page}}"
+  },
+  {
+    "articleStyle": 2,
     "customOrder": -18405,
     "enableJs": true,
     "enabled": true,
@@ -60,27 +81,6 @@
     "sourceIcon": "https://s3.ax1x.com/2021/02/07/ytDbjS.png",
     "sourceName": "JavdbT下载",
     "sourceUrl": "https://javdb7.com/"
-  },
-  {
-    "articleStyle": 2,
-    "customOrder": -17586,
-    "enableJs": false,
-    "enabled": true,
-    "loadWithBaseUrl": false,
-    "ruleArticles": "$.list",
-    "ruleDescription": "$.vod_play_url\n@js:\nresult=result.replace('在线播放$','');\nresult=\"<video src=\\\"\"+result+\"\\\" width=\\\"100%\\\" controls height=\\\"285px\\\"></video>\";\nresult=\"<html><head><meat charset=\\\"utf-8\\\"><meat name=\\\"viewport\\\" content=\\\"width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no\\\"/><style>html,body{margin:0;padding:0;width:100%;}</style></head><body>\"+result+\"</body></html>\"",
-    "ruleImage": "$.vod_pic",
-    "ruleLink": "$.vod_id",
-    "ruleNextPage": "page",
-    "rulePubDate": "$.vod_time",
-    "ruleTitle": "$.vod_name",
-    "singleUrl": false,
-    "sortUrl": "中字::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=20&pg={{page}}\n人妻::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=26&pg={{page}}\n搜索::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&wd=全裸&pg={{page}}\n推荐::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&pg={{page}}\n国产::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=1&pg={{page}}\n精品::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=31&pg={{page}}\n日无::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=2&pg={{page}}\n日有::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=3&pg={{page}}\n主播::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=21&pg={{page}}\n动漫::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=22&pg={{page}}\n欧美::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=23&pg={{page}}\n私拍::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=24&pg={{page}}\n丝袜::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=25&pg={{page}}\n韩国::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=27&pg={{page}}\n香港::https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&t=28&pg={{page}}",
-    "sourceComment": "搜索可更改分类中wd后的值",
-    "sourceGroup": "R18",
-    "sourceIcon": "https://z3.ax1x.com/2021/04/25/czt0OI.png",
-    "sourceName": "Tikhub",
-    "sourceUrl": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=detail&pg={{page}}"
   },
   {
     "articleStyle": 0,
@@ -636,6 +636,18 @@
     "sourceName": "绅士社(修正)",
     "sourceUrl": "http://bbs.crgif.com/?f/1.html",
     "style": ""
+  },
+  {
+    "articleStyle": 0,
+    "customOrder": 0,
+    "enableJs": false,
+    "enabled": true,
+    "loadWithBaseUrl": false,
+    "singleUrl": true,
+    "sourceGroup": "R18",
+    "sourceIcon": "",
+    "sourceName": "3H淫书",
+    "sourceUrl": "http://hhhbook.com/"
   },
   {
     "articleStyle": 0,
