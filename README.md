@@ -14,20 +14,20 @@
 * [个人备份说明](#个人备份说明)
 * [官方教程](#官方教程)
 * [书源导入教程](#书源导入教程)
-* [备份文件说明：](#备份文件说明)
+* [备份文件说明](#备份文件说明)
     * [2\.0版本](#20版本)
     * [3\.0前期版本(2021年之前？)](#30前期版本2021年之前)
     * [3\.0后期版本(2021\-至今)](#30后期版本2021-至今)
 * [书源分享](#书源分享)
-    * [【推荐】长期更新：](#推荐长期更新)
-    * [Other](#other)
+    * [【推荐】近期精选](#推荐近期精选)
+    * [【推荐】长期更新](#推荐长期更新)
+    * [书源项目地址](#书源项目地址)
 * [替换净化规则分享](#替换净化规则分享)
 * [订阅源(RSS)分享](#订阅源rss分享)
 * [主题分享](#主题分享)
 * [在线语音/朗读引擎(TTS)分享](#在线语音朗读引擎tts分享)
 * [字体分享](#字体分享)
 * [异次元app 图源分享](#异次元app-图源分享)
-
 ---
 
 ## 软件下载
@@ -100,7 +100,7 @@
 
 ------
 
-## 备份文件说明：
+## 备份文件说明
 
 
 #### 2.0版本
@@ -149,98 +149,106 @@
 
 ## 书源分享
 
-#### 【推荐】长期更新：
+#### 【推荐】近期精选
 
-| 序号 | 概述                        | 地址                                                         |
-| :--: | --------------------------- | :----------------------------------------------------------- |
-|  1   | 源仓库（首推）              | http://yck.mumuceo.com/yuedu/shuyuan/index.html              |
-|  2   | ifwlzs的R18                 | https://cdn.jsdelivr.net/gh/ifwlzs/YueDuBackup@master/R18/R18BookSource.json |
-|  3   | moonbegonia的R18书源        | https://moonbegonia.github.io/Source/yuedu/R18.json          |
-|  4   | namofree 精简通用书源       | http://shuyuan.miaogongzi.net/shuyuan/1622509629.json        |
-|  5   | 一程 精简通用书源合集       | http://shuyuan.miaogongzi.net/shuyuan/1622744487.json        |
-|  6   | 乃星女频                    | http://shuyuan.miaogongzi.net/shuyuan/1623355431.json        |
-|  7   | 不世玄奇 高级用法书源       | [https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E5%A4%B1%E6%95%88%E4%BF%AE%E5%A4%8D%E5%90%88%E9%9B%86.json](https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/失效修复合集.json) |
-|  8   | 不世玄奇 全网通用源         | https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%  https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%E9%9B%86.json |
-|  9   | 破冰 听书源                 | https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/yshj.json |
-|  10  | haxc 漫画源                 | https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/Book3.0Source.json |
-|  11  | 关耳女频书源合集            | https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json |
-|  12  | 天域战歌 2.0书源            | https://tianyuzhange.coding.net/p/booksource/d/shuyuan/git/raw/master/2.0shuyuan.json |
-|  13  | 破冰 700个收藏书源合集      | https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/syhj.json |
-|  14  | 千仞云 书源合集             | http://shuyuan.miaogongzi.net/shuyuan/1624832786.json        |
-|  15  | 千仞云2                     | http://shuyuan.miaogongzi.net/shuyuan/1619967369.json        |
-|  16  | cyao2q书源                  | https://cdn.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan      |
-|  17  | 风扬兮                      | http://shuyuan.miaogongzi.net/shuyuan/1619463469.txt         |
-|  18  | 渊呀                        | https://olixina.coding.net/p/yuedu/d/source/git/raw/master/bookSource.json |
-|  19  | CNAD666 N个书源（长期更新） | https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N%E4%B8%AA%E4%B9%A6%E6%BA%90(%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0).txt |
+| 序号 | 贡献者及概述      | 地址                                                  |
+| :--: | ----------------- | ----------------------------------------------------- |
+|  1   | namofree 精简通用 | http://shuyuan.miaogongzi.net/shuyuan/1622509629.json |
+|  2   | namofree 合集     | http://shuyuan.miaogongzi.net/shuyuan/1617406392.json |
+|  3   | 一程丶 精简通用   | http://shuyuan.miaogongzi.net/shuyuan/1622744487.json |
+|  4   | 一程丶 合集       | http://shuyuan.miaogongzi.net/shuyuan/1617281456.json |
+|  5   | 乃星女频          | http://shuyuan.miaogongzi.net/shuyuan/1623355431.json |
+|  6   | 天域战歌 合集     | http://shuyuan.miaogongzi.site/shuyuan/1615385692.txt |
+|  7   | 千仞云 1          | http://shuyuan.miaogongzi.net/shuyuan/1624832786.json |
+|  8   | 千仞云 2          | http://shuyuan.miaogongzi.net/shuyuan/1619967369.json |
+|  9   | 风扬兮 1          | http://shuyuan.miaogongzi.net/shuyuan/1619463469.txt  |
+|  10  | 风扬兮 2          | http://shuyuan.miaogongzi.site/shuyuan/1612930793.txt |
+|  11  | Y大先生           | http://shuyuan.miaogongzi.net/shuyuan/1620929243.json |
+|  12  | onede             | http://shuyuan.miaogongzi.net/shuyuan/1619872864.json |
+|  13  | haxc981           | http://shuyuan.miaogongzi.net/shuyuan/1617076136.json |
+|  14  | 天上的鱼儿飞啊    | http://shuyuan.miaogongzi.net/shuyuan/1619911647.txt  |
 
-#### Other
+#### 【推荐】长期更新
 
-| 序号 | 概述                       | 地址                                                         |
-| :--: | -------------------------- | :----------------------------------------------------------- |
-|  1   | 768个校对书源              | https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/768%E4%B8%AA%E6%A0%A1%E5%AF%B9%E4%B9%A6%E6%BA%90.txt |
-|  2   | 54个优质书源               | https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/54%E4%B8%AA%E4%BC%98%E8%B4%A8%E4%B9%A6%E6%BA%90(14%E4%B8%AA%E5%8F%91%E7%8E%B0).xml |
-|  3   | 14个发现书源               | https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/14%E4%B8%AA%E5%8F%91%E7%8E%B0%E4%B9%A6%E6%BA%90.txt |
-|  4   | 900+书源                   | https://gitlab.com/GJTQQ/YueDu/raw/master/Share/915.json     |
-|  5   | 有声 38个                  | https://moonbegonia.github.io/Source/yuedu/audio.json        |
-|  6   | 正版 15个                  | https://moonbegonia.github.io/Source/yuedu/genuine.json      |
-|  7   | 轻小说/英文/名著/其他 17个 | https://moonbegonia.github.io/Source/yuedu/others.json       |
-|  8   | 激情 31个                  | https://moonbegonia.github.io/Source/yuedu/R18.json          |
-|  9   | 发现 254个                 | https://moonbegonia.github.io/Source/yuedu/discover.json     |
-|  10  | 优 235个                   | https://moonbegonia.github.io/Source/yuedu/highQuality.json  |
-|  11  | 特殊语法 53个              | https://moonbegonia.github.io/Source/yuedu/special.json      |
-|  12  | 普通 408个                 | https://moonbegonia.github.io/Source/yuedu/general.json      |
-|  13  | 有效书源NOR18 1020个       | https://moonbegonia.github.io/Source/yuedu/fullNOR18.json    |
-|  14  | 有效书源 1051个            | https://moonbegonia.github.io/Source/yuedu/full.json         |
-|  15  | 总书源 1786个              | https://moonbegonia.github.io/Source/yuedu/fullSourceIncludeInvalid.json |
-|  16  | legado的书源               | https://gedoor.github.io/MyBookshelf/bookSource.json         |
-|  17  | 阅读在线书源分享库         | https://bookSources.github.io                                |
-|  18  | 400+书源                   | https://gitlab.com/GJTQQ/YueDu/raw/master/Share/425.json     |
-|  19  | 100+书源                   | https://gitlab.com/GJTQQ/YueDu/raw/master/Share/WxSource.json |
-|  20  | ift123                     | https://gitee.com/ift123/iFreeTimeBookConfigs                |
-|  21  | wxdjs                      | https://github.com/wxdjs/iFreeTimebookConfigs                |
-|  22  | heiji666                   | https://gitee.com/heiji666/aiyue                             |
-|  23  | q7478729                   | https://gitee.com/q7478729/books                             |
-|  24  | y154541000                 | https://y154541000.github.io/BookConfig/                     |
-|  25  | superman1024               | https://gitee.com/superman1024/iFreeTimeBooks                |
+| 序号 | 贡献者及概述          | 地址                                                         |
+| :--: | --------------------- | ------------------------------------------------------------ |
+|  1   | 源仓库（首推）        | http://yck.mumuceo.com/yuedu/shuyuan/index.html              |
+|  2   | ifwlzs R18            | https://cdn.jsdelivr.net/gh/ifwlzs/YueDuBackup@master/R18/R18BookSource.json |
+|  3   | moonbegonia R18书源   | https://moonbegonia.github.io/Source/yuedu/R18.json          |
+|  4   | 不世玄奇 高级用法书源 | [https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E5%A4%B1%E6%95%88%E4%BF%AE%E5%A4%8D%E5%90%88%E9%9B%86.json](https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/失效修复合集.json) |
+|  5   | 不世玄奇 全网通用源   | https://cdn.jsdelivr.net/gh/bushixuanqi/book-source/%E4%B9%A6%E6%BA%90%E5%90%88%E9%9B%86.json |
+|  6   | 滨江美波              | https://gitee.com/jia_to_hui/read-30-preferred-book-source/raw/master/bookSource.json |
+|  7   | 破冰 听书源           | https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/yshj.json |
+|  8   | 破冰 32有声           | https://gitee.com/z507525872/book-source/raw/master/32yousheng.json |
+|  9   | 破冰 书源合集         | https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/syhj.json |
+|  10  | haxc 漫画源           | https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/Book3.0Source.json |
+|  11  | 关耳 女频             | https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json |
+|  12  | 天域战歌 2.0书源      | https://tianyuzhange.coding.net/p/booksource/d/shuyuan/git/raw/master/2.0shuyuan.json |
+|  13  | cyao2q                | https://cdn.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan      |
+|  14  | 渊呀                  | https://olixina.coding.net/p/yuedu/d/source/git/raw/master/bookSource.json |
+|  15  | CNAD666               | [https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N%E4%B8%AA%E4%B9%A6%E6%BA%90(%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0).txt](https://raw.githubusercontent.com/CNAD666/MyData/master/novel/bookshelf/N个书源(长期更新).txt) |
+|  16  | 芜恙                  | https://slaijie.gitee.io/legado/legado/BookSource210116.json |
+|  17  | yellyoo               | https://gitee.com/ch4nge/readbook/raw/master/booksource_fl   |
+|  18  | 你个嘚嘚745L          | https://gitee.com/ch4nge/readbook/raw/master/booksource200   |
+|  19  | 一介书生              | https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json   |
+|  20  | gedoor书源            | https://gedoor.github.io/MyBookshelf/bookSource.json         |
+
+#### 书源项目地址
+
+一般项目里有大量的书源文件可供导入
+
+| 序号 | 贡献者及概述       | 地址                                                         |
+| :--: | ------------------ | ------------------------------------------------------------ |
+|  1   | 不世玄奇           | https://github.com/bushixuanqi/book-source                   |
+|  2   | 破冰carry          | https://gitee.com/z507525872/book-source                     |
+|  3   | ch4nge精选书源合集 | https://gitee.com/ch4nge/readbook                            |
+|  4   | 芜恙               | https://gitee.com/slaijie/legado                             |
+|  5   | cyao2q             | https://github.com/CNAD666/MyData                            |
+|  6   | MoonBegonia        | https://github.com/MoonBegonia/Source                        |
+|  7   | GJTQQ              | https://gitee.com/GJTQQ/Yuedu_SY/tree/master/BookSources     |
+|  8   | 阅读在线书源分享库 | [https://bookSources.github.io](https://booksources.github.io/) |
+
+
 
 ---
 
 ## 替换净化规则分享
 
-| 序号 | 概述            | 地址                                                         |
-| :--: | --------------- | :---------------------------------------------------- |
-|  1   | 乌云净化        | http://shuyuan.miaogongzi.net/shuyuan/1623087998.txt  |
-|  2   | GJTQQ           | https://gitlab.com/GJTQQ/YueDu/raw/master/Share/Rule.txt     |
-|  3   | schoolyears净化 | https://gitee.com/schoolyears_admin/codes/pg95f0xdzwhlm24r7ek3a100/raw?blob_name=exportReplaceRule.json |
+| 序号 | 贡献者及概述        | 地址                                                         |
+| :--: | ------------------- | ------------------------------------------------------------ |
+|  1   | 乌云 基础版净化规则 | http://shuyuan.miaogongzi.net/shuyuan/1623124621.txt         |
+|  2   | 乌云 完整版净化规则 | http://shuyuan.miaogongzi.net/shuyuan/1623087998.txt         |
+|  3   | GJTQQ 净化          | https://gitlab.com/GJTQQ/YueDu/raw/master/Share/Rule.txt     |
+|  4   | schoolyears 净化    | https://gitee.com/schoolyears_admin/codes/pg95f0xdzwhlm24r7ek3a100/raw?blob_name=exportReplaceRule.json |
 
 ---
 
 ## 订阅源(RSS)分享
 
-| 序号 | 概述         | 地址                                                         |
-| :--: | ------------ | :----------------------------------------------------------- |
-|  1   | 订阅源1      | http://yck.mumuceo.com/yuedu/rssyuan/jsons?id=765            |
-|  2   | 订阅源2      | http://yck.mumuceo.com/yuedu/rssyuan/jsons?id=472-441        |
-|  3   | 订阅源3      | http://shuyuan.miaogongzi.net/shuyuan/1619456819.json        |
-|  4   | r18订阅源    | http://shuyuan.miaogongzi.net/shuyuan/1618363759.json        |
-|  5   | ifwlzs订阅源 | https://cdn.jsdelivr.net/gh/ifwlzs/YueDuBackup@master/R18/R18RssSource.json |
+| 序号 | 贡献者及概述 | 地址                                                         |
+| :--: | ------------ | ------------------------------------------------------------ |
+|  1   | ifwlzs订阅源 | https://cdn.jsdelivr.net/gh/ifwlzs/YueDuBackup@master/R18/R18RssSource.json |
+|  2   | 订阅源1      | http://yck.mumuceo.com/yuedu/rssyuan/jsons?id=765            |
+|  3   | 订阅源2      | http://yck.mumuceo.com/yuedu/rssyuan/jsons?id=472-441        |
+|  4   | 订阅源3      | http://shuyuan.miaogongzi.net/shuyuan/1619456819.json        |
+
 
 ---
 
 ## 主题分享
 
-| 序号 | 概述       | 地址                                              |
-| :--: | ---------- | :------------------------------------------------ |
-|  1   | 源仓库     | http://yck.mumuceo.com/yuedu/theme/index.html     |
-|  2   | 酷安评论区 | https://www.coolapk.com/apk/io.legado.app.release |
-|  3   | 软件公众号 | legado-top                                        |
+| 序号 | 贡献者及概述 | 地址                                              |
+| :--: | ------------ | ------------------------------------------------- |
+|  1   | 源仓库       | http://yck.mumuceo.com/yuedu/theme/index.html     |
+|  2   | 酷安评论区   | https://www.coolapk.com/apk/io.legado.app.release |
+|  3   | 软件公众号   | legado-top                                        |
 
 ---
 
 ## 在线语音/朗读引擎(TTS)分享
 
-| 序号 | 概述                      | 地址                                                         |
-| :--: | ------------------------- | :----------------------------------------------------------- |
+| 序号 | 贡献者及概述              | 地址                                                         |
+| :--: | ------------------------- | ------------------------------------------------------------ |
 |  1   | 千仞雪                    | http://shuyuan.miaogongzi.net/shuyuan/1625432648.json        |
 |  2   | 乘风                      | http://shuyuan.miaogongzi.net/shuyuan/1620296316.txt         |
 |  3   | Ag2s20150909分享，微软TTS | https://cdn.jsdelivr.net/gh/ag2s20150909/TTS@master/release/ |
@@ -251,7 +259,7 @@
 
 ## 字体分享
 
-|序号|概述|地址|
+|序号|贡献者及概述|地址|
 |:--:|---|:----|
 |1|`不想守望的守望`的分享|https://www.aliyundrive.com/s/mgUahLVRTqa|
 |2|字体家|https://www.zitijia.com/|
@@ -266,7 +274,7 @@
 ---
 ## 异次元app 图源分享
 
-| 序号 | 概述  | 地址  |
+| 序号 | 贡献者及概述 | 地址  |
 | :--: | ---------------------- | :------------------------------------------------- |
 |  1   | 源仓库                 | http://yck.mumuceo.com/yiciyuan/tuyuan/index.html  |
 |  2   | 官方整理（2021.06.28） | https://654373.caihuajing.workers.dev/?code=654373 |
@@ -275,5 +283,5 @@
 ----
 
 <p align="right">Updata By ifwlzs</p>
-<p align="right">2021.07.11</p>
+<p align="right">2021.07.16</p>
 
