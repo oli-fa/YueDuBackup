@@ -3204,7 +3204,7 @@
     "bookSourceUrl": "http://www.120w.info",
     "customOrder": 0,
     "enabled": true,
-    "enabledExplore": false,
+    "enabledExplore": true,
     "lastUpdateTime": 0,
     "ruleBookInfo": {
       "coverUrl": "class.book-img@tag.img@src",
@@ -3240,7 +3240,7 @@
     "bookUrlPattern": "",
     "customOrder": 0,
     "enabled": true,
-    "enabledExplore": false,
+    "enabledExplore": true,
     "lastUpdateTime": 0,
     "loginUrl": "",
     "ruleBookInfo": {
@@ -3312,7 +3312,7 @@
     "bookUrlPattern": "",
     "customOrder": 0,
     "enabled": true,
-    "enabledExplore": false,
+    "enabledExplore": true,
     "lastUpdateTime": 1623680854251,
     "loginUrl": "",
     "ruleBookInfo": {
@@ -3742,6 +3742,83 @@
     "weight": 0
   },
   {
+    "bookSourceComment": "官网https://sehuatang.org/需vpn，缺长篇连载（https://sehuatang.org/book-category-2-1.html）",
+    "bookSourceGroup": "ifwlzs,R18",
+    "bookSourceName": "98堂(仅发现无长篇连载)",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://etertrrewe4wr.xyz/",
+    "bookUrlPattern": "",
+    "customOrder": 0,
+    "enabled": false,
+    "enabledExplore": true,
+    "exploreUrl": "============色花图片============::\n原创自拍区::/forum.php?mod=forumdisplay&fid=155&page={{page}}&backforums=1&mobile=2\n转贴自拍::/forum.php?mod=forumdisplay&fid=125&page={{page}}&backforums=1&mobile=2\n华人街拍区::/forum.php?mod=forumdisplay&fid=50&page={{page}}&backforums=1&mobile=2\n亚洲性爱::/forum.php?mod=forumdisplay&fid=48&page={{page}}&backforums=1&mobile=2\n欧美性爱::/forum.php?mod=forumdisplay&fid=49&page={{page}}&backforums=1&mobile=2\n卡通动漫::/forum.php?mod=forumdisplay&fid=117&page={{page}}&backforums=1&mobile=2\n============色花文学============::\n原创人生::/forum.php?mod=forumdisplay&fid=154&page={{page}}&backforums=1&mobile=2\n乱伦人妻::/forum.php?mod=forumdisplay&fid=135&page={{page}}&backforums=1&mobile=2\n青春校园::/forum.php?mod=forumdisplay&fid=137&page={{page}}&backforums=1&mobile=2\n武侠虚幻::/forum.php?mod=forumdisplay&fid=138&page={{page}}&backforums=1&mobile=2\n激情都市::/forum.php?mod=forumdisplay&fid=136&page={{page}}&backforums=1&mobile=2\n==========TXT小说下载==========::\n全部::/forum.php?mod=forumdisplay&fid=139&mobile=2&page={{page}}\n凌辱虐情::/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=673&mobile=2&page={{page}}\n玄幻武侠::/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=682&mobile=2&page={{page}}\n绿意盎然::/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=681&mobile=2&page={{page}}\n作者合集::/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=680&mobile=2&page={{page}}\n同人衍生::/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=679&mobile=2&page={{page}}\n历史古香::/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=678&mobile=2&page={{page}}\n青春校园::/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=677&mobile=2&page={{page}}\n女警英雄::/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=676&mobile=2&page={{page}}\n都市奇缘::/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=675&mobile=2&page={{page}}\n唯美纯爱::/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=674&mobile=2&page={{page}}",
+    "header": "{\"User-Agent\":\"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36 Edg/91.0.864.67\"\n}",
+    "lastUpdateTime": 1626542623834,
+    "loginUrl": "https://sehuatang.org/member.php?mod=logging&action=login&mobile=2",
+    "ruleBookInfo": {},
+    "ruleContent": {
+      "content": "class.message@html&&class.img_list@html&&class.box box_ex2 attach@tag.a@href"
+    },
+    "ruleExplore": {
+      "author": "//span[1]/span[1]/a/text()",
+      "bookList": "//div[@class=\"n5_htmk cl\"][position()>1]",
+      "bookUrl": "//p[1]/a/@href",
+      "intro": "class.summary@text",
+      "kind": "//*[@class=\"type fr\"]//a/text()",
+      "name": "//p[1]/a/text()"
+    },
+    "ruleSearch": {},
+    "ruleToc": {
+      "chapterList": "//*[@id=\"mescroll\"]||//*[@id=\"asc-list\"]/li",
+      "chapterName": "//h2/text()||//a/text()",
+      "chapterUrl": "tag.a@herf"
+    },
+    "searchUrl": "",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "需vpn,仅长篇连载",
+    "bookSourceGroup": "ifwlzs,R18",
+    "bookSourceName": "98堂(仅发现仅长篇连载)",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://sehuatang.org/",
+    "bookUrlPattern": "",
+    "customOrder": 0,
+    "enabled": false,
+    "enabledExplore": true,
+    "exploreUrl": "=========长篇连载总目录=========::/book-category-2-{{page}}.html\n乱伦人妻::/book-category-4-{{page}}.html\n凌辱感情::/book-category-8-{{page}}.html\n武侠玄幻::/book-category-9-{{page}}.html\n现代都市::/book-category-10-{{page}}.html",
+    "header": "{\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70\"}",
+    "lastUpdateTime": 1626545342764,
+    "loginUrl": "https://sehuatang.org/member.php?mod=logging&action=login",
+    "ruleBookInfo": {
+      "author": "class.book_title@tag.em@text",
+      "intro": "class.book_summary@text",
+      "kind": "",
+      "name": "class.book_title@tag.h1@text",
+      "tocUrl": "",
+      "wordCount": "class.book_att@tag.a.3@text"
+    },
+    "ruleContent": {
+      "content": "class.messagecontent@html"
+    },
+    "ruleExplore": {
+      "author": "class.author@text",
+      "bookList": "class.book_item",
+      "bookUrl": "class.title@href",
+      "intro": "class.summary@text",
+      "kind": "class.type@tag.a@text",
+      "name": "class.title@text"
+    },
+    "ruleSearch": {},
+    "ruleToc": {
+      "chapterList": "class.layui-col-md4",
+      "chapterName": "a@text",
+      "chapterUrl": "a@href"
+    },
+    "searchUrl": "",
+    "weight": 0
+  },
+  {
     "bookSourceComment": "①需要登录\n②vip章节为图片\n③图片章节请将翻页方式改成滚动\n\nBy天天gg+乃星补发现",
     "bookSourceGroup": "R18",
     "bookSourceName": "🔰书耽",
@@ -3853,7 +3930,7 @@
     "bookUrlPattern": "",
     "customOrder": 42,
     "enabled": true,
-    "enabledExplore": false,
+    "enabledExplore": true,
     "exploreUrl": "❀                         耽美闲情                       ❀::/thread.php?fid=117&search=all#tabA&page={{page}} \n\n 穿|架|重 ::/thread.php?fid=117&type=50&type=50#tabA&page={{page}}\n玄幻耽美::/thread.php?fid=117&type=50&type=47#tabA&page={{page}}\n现代耽美::/thread.php?fid=117&type=47&type=48#tabA&page={{page}}\n古代耽美::/thread.php?fid=117&type=48&type=51#tabA&page={{page}}\n校园耽美::/thread.php?fid=117&type=51&type=53#tabA&page={{page}}\n生子耽美::/thread.php?fid=117&type=53&type=54#tabA&page={{page}}\n军旅耽美::/thread.php?fid=117&type=54&type=928#tabA&page={{page}}\n百合耽美::/thread.php?fid=117&type=928&type=49#tabA&page={{page}}\n网游耽美::/thread.php?fid=117&type=49&type=52#tabA&page={{page}}\n其他耽美::/thread.php?fid=117&type=52&type=55#tabA&page={{page}}\n   精  华   ::/thread.php?fid=117&search=digest&page={{page}}\n                 ::\n\n❀                         青春言情                       ❀::/thread.php?fid=10&search=all#tabA&page={{page}}\n\n穿越重生::/thread.php?fid=10&type=19&type=19#tabA&page={{page}}\n都市言情::/thread.php?fid=10&type=19&type=16#tabA&page={{page}}\n架空玄幻::/thread.php?fid=10&type=16&type=20#tabA&page={{page}}\n古装言情::/thread.php?fid=10&type=20&type=18#tabA&page={{page}}\n青春校园::/thread.php?fid=10&type=18&type=17#tabA&page={{page}}\n女尊天下::/thread.php?fid=10&type=17&type=536#tabA&page={{page}}\n情感驿站::/thread.php?fid=10&type=536&type=15#tabA&page={{page}}\n黑帮总裁::/thread.php?fid=10&type=15&type=22#tabA&page={{page}}\n网游言情::/thread.php?fid=10&type=22&type=21#tabA&page={{page}}\n   精  华   ::/thread.php?fid=10&search=digest&page={{page}}\n                 ::\n                 ::\n\n❀                         轻松同人                       ❀::/thread.php?fid=191&search=all#tabA&page={{page}}\n\n B L 综漫::/thread.php?fid=191&search=all&type=649#tabA&page={{page}}\n B L 影视::/thread.php?fid=191&search=all&type=658#tabA&page={{page}}\n B L 真人::/thread.php?fid=191&search=all&type=659#tabA&page={{page}}\n B L 其他::/thread.php?fid=191&search=all&type=660#tabA&page={{page}}\n BG 综漫::/thread.php?fid=191&search=all&type=652#tabA&page={{page}}\n BG  动漫::/thread.php?fid=191&search=all&type=653#tabA&page={{page}}\n BG  影视::/thread.php?fid=191&search=all&type=654#tabA&page={{page}}\n BG 其他::/thread.php?fid=191&search=all&type=655#tabA&page={{page}}\n   轻  文   ::/thread.php?fid=191&type=655&type=547#tabA&page={{page}}\n   精  华   ::/thread.php?fid=191&search=digest&page={{page}\n                 ::\n                 ::",
     "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36\"\n}",
     "lastUpdateTime": 1623157317956,
@@ -3903,7 +3980,7 @@
     "bookSourceType": 1,
     "bookSourceUrl": "https://www.missevan.com",
     "customOrder": 45,
-    "enabled": false,
+    "enabled": true,
     "enabledExplore": true,
     "exploreUrl": "纯爱•全部::https://www.missevan.com/dramaapi/filter?filters=0_4_0_0_0&page={{page}}&order=1&page_size=20\n纯爱•现代::https://www.missevan.com/dramaapi/filter?filters=0_4_0_1_0&page={{page}}&order=1&page_size=20\n纯爱•古风::https://www.missevan.com/dramaapi/filter?filters=0_4_0_2_0&page={{page}}&order=1&page_size=20\n纯爱•民国::https://www.missevan.com/dramaapi/filter?filters=0_4_0_3_0&page={{page}}&order=1&page_size=20\n\n言情•全部::https://www.missevan.com/dramaapi/filter?filters=0_6_0_0_0&page={{page}}&order=1&page_size=20\n言情•现代::https://www.missevan.com/dramaapi/filter?filters=0_6_0_1_0&page={{page}}&order=1&page_size=20\n言情•古风::https://www.missevan.com/dramaapi/filter?filters=0_6_0_2_0&page={{page}}&order=1&page_size=20\n言情•民国::https://www.missevan.com/dramaapi/filter?filters=0_6_0_3_0&page={{page}}&order=1&page_size=20",
     "lastUpdateTime": 1623157331113,
@@ -3957,7 +4034,7 @@
     "bookSourceType": 1,
     "bookSourceUrl": "https://www.ximalaya.com/",
     "customOrder": 46,
-    "enabled": false,
+    "enabled": true,
     "enabledExplore": true,
     "exploreUrl": "❀                             广 播 剧                             ❀::https://www.ximalaya.com/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=\n 架 空 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=jiakong日韩::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=reci506\n 都 市 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=dushi\n 校 园 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=xiaoyuan\n 武 侠 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=wuxia\n 仙 侠 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=xianxia\n 奇 幻 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=qihuan\n 玄 幻 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=xuanhuan\n 科 幻 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=kehuan\n 悬 疑 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=xuanyi\n 推 理 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=tuili\n 历 史 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=lishi\n 职 场 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=zhichang\n 同 人 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=tongrenwen\n 游 戏 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=youxi\n 爆 笑 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=baoxiao\n 脑 洞 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=naodong\n 日 漫 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=riman\n 萌 系 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=mengxi\n 恋 爱 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=lianai\n 纯 爱 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=reci1367\n  玛 丽 苏  ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=malisu\n 霸道总裁 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=badaozongcai\n 虚拟偶像 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=xuniouxiang\n 现代言情 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=reci546\n 古风言情 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=reci52\n 画风清奇 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=huafengqingqi\n 民间故事 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=minjiangushi\n  全 年 龄  ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=reci54\n 有声漫画 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=reci1357\n 会员专区 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=reci1664\n 心动剧场 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=reci1660\n 国风剧场 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=reci1661\n 尖叫剧场 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=reci1662\n月上新周播剧::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=guangbojv&subcategory=reci1198\n            ::\n\n❀                             有 声 书                             ❀::https://www.ximalaya.com/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=\n\n 文 学 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=wenxue\n 生 活 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=shenghuo\n 教 材 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=jiaocai\n 经 典 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=jingdian\n 童 书 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=tongshu\n 成 长 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=lizhi\n 社 科 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=sheke\n 商 业 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=shangye\n外文 • 原版::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=yingwenyuanban\n期刊::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=qikanzazhi\n历史::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci234\n传记::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1692\n\n 网络小说 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1173\n 言情女生 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci231\n 悬疑推理 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci232\n 都市重生 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci235\n 历史纵横 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1195\n 仙侠幻想 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1196\n 豪门恋情 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1530\n 古风言情 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1531\n 宫闱宅斗 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1532\n 王牌强档 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1264\n 有声漫画 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1351\n 出版小说 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1359\n 女生最爱 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci346\n 男生最爱 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci348\n 免费精选 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1533\n 新品限免 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1477\n 会员上新 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1518\n 爆更小说 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1069\n\n QQ  阅读 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci22\n 读客图书 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci23\n 果麦文化 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci24\n 中信书院 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci646\n 博集新媒 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci26\n 磨铁阅读 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci394\n  蓝 狮 子  ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci419\n 华章图书 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci650\n 文学名著 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1157\n 历史专区 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1158\n 国学经典 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1159\n 历史经典 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1370\n 三体科幻 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1697\n 重磅新品 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1698\n\n 听书指南 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1449\n大家都在听::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1521\n大家都在追::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1529\n大剧必听榜::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1051\n会员有声小说::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1055\n畅销书-限时免费::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=youshengshu&subcategory=reci1693\n\n❀                               音   乐                               ❀::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue\n\n 古 风 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=gufeng\n 流 行 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=liuxing\n 欧 美 ::https://www.ximalaya.com/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=reci507\n 古  典 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=mr8t41\n 动 漫 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=anime\n 老 歌 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=reci117\n 翻 唱 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=reci125\n轻音乐::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=qingyinyue\n 日 韩 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=reci506\n 催 眠 ::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=reci322\n影视原声::/revision/category/queryCategoryPageAlbums?meta=&sort=0&page={{page}}&perPage=30&category=yinyue&subcategory=yingshiyuansheng\n       ::",
     "lastUpdateTime": 1623157335239,
