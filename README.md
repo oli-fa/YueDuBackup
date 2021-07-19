@@ -17,7 +17,8 @@
     * [一\.常规方法导入书源(包括网络导入，二维码导入，本地导入)](#一常规方法导入书源包括网络导入二维码导入本地导入)
     * [二\.常规方法导入替换净化源(包括网络导入，二维码导入，本地导入)](#二常规方法导入替换净化源包括网络导入二维码导入本地导入)
     * [三\.常规方法导入订阅源(RSS)(包括网络导入，二维码导入，本地导入)](#三常规方法导入订阅源rss包括网络导入二维码导入本地导入)
-    * [四\.规则订阅方式导入源(包括书源，订阅源，替换规则)](#四规则订阅方式导入源包括书源订阅源替换规则)
+    * [四\.纯文本方式导入源(包括书源，订阅源)](#四纯文本方式导入源包括书源订阅源)
+    * [五\.规则订阅方式导入源(包括书源，订阅源，替换规则)](#五规则订阅方式导入源包括书源订阅源替换规则)
 * [备份文件说明](#备份文件说明)
     * [2\.0版本](#20版本)
     * [3\.0前期版本(2021年之前？)](#30前期版本2021年之前)
@@ -32,6 +33,7 @@
 * [在线语音/朗读引擎(TTS)分享](#在线语音朗读引擎tts分享)
 * [字体分享](#字体分享)
 * [异次元app 图源分享](#异次元app-图源分享)
+* [书源校验工具](#书源校验工具)
 
 ---
 
@@ -153,10 +155,108 @@
 >
 >![调整要导入的订阅源，点击确定按钮](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718171859534.png)
 
+#### 四.纯文本方式导入源(包括书源，订阅源)
+
+>>纯文本方式导入书源
+>
+>1. 打开书源管理
+>
+>![打开书院管理](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719190648188.png)
+>
+>2. 点击【更多】–【新建书源】
+>
+>![点击【更多】–【新建书源】](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719190802475.png)
+>
+>3. 复制源文本后，点击【更多】–【粘贴源】，这里以下面的文本为例子
+>
+> ```json
+> {
+>     "bookSourceComment": "",
+>     "bookSourceName": "爱看书吧.cc",
+>     "bookSourceType": 0,
+>     "bookSourceUrl": "https:\/\/www.aikanshuba.cc\/",
+>     "customOrder": 0,
+>     "enabled": true,
+>     "enabledExplore": true,
+>     "lastUpdateTime": 1626329397893,
+>     "ruleBookInfo": {
+>         "author": "h3.1@text",
+>         "kind": "class.panel-body text-center info3@p.0@text## \\\/ 写作状态：.+",
+>         "lastChapter": "class.panel-body text-center info3@p.2@text",
+>         "name": "h1@text"
+>     },
+>     "ruleContent": {
+>         "content": "class.panel-body conten-body content-ext@html",
+>         "imageStyle": "full",
+>         "nextContentUrl": "text.下一页@a@href"
+>     },
+>     "ruleExplore": {},
+>     "ruleSearch": {
+>         "author": "tag.td.2@a@text",
+>         "bookList": "class.bookcon@tag.tr!0",
+>         "bookUrl": "tag.td.1@a@href",
+>         "name": "tag.td.1@a@text"
+>     },
+>     "ruleToc": {
+>         "chapterList": "class.list-group list-charts@tag.li@a",
+>         "chapterName": "text",
+>         "chapterUrl": "href"
+>     },
+>     "searchUrl": "https:\/\/www.aikanshuba.cc\/modules\/article\/search.php,{\n'charset': 'gbk',\n'method': 'POST',\n'body': 'searchkey={{key}}',\n'headers': {\n    'User-Agent': ''\n    }\n}",
+>     "weight": 0
+> }
+> ```
+>
+>![点击【更多】–【粘贴源】](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719191245299.png)
+>
+> 4. 点击保存
+>
+>![点击保存](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719191348841.png)
+>
+>>纯文本方式导入订阅源
+>
+>1. 打开订阅的设置
+>
+>![打开订阅的设置](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719191632767.png)
+>
+>2. 点击【更多】–【新建订阅源】
+>
+>![点击【更多】–【新建订阅源】](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719191759740.png)
+>
+>3. 复制源文本后，点击【更多】–【粘贴源】，这里以下面的文本为例子
+>
+>```json
+>{
+>    "articleStyle": 0,
+>    "customOrder": 1204,
+>    "enableJs": true,
+>    "enabled": true,
+>    "loadWithBaseUrl": true,
+>    "ruleArticles": "th.new",
+>    "ruleContent": "class.t_fsz@all##id=\".*\" aid=\".*\" src=\".*\" zoomfile|file##src",
+>    "ruleImage": "img@src",
+>    "ruleLink": "tag.a.2@href",
+>    "ruleNextPage": "page",
+>    "rulePubDate": "p@text",
+>    "ruleTitle": "{{@@tag.a.1@text}}~{{@@tag.a.2@text}}",
+>    "singleUrl": false,
+>    "sortUrl": "精品软件区::https:\/\/www.52pojie.cn\/forum-16-{{page}}.html\n精品安卓软件::https:\/\/www.52pojie.cn\/forum.php?mod=forumdisplay&fid=16&typeid=232&filter=typeid&typeid=232&page={{page}}\n精品电脑软件::https:\/\/www.52pojie.cn\/forum.php?mod=forumdisplay&fid=16&typeid=231&filter=typeid&typeid=231&page={{page}}\n原创发布区::https:\/\/www.52pojie.cn\/forum-2-{{page}}.html\n脱壳破解区::https:\/\/www.52pojie.cn\/forum-5-{{page}}.html\n移动安全区::https:\/\/www.52pojie.cn\/forum-65-{{page}}.html\n软件调试区::https:\/\/www.52pojie.cn\/forum-59-{{page}}.html\n编程语言区::https:\/\/www.52pojie.cn\/forum-24-{{page}}.html\n动画发布区::https:\/\/www.52pojie.cn\/forum-6-{{page}}.html\n逆向资源区::https:\/\/www.52pojie.cn\/forum-4-{{page}}.html\n悬赏问答区::https:\/\/www.52pojie.cn\/forum-8-{{page}}.html\n病毒分析区::https:\/\/www.52pojie.cn\/forum-32-{{page}}.html\n病毒救援区::https:\/\/www.52pojie.cn\/forum-50-{{page}}.html\n安全工具区::https:\/\/www.52pojie.cn\/forum-41-{{page}}.html",
+>    "sourceComment": "本订阅源由꧁hack꧂帮忙编写，是已被源仓库木木删除了的绝版订阅源，(除了 class.  . 正常写法是本人写的，其他的 @js $. @css: \/\/ ## : 等写法都由大佬帮忙编写)，没有大佬的帮忙，就没有本订阅源(十分感谢大佬，大佬辛苦了)，(本人不对本订阅源数据+内容负责，仅做研究订阅源之用，如果你到处传播，数据失效+内容失效+开启验证，你口才好，可以找大佬修复哦>小嘴要甜如蜜)",
+>    "sourceGroup": "",
+>    "sourceIcon": "",
+>    "sourceName": "吾爱破解论坛",
+>    "sourceUrl": "https:\/\/www.52pojie.cn\/forum-16-{{page}}.html"
+>}
+>```
+>
+>![【更多】–【粘贴源】](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719192002313.png)
+>
+>4. 点击保存
+>
+>![点击保存](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719192047683.png)
 
 
-
-#### 四.规则订阅方式导入源(包括书源，订阅源，替换规则)
+#### 五.规则订阅方式导入源(包括书源，订阅源，替换规则)
 
 优点：适用于**长期更新**且**链接长期有效**的源地址（例如github和gitee分享的源）
 
@@ -361,7 +461,17 @@
 |  3   | 公众号                 | yiciyuanapp  |
 
 ----
+## 书源校验工具
 
+自制校验辅助工具。使用效果如图：
+
+![运行界面](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719202643842.png)
+
+源码地址：https://github.com/ifwlzs/YueDuBackup/tree/master/Tool/checkBookSource.py
+
+exe下载地址：https://github.com/ifwlzs/YueDuBackup/tree/master/Tool/checkBookSource.exe
+
+---
 <p align="right">Update By ifwlzs</p>
-<p align="right">2021.07.18</p>
+<p align="right">2021.07.19</p>
 
