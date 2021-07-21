@@ -311,7 +311,7 @@ https://www.yuque.com/legado/wiki
 
 >| 序号 | 文件名               | 文件包含的内容（个人猜测）                   | 在库中? |
 >| :--: | :------------------- | :------------------------------------------- | :------ |
->|  1   | bookGroup.json       | 书源分组信息                                 | √       |
+>|  1   | bookGroup.json       | 书源分组信息                                 |         |
 >|  2   | bookSource.json      | 书源                                         | √       |
 >|  3   | bookshelf.json       | 书架信息                                     |         |
 >|  4   | config.xml           | 软件配置                                     |         |
