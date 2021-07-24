@@ -101,19 +101,19 @@ https://www.yuque.com/legado/wiki
 
 >以`网络导入`为例，`二维码导入`，`本地导入`导入步骤相同
 >
->1. 打开**`我的`**界面，选择**`书源管理`**选项
+>1. 打开【我的】界面，选择【书源管理】选项
 >
 >![打开我的界面，选择书源管理选项](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718164149577.png)
 >
->2. 打开更多，选择`网络导入`
+>2. 打开【更多】，选择【网络导入】
 >
 >![打开更多，选择网络导入](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718164216119.png)
 >
->3. 粘贴书源地址，点击确定
+>3. 粘贴书源地址，点击【确定】
 >
 >![粘贴书源地址，点击确定](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718164621359.png)
 >
->4. 调整要导入的书源，点击确定按钮
+>4. 调整要导入的书源，点击【确定】按钮
 >
 >![调整要导入的书源，点击确定按钮](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718164754670.png)
 
@@ -121,19 +121,19 @@ https://www.yuque.com/legado/wiki
 
 >以`网络导入`为例，`二维码导入`，`本地导入`导入步骤相同
 >
->1. 打开**`我的`**界面，选择**`替换净化`**选项
+>1. 打开【我的】界面，选择【替换净化】选项
 >
 >![打开我的界面，选择替换净化选项](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718171012097.png)
 >
->2. 打开更多，选择`网络导入`
+>2. 打开【更多】，选择【网络导入】
 >
 >![打开更多，选择网络导入](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718171130944.png)
 >
->3. 粘贴书源地址，点击确定
+>3. 粘贴书源地址，点击【确定】
 >
 >![粘贴书源地址，点击确定](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718171153472.png)
 >
->4. 点击确定按钮
+>4. 点击【确定】按钮
 >
 >![点击确定按钮](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718171320694.png)
 
@@ -141,19 +141,19 @@ https://www.yuque.com/legado/wiki
 
 >以网络导入为例：
 >
->1. 打开**`订阅`**界面，选择**`更多`**选项
+>1. 打开【订阅】界面，选择【更多】选项
 >
 >![打开订阅界面，选择更多选项](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718171440626.png)
 >
->2. 打开更多，选择`网络导入`
+>2. 打开【更多】，选择【网络导入】
 >
 >![打开更多，选择网络导入](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718171523781.png)
 >
->3. 粘贴书源地址，点击确定
+>3. 粘贴书源地址，点击【确定】
 >
 >![粘贴书源地址，点击确定](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718171828587.png)
 >
->4. 调整要导入的订阅源，点击确定按钮
+>4. 调整要导入的订阅源，点击【确定】按钮
 >
 >![调整要导入的订阅源，点击确定按钮](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718171859534.png)
 
@@ -161,7 +161,7 @@ https://www.yuque.com/legado/wiki
 
 >>纯文本方式导入书源
 >
->1. 打开书源管理
+>1. 打开【书源管理】
 >
 >![打开书院管理](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719190648188.png)
 >
@@ -211,13 +211,13 @@ https://www.yuque.com/legado/wiki
 >
 >![点击【更多】–【粘贴源】](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719191245299.png)
 >
-> 4. 点击保存
+> 4. 点击【保存】
 >
 >![点击保存](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719191348841.png)
 >
 >>纯文本方式导入订阅源
 >
->1. 打开订阅的设置
+>1. 打开【订阅的设置】
 >
 >![打开订阅的设置](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719191632767.png)
 >
@@ -243,7 +243,7 @@ https://www.yuque.com/legado/wiki
 >    "ruleTitle": "{{@@tag.a.1@text}}~{{@@tag.a.2@text}}",
 >    "singleUrl": false,
 >    "sortUrl": "精品软件区::https:\/\/www.52pojie.cn\/forum-16-{{page}}.html\n精品安卓软件::https:\/\/www.52pojie.cn\/forum.php?mod=forumdisplay&fid=16&typeid=232&filter=typeid&typeid=232&page={{page}}\n精品电脑软件::https:\/\/www.52pojie.cn\/forum.php?mod=forumdisplay&fid=16&typeid=231&filter=typeid&typeid=231&page={{page}}\n原创发布区::https:\/\/www.52pojie.cn\/forum-2-{{page}}.html\n脱壳破解区::https:\/\/www.52pojie.cn\/forum-5-{{page}}.html\n移动安全区::https:\/\/www.52pojie.cn\/forum-65-{{page}}.html\n软件调试区::https:\/\/www.52pojie.cn\/forum-59-{{page}}.html\n编程语言区::https:\/\/www.52pojie.cn\/forum-24-{{page}}.html\n动画发布区::https:\/\/www.52pojie.cn\/forum-6-{{page}}.html\n逆向资源区::https:\/\/www.52pojie.cn\/forum-4-{{page}}.html\n悬赏问答区::https:\/\/www.52pojie.cn\/forum-8-{{page}}.html\n病毒分析区::https:\/\/www.52pojie.cn\/forum-32-{{page}}.html\n病毒救援区::https:\/\/www.52pojie.cn\/forum-50-{{page}}.html\n安全工具区::https:\/\/www.52pojie.cn\/forum-41-{{page}}.html",
->    "sourceComment": "本订阅源由꧁hack꧂帮忙编写，是已被源仓库木木删除了的绝版订阅源，(除了 class.  . 正常写法是本人写的，其他的 @js $. @css: \/\/ ## : 等写法都由大佬帮忙编写)，没有大佬的帮忙，就没有本订阅源(十分感谢大佬，大佬辛苦了)，(本人不对本订阅源数据+内容负责，仅做研究订阅源之用，如果你到处传播，数据失效+内容失效+开启验证，你口才好，可以找大佬修复哦>小嘴要甜如蜜)",
+>    "sourceComment": "",
 >    "sourceGroup": "",
 >    "sourceIcon": "",
 >    "sourceName": "吾爱破解论坛",
@@ -264,21 +264,49 @@ https://www.yuque.com/legado/wiki
 
 缺点：**阅读2.0及阅读3.0前期版本不适用**
 
->1. 打开**`订阅`**界面，选择**`规则订阅`**选项
+>1. 打开【订阅】界面，选择【规则订阅】选项
 >
 >![打开订阅界面，选择规则订阅选项](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718164913767.png)
 >
->2. 在弹框中，选择要添加的类型，填写名称，url。最后点确定
+>2. 在弹框中，选择要添加的【类型】，填写【名称】，【url】。最后点【确定】
 >
 >![选择要添加的类型，填写名称，url](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718165523665.png)
 >
->3. 点击刚添加的订阅。即可导入对应的源
+>3. 点击【刚添加的订阅】。即可导入对应的源
 >
 >![点击刚添加的订阅。即可导入对应的源](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718165720247.png)
 >
->4. 调整要导入的源，点击确定按钮
+>4. 调整要导入的源，点击【确定】按钮
 >
 >![调整要导入的源，点击确定按钮](https://gitee.com/ifwlzs/img/raw/master/img/image-20210718165918670.png)
+
+#### 6.导入TTS源(包括本地导入和网络导入)
+
+本地导入方法同理，这里用网络导入做示范
+
+>1. 打开【书籍界面】，调出【菜单页面】，打开【朗读】
+>
+>![打开朗读](https://gitee.com/ifwlzs/img/raw/master/img/image-20210724102233258.png)
+>
+>2. 打开【朗读设置】
+>
+>![朗读设置](https://gitee.com/ifwlzs/img/raw/master/img/image-20210724102418971.png)
+>
+>3. 点击【朗读引擎】
+>
+>![朗读引擎](https://gitee.com/ifwlzs/img/raw/master/img/image-20210724102523692.png)
+>
+>4. 打开【更多】-选择导入方式，这里我选择网络导入
+>
+>![导入方式](https://gitee.com/ifwlzs/img/raw/master/img/image-20210724102640972.png)
+>
+>5. 输入网址后，点击【确定】
+>
+>![image-20210724102748836](https://gitee.com/ifwlzs/img/raw/master/img/image-20210724102748836.png)
+>
+>6. 选择【音源】后点击【确定】退出界面
+>
+>![选择音源](https://gitee.com/ifwlzs/img/raw/master/img/image-20210724102918204.png)
 
 ------
 
@@ -465,7 +493,7 @@ https://www.yuque.com/legado/wiki
 ----
 ## 书源校验工具
 
-自制校验辅助工具。使用效果如图：
+自制校验辅助工具【仅根据自己电脑网络状态判断】**校验后，仅保留状态码为200的书源**。软件界面如图：
 
 ![运行界面](https://gitee.com/ifwlzs/img/raw/master/img/image-20210719202643842.png)
 
@@ -475,5 +503,5 @@ exe下载地址：https://github.com/ifwlzs/YueDuBackup/tree/master/Tool/checkBo
 
 ---
 <p align="right">Update By ifwlzs</p>
-<p align="right">2021.07.19</p>
+<p align="right">2021.07.24</p>
 
