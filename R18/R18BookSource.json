@@ -12391,6 +12391,54 @@
     "weight": 0
   },
   {
+    "bookSourceComment": "",
+    "bookSourceGroup": "ifwlzs,R18,漫画",
+    "bookSourceName": "夜色韩漫",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.yeseimg.com",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "热门推荐::https://www.yeseimg.com/tag?keyword=%E7%83%AD%E9%97%A8%E6%8E%A8%E8%8D%90\n最近更新::https://www.yeseimg.com/tag?keyword=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0",
+    "lastUpdateTime": 1627088867599,
+    "ruleBookInfo": {
+      "author": "class.author@text",
+      "coverUrl": "class.bg@tag.img@src",
+      "intro": "class.body@text",
+      "kind": "class.item.0@tag.a@text",
+      "name": "class.title@text"
+    },
+    "ruleContent": {
+      "content": "class.read-article@html",
+      "webJs": ""
+    },
+    "ruleExplore": {
+      "author": "class.author@text",
+      "bookList": "class.item",
+      "bookUrl": "class.link@href",
+      "coverUrl": "class.cover@class.lazy@src",
+      "intro": "class.text@text",
+      "name": "class.title@text"
+    },
+    "ruleSearch": {
+      "author": "class.author@text",
+      "bookList": "class.item",
+      "bookUrl": "class.link@href",
+      "coverUrl": "class.cover@class.lazy@src",
+      "intro": "class.text@text",
+      "kind": "",
+      "name": "class.title@text",
+      "wordCount": ""
+    },
+    "ruleToc": {
+      "chapterList": "class.item",
+      "chapterName": "tag.a@title",
+      "chapterUrl": "tag.a@href"
+    },
+    "searchUrl": "https://www.yeseimg.com/tag?keyword={{key}}",
+    "weight": 0
+  },
+  {
     "bookSourceComment": "生前风光卢老爷",
     "bookSourceGroup": "R18",
     "bookSourceName": "御宅书屋(电脑版)",

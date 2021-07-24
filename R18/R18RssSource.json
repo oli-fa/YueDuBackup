@@ -1,7 +1,7 @@
 [
   {
     "articleStyle": 0,
-    "customOrder": -18473,
+    "customOrder": -18476,
     "enableJs": true,
     "enabled": true,
     "header": "{\"User-Agent\":\"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36 Edg/91.0.864.67\"\n}",
@@ -142,7 +142,7 @@
     "sortUrl": "精品图集::https://www.rjgpuj28ar9u6fmf.com/home/piclist/25/1046-{{page}}.html\n欧美风情::https://www.rjgpuj28ar9u6fmf.com/home/piclist/25/1047-{{page}}.html\n亚洲情色::https://www.rjgpuj28ar9u6fmf.com/home/piclist/25/1048-{{page}}.html\n性爱自拍::https://www.rjgpuj28ar9u6fmf.com/home/piclist/25/1049-{{page}}.html\n成人动漫::https://www.rjgpuj28ar9u6fmf.com/home/piclist/25/1050-{{page}}.html\n美腿丝袜::https://www.rjgpuj28ar9u6fmf.com/home/piclist/25/1051-{{page}}.html\n唯美写真::https://www.rjgpuj28ar9u6fmf.com/home/piclist/25/1052-{{page}}.html\n人体艺术::https://www.rjgpuj28ar9u6fmf.com/home/piclist/25/1053-{{page}}.html\n都市情感::https://www.rjgpuj28ar9u6fmf.com/home/textlist/25/1055-{{page}}.html\n人妻熟女::https://www.rjgpuj28ar9u6fmf.com/home/textlist/25/1056-{{page}}.html\n玄幻武侠::https://www.rjgpuj28ar9u6fmf.com/home/textlist/25/1057-{{page}}.html\n另类其它::https://www.rjgpuj28ar9u6fmf.com/home/textlist/25/1058-{{page}}.html\n明星校园::https://www.rjgpuj28ar9u6fmf.com/home/textlist/25/1059-{{page}}.html\n家庭乱伦::https://www.rjgpuj28ar9u6fmf.com/home/textlist/25/1060-{{page}}.html\n成人小说::https://www.rjgpuj28ar9u6fmf.com/home/textlist/25/1061-{{page}}.html\n暴力虐待::https://www.rjgpuj28ar9u6fmf.com/home/textlist/25/1062-{{page}}.html",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://avatars.githubusercontent.com/u/49548316",
-    "sourceName": "52AVAV图文",
+    "sourceName": "52∧∨图文",
     "sourceUrl": "https://www.rjgpuj28ar9u6fmf.com"
   },
   {
@@ -163,7 +163,7 @@
     "sourceComment": "永久地址:52AVAV.com",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://avatars.githubusercontent.com/u/49548316",
-    "sourceName": "52AVAV图片频道",
+    "sourceName": "52∧∨图片频道",
     "sourceUrl": "https://www.5jg6awtnneb78spk.com/"
   },
   {
@@ -378,7 +378,7 @@
     "enabled": true,
     "loadWithBaseUrl": false,
     "ruleArticles": "class.list-group@a",
-    "ruleContent": "class.panel-body@text",
+    "ruleContent": "class.panel-body.1@html<js>doc=org.jsoup.Jsoup.parse(result);doc.select('nav').remove();doc.html()</js>",
     "ruleLink": "a@href",
     "ruleNextPage": "page",
     "rulePubDate": "span@text",
