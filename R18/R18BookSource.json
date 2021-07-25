@@ -232,7 +232,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💳鲸云轻小说API",
     "bookSourceType": 0,
     "bookSourceUrl": "https://jyapi.jyacg.com",
@@ -280,7 +280,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🐾SCP基金会🐾",
     "bookSourceType": 0,
     "bookSourceUrl": "http://scp-wiki-cn.wikidot.com",
@@ -321,7 +321,7 @@
   },
   {
     "bookSourceComment": "只看楼主\n◎编辑书籍详情页，在简介内容填上 【只看楼主】  保存，刷新书籍页（有已缓存的正文记得正文也要刷新）\n◎内容只有楼主发帖，无作者名时间等\n\n去空行\n◎层与层之间有一行空行，不想要空行的话\n◎就在书籍详情页的简介内容填上【去空行】\n◎只看楼主跟去空行随便怎么写，写对字就行\n\n\n发现规则url\n贴吧名::https://tieba.baidu.com/mo/q/m?word=贴吧名（不要写吧字）&page_from_search=index&tn6=bdISP&tn4=bdKSW&tn7=bdPSB&lm=16842752&lp=6093&sub4=%E8%BF%9B%E5%90%A7&pn={{(page-1)*30}}",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🐾 百度贴吧 🐾",
     "bookSourceType": 0,
     "bookSourceUrl": "https://tieba.baidu.com",
@@ -374,7 +374,7 @@
   },
   {
     "bookSourceComment": "                    \"error:Timed out waiting for 180000 ms\n                    \"error:Timed out waiting for 180000 ms\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🐣POPO原创市集🐣",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.x8txt.com",
@@ -413,7 +413,7 @@
   },
   {
     "bookSourceComment": "搜索地址容易挂，可以在网站搜索更改",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "📃奇书网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.cnziyuan.com",
@@ -458,7 +458,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼 晋江文学",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.jjwxc.net。。。",
@@ -508,7 +508,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "⚡晋江文学城",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.jjwxc.net/#time",
@@ -567,7 +567,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💰晋江",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.jjwxc.net/",
@@ -626,7 +626,7 @@
   },
   {
     "bookSourceComment": "①仅搜索书名和作者\n②搜索链接中的searchType指排序方式，1积分，2更新时间，3发表时间，4字数，5收藏，7相关性，默认为7\n③本书源参考了酷安用户@乃星 @关耳010225 所分享的书源，以及2月23日源仓库用户Ｏ。分享的“晋江文学”书源，由酷安用户@viviyaaa 修改，分享请注明出处。",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💠晋江",
     "bookSourceType": 0,
     "bookSourceUrl": "晋江：APP搜索 纯爱/无cp标签",
@@ -685,7 +685,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "BL文学网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.blwenx.com",
@@ -717,7 +717,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "耽美小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.guichew.com",
@@ -757,7 +757,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "耽美小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.yxyxt.com",
@@ -795,7 +795,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "📗亲小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.qinxiaoshuo.com#",
@@ -841,7 +841,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🎈 临高启明同人",
     "bookSourceType": 0,
     "bookSourceUrl": "http://lgqm.huijiwiki.com/wiki/同人作品列表",
@@ -876,7 +876,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🎈 sf轻小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://book.sfacg.com",
@@ -909,7 +909,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🎈 不可能的世界™",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.8kana.com",
@@ -944,7 +944,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🎈 SF轻小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.sfacg.com",
@@ -976,7 +976,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍑 美文网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.fushuwang365.com",
@@ -1012,7 +1012,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍑 小小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.xiaoxs.com",
@@ -1048,7 +1048,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍑 新世纪",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.2100xs.com",
@@ -1098,7 +1098,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍒 king小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.kingho.net",
@@ -1135,7 +1135,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍒 言情小说阁",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.xianqihaotianmi.com",
@@ -1199,7 +1199,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍒 玄葫堂②",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.xuanhutang.com",
@@ -1237,7 +1237,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍒 静苪小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.jruqcg.com",
@@ -1276,7 +1276,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍒 汝慕小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.rmipoz.com",
@@ -1315,7 +1315,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💗 凤凰小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.fhxsz.com",
@@ -1368,7 +1368,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 吾爱耽美",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.52dmshu.com",
@@ -1433,7 +1433,7 @@
   },
   {
     "bookSourceComment": "                    \"error:Timed out waiting for 180000 ms\n                    error:timeout\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 鲤鱼乡②",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.liyuxiangbl.com",
@@ -1483,7 +1483,7 @@
   },
   {
     "bookSourceComment": "天域战歌",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💗 七九小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.79xs.cc",
@@ -1520,7 +1520,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💗 胡须小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.huxuxs.com",
@@ -1559,7 +1559,7 @@
   },
   {
     "bookSourceComment": "\"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 鲤鱼乡123",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.liyuxiang123.com",
@@ -1607,7 +1607,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💗 海棠书屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.swin10.net",
@@ -1656,7 +1656,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💗 33言情网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.33yq.com",
@@ -1711,7 +1711,7 @@
   },
   {
     "bookSourceComment": "疯狂的蜗牛",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🐳神凑轻",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.shencou.com",
@@ -1751,7 +1751,7 @@
   },
   {
     "bookSourceComment": "                    \"error:Timed out waiting for 180000 ms\n                    \"error:timeout\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌸 256",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.256zw.com",
@@ -1783,7 +1783,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "秋日蝉",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.ztgauntong.com/",
@@ -1832,7 +1832,7 @@
   },
   {
     "bookSourceComment": "haxc",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "御书屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.3322t.com",
@@ -1882,7 +1882,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "御书房",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.ysfwx.com",
@@ -1921,7 +1921,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍑 腐小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.fxshu.org/🐤",
@@ -1987,7 +1987,7 @@
   },
   {
     "bookSourceComment": "笛寄明月楼",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍹 三九书屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.sanjiushuwu.com/",
@@ -2025,7 +2025,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔰晋江文学",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.jjwxc.net，，",
@@ -2071,7 +2071,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "镇魂小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.zhenhunxiaoshuo.com",
@@ -2109,7 +2109,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌁 老猫小说#乃星",
     "bookSourceType": 0,
     "bookSourceUrl": "https://api.laomaoxs.com#乃星",
@@ -2163,7 +2163,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "正版：晋江发现",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.jjwxc.net发现",
@@ -2209,7 +2209,7 @@
   },
   {
     "bookSourceComment": "qd♥♥♥",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "卡诺提",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.popoxs.com",
@@ -2249,7 +2249,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "饭饭小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.ffxs8.com",
@@ -2288,7 +2288,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "  b🎉铅笔小说#玄奇 bak",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.x23qb.com#玄奇",
@@ -2327,7 +2327,7 @@
   },
   {
     "bookSourceComment": "haxc",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "蛋文库",
     "bookSourceType": 0,
     "bookSourceUrl": "http://wap.danwenku.com",
@@ -2371,7 +2371,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🍺 饭饭中文",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.fanfanzw.com",
@@ -2425,7 +2425,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "寒武纪年",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.hanwujinian.com/riku",
@@ -2477,7 +2477,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🎈轻之文库#温暖满怀",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.linovel.net#温暖满怀",
@@ -2513,7 +2513,7 @@
   },
   {
     "bookSourceComment": "\"error:timeout\nJJ♥♥ QD♥♥♥  17K♥♥ \"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌸燃文小说💙💙💙",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.ranwen.la#乃星111",
@@ -2550,7 +2550,7 @@
   },
   {
     "bookSourceComment": "\"error:SSL handshake timed out\n无搜索\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "a🎈轻之文库▪榜单▪国内轻文💙搜索不可用",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.linovel.net#嘚嘚21.0201",
@@ -2601,7 +2601,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "  a🎈神凑轻小说▪日轻💜💜#一程 无图",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.shencou.com#一程edit",
@@ -2652,7 +2652,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🎐轻之文库🌱",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.linovel.net/",
@@ -2687,7 +2687,7 @@
   },
   {
     "bookSourceComment": "                    \"error:Timed out waiting for 180000 ms\n                                        \"error:Timed out waiting for 180000 ms\n                    error:timeout\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆⭐饭饭小说ffxs.info",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.ffxs.info",
@@ -2742,7 +2742,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🤶🏻 PO脸红⑥",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.po18vip.me",
@@ -2787,7 +2787,7 @@
   },
   {
     "bookSourceComment": "by不世玄奇+乃星改",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼起点女频",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.qidian.com#🌸",
@@ -2848,7 +2848,7 @@
   },
   {
     "bookSourceComment": "①可搜索文章名、作者名、主角配角名和其它关键字里包含该关键字的文章，搜索结果按作品收藏数排序，不局限于书名或作者\n②发现的标签均为言情，且标签很多，可自行增删改，只要链接是晋江网页版的就行\n③搜索和发现里显示的书籍封面为晋江默认封面，所以封面地址都删了，只留了详情页的正确封面\n④详情页没有灌溉和霸王票排名，需要的可根据关耳小姐姐的源加上\n⑤正文默认替换作话的感谢投食\n⑥本书源基于2.23源仓库用户Ｏ。分享的书源“晋江文学”，根据酷安@关耳010225和@乃星的3.1更新的书源美化\n    by viviyaaa",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼晋江【言情】",
     "bookSourceType": 0,
     "bookSourceUrl": "强迫症专用，记得看注释（搜索）",
@@ -2900,7 +2900,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔰晋江app",
     "bookSourceType": 0,
     "bookSourceUrl": "http://android.jjwxc.net作者",
@@ -2943,7 +2943,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫夜伴书屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.yeban360.com",
@@ -2990,7 +2990,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫读书网🌱⭐💢部分缺章",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.dushuw.net",
@@ -3046,7 +3046,7 @@
   },
   {
     "bookSourceComment": "//备用站https://blpopo.vip\n//加载比较慢",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🎫POPO原创🔥书耽🏮⚔️⚜️女💕百🌱",
     "bookSourceType": 0,
     "bookSourceUrl": "https://wap.popo.city",
@@ -3103,7 +3103,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏮腐书宅.fushuzhai1.cc⚔️耽⚜️女💕百🔫男",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.fushuzhai.cc",
@@ -3160,7 +3160,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏮腐书宅.fushuzhai1.com⚔️耽⚜️女💕百🔫男",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.fushuzhai.com",
@@ -3217,7 +3217,7 @@
   },
   {
     "bookSourceComment": "                    \"error:failed to connect to www.wanmeitxt.com/2001::6ca0:aa33 (port 443) after 15000ms\n                                        \"error:failed to connect to www.wanmeitxt.com/2001::1f0d:4c63 (port 443) after 15000ms\n                    \"error:failed to connect to www.wanmeitxt.com/2001::caa0:80d2 (port 443) after 15000ms\n\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫夜伴书屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.yeban360.com/",
@@ -3263,7 +3263,7 @@
   },
   {
     "bookSourceComment": "关键字必须6至20个",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫笔仙阁⭐💢部分缺章",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.bixiange.me",
@@ -3312,7 +3312,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫我的书城",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.3wwd.com/",
@@ -3372,7 +3372,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫话本小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.ihuaben.com",
@@ -3429,7 +3429,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫番茄小说app",
     "bookSourceType": 0,
     "bookSourceUrl": "https://novel.snssdk.com",
@@ -3488,7 +3488,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🦓 十八书屋 🦓",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.18shuwu.com",
@@ -3539,7 +3539,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🦓 笔 趣 飒 🦓",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.biqusa.com/",
@@ -3589,7 +3589,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🦄 轮回小说 🦄",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.9xs.org",
@@ -3630,7 +3630,7 @@
   },
   {
     "bookSourceComment": "                    \"error:List is empty.\n                                        \"error:List is empty.\n                    error:List is empty.\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🦄 饭饭论坛 🦄",
     "bookSourceType": 0,
     "bookSourceUrl": "https://bbs.fanfanq.com",
@@ -3677,7 +3677,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🕊晋江文学城🕊",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.jjwxc.net/channel/index/",
@@ -3741,7 +3741,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🕊️ 寒武纪年 🕊️",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.hanwujinian.com",
@@ -3796,7 +3796,7 @@
   },
   {
     "bookSourceComment": "                    \"error:timeout\n                    error:failed to connect to wap.rousewu.net/104.233.136.101 (port 443) from /192.168.0.101 (port 50358) after 15000ms\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏮肉色屋①⚔️耽⚜️女",
     "bookSourceType": 0,
     "bookSourceUrl": "https://wap.rousewu.net",
@@ -3834,7 +3834,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💳晋江文学城耽美🏵️分类",
     "bookSourceType": 0,
     "bookSourceUrl": "http://android.jjwxc.net",
@@ -3874,7 +3874,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏮红人小说⚔️耽⚜️女💕百🔫男",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.hongrenxs.com",
@@ -3918,7 +3918,7 @@
   },
   {
     "bookSourceComment": "可看防盗后的晋江新更新☆耽美★言情",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫易成小说ecnovel💢部分防盗",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.ecnovel.com",
@@ -3970,7 +3970,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫宝来小说网m.baolaishiye⭐💢",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.baolaishiye.com",
@@ -4020,7 +4020,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫玫瑰言情网mgyqw",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.mgyqw.com",
@@ -4060,7 +4060,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫玫瑰小说m-zu",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.m-zu.com",
@@ -4103,7 +4103,7 @@
   },
   {
     "bookSourceComment": "获取到的网站目录不稳定，目录完整，但获取有困难，需多次刷新。作为备用叭。",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫婷阅小说⭐💢有更新时间目录不稳定m.tyue.net",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.tyue.net",
@@ -4153,7 +4153,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫优书网🌱仅发现",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.yousuu.com",
@@ -4191,7 +4191,7 @@
   },
   {
     "bookSourceComment": "                    \"error:failed to connect to m.sczprc.com/143.92.48.142 (port 443) after 15000ms\n                                        \"error:SSL handshake aborted: ssl=0x7f63ba2580: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f5cc84400: I/O error during system call, Connection reset by peer\n                                        \"error:timeout\n                    error:搜索内容为空并且没有发现\n\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫伤城中文网②",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.sczprc.com",
@@ -4232,7 +4232,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫22k小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.22k.org",
@@ -4272,7 +4272,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫久久小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.ijjxsw.com",
@@ -4312,7 +4312,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫有兔·女生",
     "bookSourceType": 0,
     "bookSourceUrl": "http://app.youzibank.com/nvsheng",
@@ -4348,7 +4348,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫360文学网①",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.360wxw.com",
@@ -4404,7 +4404,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫第九中文网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.xin9book.com",
@@ -4443,7 +4443,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫久久小说下载网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.txt909.org",
@@ -4482,7 +4482,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫千读网qiandu9⭐💢部分缺",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.qiandu9.com",
@@ -4523,7 +4523,7 @@
   },
   {
     "bookSourceComment": "                    \"error:List is empty.\n                    error:List is empty.\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫饭饭论坛bbs.fanfanq.com",
     "bookSourceType": 0,
     "bookSourceUrl": "https://bbs.fanfanq.com/",
@@ -4572,7 +4572,7 @@
   },
   {
     "bookSourceComment": "                    \"error:List is empty.\n                    error:List is empty.\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫饭饭论坛bbs.fanfanq.com",
     "bookSourceType": 0,
     "bookSourceUrl": "https://bbs.fanfanq.com##发现",
@@ -4626,7 +4626,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫BL文网m.wenkuw9",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.wenkuw9.com",
@@ -4663,7 +4663,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫耽美小说dmxs.me",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.dmxs.me/",
@@ -4705,7 +4705,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫16号书库as16",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.as16.com",
@@ -4749,7 +4749,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫米阅miyuesf",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.miyuesf.com",
@@ -4790,7 +4790,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫爱灵异ailingyi",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.ailingyi.com",
@@ -4832,7 +4832,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫耽美网m.danmei.cloud",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.danmei.cloud/s.php",
@@ -4867,7 +4867,7 @@
   },
   {
     "bookSourceComment": "                    \"error:List is empty.\n                                        \"error:List is empty.\n                                        \"error:List is empty.\n                                        \"error:正文内容为空\n                                        \"error:List is empty.\n                    error:List is empty.\n\"\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫风华居fenghuaju.cc",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.fenghuaju.cc",
@@ -4914,7 +4914,7 @@
   },
   {
     "bookSourceComment": "coolapk@芜恙",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫CP文库cpwenku",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.cpwenku.com#bookbox",
@@ -4953,7 +4953,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫凤鸣轩hambzx",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.hambzx.com",
@@ -5004,7 +5004,7 @@
   },
   {
     "bookSourceComment": "                    \"error:List is empty.\n                    error:List is empty.\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫饭饭文学bbs.fanfanq",
     "bookSourceType": 0,
     "bookSourceUrl": "https://bbs.fanfanq.com/#",
@@ -5053,7 +5053,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫言情中文网m.bore.cc",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.bore.cc",
@@ -5093,7 +5093,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫52书库52shuku.me",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.52shuku.me",
@@ -5140,7 +5140,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫汝慕小说m.rmipoz",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.rmipoz.com/",
@@ -5183,7 +5183,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫都市言情dsyq.org",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.dsyq.org",
@@ -5222,7 +5222,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫言情wap.yqshuwang",
     "bookSourceType": 0,
     "bookSourceUrl": "https://wap.yqshuwang.com",
@@ -5264,7 +5264,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫九桃小说m.9txs",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.9txs.com",
@@ -5308,7 +5308,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫九桃小说9txs.org",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.9txs.org##发现",
@@ -5353,7 +5353,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫无限小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.61ww.com",
@@ -5392,7 +5392,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫微风小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.wfxs.tw",
@@ -5432,7 +5432,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫566小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.maodouxs.com",
@@ -5470,7 +5470,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫无限小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.txt97.com",
@@ -5508,7 +5508,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫171小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.171xs.cc",
@@ -5543,7 +5543,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫卡夜阁⑵kayege.net⭐💢部分缺",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.kayege.net/",
@@ -5596,7 +5596,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫新丝路文学网m.xunsilu.com⭐💢",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.xunsilu.com",
@@ -5635,7 +5635,7 @@
   },
   {
     "bookSourceComment": "                    \"error:timeout\n                                        \"error:null\n                                        \"error:timeout\n                    \"error:null\n\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫当小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.downxs.com",
@@ -5675,7 +5675,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫无限小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.555x.org",
@@ -5715,7 +5715,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫久久小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.jjxsxzw.com/",
@@ -5763,7 +5763,7 @@
   },
   {
     "bookSourceComment": "                    \"error:json string can not be null or empty\n                    \"error:json string can not be null or empty\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫开阅小说API",
     "bookSourceType": 0,
     "bookSourceUrl": "http://new.kyxsapp.com",
@@ -5818,7 +5818,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫指尖阅读API",
     "bookSourceType": 0,
     "bookSourceUrl": "https://zjyd.danmofun.com",
@@ -5874,7 +5874,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫四零二零",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.wrlwx.com",
@@ -5923,7 +5923,7 @@
   },
   {
     "bookSourceComment": "                    \"error:failed to connect to www.shg.tw/195.245.241.9 (port 443) after 15000ms\n                                        \"error:SSL handshake aborted: ssl=0x7fa1c74d80: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f4af65900: I/O error during system call, Connection reset by peer\n                    \"error:Content cannot be null\n\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫书海阁",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.shg.tw",
@@ -5969,7 +5969,7 @@
   },
   {
     "bookSourceComment": "本书源大部分书无第一章，从第二章开始",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫闲书API💢无第一章",
     "bookSourceType": 0,
     "bookSourceUrl": "https://api.cym666.net",
@@ -6015,7 +6015,7 @@
   },
   {
     "bookSourceComment": "                    \"error:null\n                                        \"error:timeout\n                                        \"error:null\n                    \"error:null\n\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫多多书院",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.txtduo.com",
@@ -6058,7 +6058,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫诺哈nuoha⭐💤部分慢",
     "bookSourceType": 0,
     "bookSourceUrl": "https://nuoha.com",
@@ -6103,7 +6103,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫美文网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.fushuwang365.com/",
@@ -6139,7 +6139,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "💫腐小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.jiqinw.com",
@@ -6204,7 +6204,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️七七读书",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.77dushu.com",
@@ -6244,7 +6244,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️路人书🏮⚔️耽",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.lurenshuwx.com",
@@ -6282,7 +6282,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️爱下电子书",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.ixdzs.com",
@@ -6323,7 +6323,7 @@
   },
   {
     "bookSourceComment": "                    \"error:timeout\n                    error:搜索内容为空并且没有发现\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️七八中文",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.jxleiyuan.com",
@@ -6362,7 +6362,7 @@
   },
   {
     "bookSourceComment": "                    \"error:SSL handshake timed out\n                    error:搜索内容为空并且没有发现\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️飘天文学piaotian.org",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.piaotian.org",
@@ -6405,7 +6405,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️斋书苑⑵zhaishuyuan.org",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.zhaishuyuan.org#冷魅",
@@ -6461,7 +6461,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️斋书苑⑷sckaichi",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.sckaichi.com/",
@@ -6511,7 +6511,7 @@
   },
   {
     "bookSourceComment": "备用https://www.zhaishuyuan.co",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️斋书苑⑴zhaishuyuan.org",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.zhaishuyuan.org#一程",
@@ -6577,7 +6577,7 @@
   },
   {
     "bookSourceComment": "\n",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️斋书苑⑶m.zhaishuyuan.org",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.zhaishuyuan.org",
@@ -6629,7 +6629,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️天籁小说bsm-china",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.bsm-china.com/",
@@ -6672,7 +6672,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️天籁小说23txt",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.23txt.com/",
@@ -6725,7 +6725,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️无敌小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.bashuku.com",
@@ -6764,7 +6764,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️88读书⑹fenxbook",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.fenxbook.com",
@@ -6800,7 +6800,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️88读书⑸m.fenxbook",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.fenxbook.com",
@@ -6838,7 +6838,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️82k小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.82k.org",
@@ -6876,7 +6876,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️科源小说m.kybook",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.kybook.com",
@@ -6916,7 +6916,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️天籁小说m.tianlaixsw.org⭐💢部分缺",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.tianlaixsw.org",
@@ -6973,7 +6973,7 @@
   },
   {
     "bookSourceComment": "                    \"error:正文内容为空\n                                        \"error:timeout\n                                        \"error:正文内容为空\n                    error:搜索内容为空并且没有发现\n\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️爱下电子书",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.aixdzs.com",
@@ -7013,7 +7013,7 @@
   },
   {
     "bookSourceComment": "细节优化",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️jiaston",
     "bookSourceType": 0,
     "bookSourceUrl": "https://kuaiapi.jiaston.com/",
@@ -7055,7 +7055,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️新八一中文网81new.net",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.81new.net",
@@ -7093,7 +7093,7 @@
   },
   {
     "bookSourceComment": "                    \"error:timeout\n                                        \"error:Expected URL scheme 'http' or 'https' but was 'javascript'\n                    \"error:Timed out waiting for 180000 ms\n\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️5Z中文5zzw",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.5zzw.com",
@@ -7136,7 +7136,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️九九读书🌱⭐💢部分缺章",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.jjwdushu.com",
@@ -7192,7 +7192,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️白鹿小说⭐💢部分缺章",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.bailuxs.com",
@@ -7248,7 +7248,7 @@
   },
   {
     "bookSourceComment": "                    \"error:SSL handshake aborted: ssl=0x7f7415d580: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f5759de00: I/O error during system call, Connection reset by peer\n                    \"error:SSL handshake aborted: ssl=0x7f5de28600: I/O error during system call, Connection reset by peer\n\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️宙斯小说⭐💢部分缺章",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.zhousixs.com",
@@ -7304,7 +7304,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️阅读书吧⭐💢部分缺章",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.yshuoba.com",
@@ -7360,7 +7360,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️心情小说⭐💢部分缺章",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.xinqingxs.com",
@@ -7416,7 +7416,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️彩虹文学⭐💢部分缺章",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.caihongwenxue.com",
@@ -7472,7 +7472,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏷️爱下电子书",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.aixdzs.com",
@@ -7516,7 +7516,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆88读书网baka.cc",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.baka.cc",
@@ -7555,7 +7555,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆2K小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.2kzw.cc",
@@ -7594,7 +7594,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆2K小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://wwww.2kxs.org",
@@ -7633,7 +7633,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆360文学m.360wxw",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.360wxw.com",
@@ -7673,7 +7673,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆南派三叔nanpaisanshu.org",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.nanpaisanshu.org",
@@ -7708,7 +7708,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆398小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.398xs.com",
@@ -7748,7 +7748,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆16k中文",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.16kzw.com",
@@ -7788,7 +7788,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆中文阅读网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.zwydw.com",
@@ -7827,7 +7827,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆笔下文学",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.bxwx.co",
@@ -7867,7 +7867,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆27KK小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.27kk.net",
@@ -7907,7 +7907,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆89文学网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.89wxw.com",
@@ -7947,7 +7947,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆爱心999",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.ax999.org",
@@ -7985,7 +7985,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆酷文小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.kuwenxs.com",
@@ -8025,7 +8025,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆六毛阅读",
     "bookSourceType": 0,
     "bookSourceUrl": "https://wap.6mzw.com",
@@ -8064,7 +8064,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆六毛中文",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.6mzw.com",
@@ -8102,7 +8102,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆书迷阁",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.eshu.cc",
@@ -8142,7 +8142,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆长沙小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.csxsrc.com",
@@ -8183,7 +8183,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆63小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.63xs.org",
@@ -8221,7 +8221,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆墨雪moxue99",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.moxue99.com",
@@ -8261,7 +8261,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆燃文小说m.ranwen52000",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.ranwen52000.com",
@@ -8301,7 +8301,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆书朋小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.shupengwang.com",
@@ -8339,7 +8339,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔆新热门小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.rmxsba.com",
@@ -8379,7 +8379,7 @@
   },
   {
     "bookSourceComment": "                    \"error:SSL handshake aborted: ssl=0x7f5b317680: I/O error during system call, Connection reset by peer\n                                        \"error:timeout\n                    error:搜索内容为空并且没有发现\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "♻️53中文网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.wusanzw.com",
@@ -8418,7 +8418,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "♻️书朋小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.shupengwang.com",
@@ -8458,7 +8458,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "♻️138小说网wap.138txt",
     "bookSourceType": 0,
     "bookSourceUrl": "https://wap.138txt.com",
@@ -8497,7 +8497,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "♻️八戒中文m.biquka",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.biquka.com",
@@ -8537,7 +8537,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "♻️灯笔小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.dengbi.cc",
@@ -8577,7 +8577,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "♻️36书房网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.x36sfw.com",
@@ -8614,7 +8614,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "♻️138小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.138txt.com",
@@ -8652,7 +8652,7 @@
   },
   {
     "bookSourceComment": "                    \"error:failed to connect to www.ckxsw.com/180.215.193.150 (port 443) after 15000ms\n                                        \"error:SSL handshake aborted: ssl=0x7f65661980: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f5b318f80: I/O error during system call, Connection reset by peer\n                                        \"error:timeout\n                    error:搜索内容为空并且没有发现\n\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "♻️创客小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.ckxsw.com",
@@ -9411,47 +9411,48 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "R18,漫画",
-    "bookSourceName": "🎨 久久漫画 🔞",
+    "bookSourceGroup": "R18,ifwlzs,漫画",
+    "bookSourceName": "久久漫画",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.ikanwzd.top",
     "customOrder": -1971,
-    "enabled": true,
+    "enabled": false,
     "enabledExplore": true,
     "exploreUrl": "连载::https://www.ikanwzd.top/booklist?tag=%E5%85%A8%E9%83%A8&area=-1&end=0&page={{page}}\n完结::https://www.ikanwzd.top/booklist?tag=%E5%85%A8%E9%83%A8&area=-1&end=1&page={{page}}",
-    "header": "",
-    "lastUpdateTime": 1602093786067,
+    "header": "{\"User-Agent\":\"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36 Edg/91.0.864.67\"\n}",
+    "lastUpdateTime": 1627191747304,
     "loginUrl": "",
     "ruleBookInfo": {
-      "author": "class.subtitle.1@text##作者.",
-      "coverUrl": "class.cover@src",
-      "intro": "class.content@tag.span.1@text",
-      "kind": "class.tip.0@tag.span.1@text&&class.tip.0@tag.a@text&&class.tip.1@tag.a@text&&class.tip.0@tag.span.3@text##更新时间.",
+      "author": "detail-main-info-author.1@tag.a@text",
+      "coverUrl": "class.lazy@src",
+      "intro": "class.detail-main-info-class@text",
+      "kind": "class.detail-main-info-class@tag.span@tag.a@text",
       "lastChapter": "id.detail-list-select@tag.a.-1@text",
-      "name": "class.info@tag.h1@text"
+      "name": "class.detail-main-info-title@text"
     },
     "ruleContent": {
-      "content": "class.lazy@html##src.*\\\"\n@js:result.replace(/data-original/g,\"src\")",
+      "content": "class.lazy@html##data-original##src",
       "imageStyle": "FULL",
       "replaceRegex": ""
     },
     "ruleExplore": {
       "author": "",
-      "bookList": "class.mh-item",
-      "bookUrl": "tag.a.1@href",
-      "coverUrl": "class.mh-cover@style@js:result.match(/\\((.*)\\)/)[1]",
+      "bookList": "class.manga-list-2@li",
+      "bookUrl": "class.manga-list-2-title@tag.a@href",
+      "coverUrl": "class.manga-list-2-cover@tag.img@data-original",
       "kind": "",
-      "lastChapter": "tag.a.2@text",
-      "name": "tag.a.1@text"
+      "lastChapter": "class.manga-list-2-tip@tag.a@text",
+      "name": "class.manga-list-2-title@text"
     },
     "ruleSearch": {
       "author": "",
-      "bookList": "class.mh-item",
+      "bookList": "class.manga-list-2@li",
       "bookUrl": "tag.a.1@href",
       "coverUrl": "class.mh-cover@style@js:result.match(/\\((.*)\\)/)[1]",
       "intro": "",
       "kind": "tag.a.2@text",
-      "name": "tag.a.1@text"
+      "lastChapter": "class.manga-list-2-tip@tag.a@text",
+      "name": "class.manga-list-2-title@text"
     },
     "ruleToc": {
       "chapterList": "id.detail-list-select@tag.li",
@@ -12142,7 +12143,7 @@
   },
   {
     "bookSourceComment": "💡APP源，仅搜索书名和作者，搜索链接中的searchType指排序方式，1积分，2更新时间，3发表时间，4字数，5收藏，7相关性，默认为7\n\n💡发现里的其他书架需要登录才能获取\n\n💡【所有书架】获取APP里的所有书架 \n     分类标签为 完结/连载+书架名称+书籍标签\n\n💡我的收藏里的其他标签是个人的分类书架，可以删除 或自行抓包获取自己的书架，具体教程看 酷安@乃星 主页\n\n💡收藏时间/更新时间为晋江网页版收藏\n\n💡默认删除作话的感谢投雷\n\nby 酷安 @关耳010225 @乃星 @viviyaaa \n分享注明出处",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼晋江",
     "bookSourceType": 0,
     "bookSourceUrl": "晋江APP源，请看注释",
@@ -12201,7 +12202,7 @@
   },
   {
     "bookSourceComment": "①需要登录\n②vip章节为图片\n③图片章节请将翻页方式改成滚动\n\nBy天天gg+乃星补发现",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️书耽小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.shubl.com",
@@ -12266,7 +12267,7 @@
   },
   {
     "bookSourceComment": "千仞云大佬的书源合集",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼晋江文学城",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.jjwxc.net##time",
@@ -12330,7 +12331,7 @@
   },
   {
     "bookSourceComment": "增加了详情页简介的一句话简介，立意",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼晋江文学",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.jjwxc.net#发现",
@@ -12392,7 +12393,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "ifwlzs,R18,漫画",
+    "bookSourceGroup": "R18,ifwlzs,漫画",
     "bookSourceName": "夜色韩漫",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.yeseimg.com",
@@ -12400,7 +12401,7 @@
     "enabled": true,
     "enabledExplore": true,
     "exploreUrl": "热门推荐::https://www.yeseimg.com/tag?keyword=%E7%83%AD%E9%97%A8%E6%8E%A8%E8%8D%90\n最近更新::https://www.yeseimg.com/tag?keyword=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0",
-    "lastUpdateTime": 1627088867599,
+    "lastUpdateTime": 1627128155331,
     "ruleBookInfo": {
       "author": "class.author@text",
       "coverUrl": "class.bg@tag.img@src",
@@ -12416,7 +12417,7 @@
       "author": "class.author@text",
       "bookList": "class.item",
       "bookUrl": "class.link@href",
-      "coverUrl": "class.cover@class.lazy@src",
+      "coverUrl": "class.lazy@data-original",
       "intro": "class.text@text",
       "name": "class.title@text"
     },
@@ -12436,6 +12437,93 @@
       "chapterUrl": "tag.a@href"
     },
     "searchUrl": "https://www.yeseimg.com/tag?keyword={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "R18,ifwlzs,漫画",
+    "bookSourceName": "漫画857",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://www.mh857.cn/index.php",
+    "bookUrlPattern": "",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "男频::/index.php/category/list/1/page/{{page}}\n女频::/index.php/category/list/2/page/{{page}}\n彩虹::/index.php/category/list/3/page/{{page}}\n恋爱::/index.php/category/tags/6/page/{{page}}\n伦理::/index.php/category/tags/7/page/{{page}}\n异能::/index.php/category/tags/8/page/{{page}}\n悬疑::/index.php/category/tags/9/page/{{page}}\n恐怖::/index.php/category/tags/10/page/{{page}}\n都市::/index.php/category/tags/11/page/{{page}}\n热血::/index.php/category/tags/12/page/{{page}}\n福利::/index.php/category/tags/13/page/{{page}}\n校园::/index.php/category/tags/13/page/{{page}}\n穿越::/index.php/category/tags/14/page/{{page}}\n玄幻::/index.php/category/tags/15/page/{{page}}\n古风::/index.php/category/tags/16/page/{{page}}",
+    "header": "",
+    "lastUpdateTime": 1627132623096,
+    "loginUrl": "",
+    "ruleBookInfo": {
+      "author": "class.name@text",
+      "coverUrl": "class.de-info__cover@tag.img@src",
+      "intro": "class.intro-total@text",
+      "kind": "class.text@tag.a",
+      "lastChapter": "class.update-time@text",
+      "name": "class.comic-title j-comic-title@text"
+    },
+    "ruleContent": {
+      "content": "class.rd-article-wr clearfix@html"
+    },
+    "ruleExplore": {
+      "bookList": "class.common-comic-item",
+      "bookUrl": "class.comic__title@tag.a@href",
+      "coverUrl": "class.cover@tag.img@data-original",
+      "intro": "class.comic-feature@text",
+      "lastChapter": "class.hl@text",
+      "name": "class.comic__title@text"
+    },
+    "ruleSearch": {
+      "bookList": "class.common-comic-item",
+      "bookUrl": "class.comic__title@tag.a@href",
+      "coverUrl": "class.cover@tag.img@data-original",
+      "intro": "class.comic-feature@text",
+      "lastChapter": "class.hl@text",
+      "name": "class.comic__title@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.chapter__list-box clearfix@tag.li",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href"
+    },
+    "searchUrl": "/index.php/search/{{key}}/{{page}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "R18",
+    "bookSourceName": "禁漫天堂2🔞",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://18comic2.art",
+    "bookUrlPattern": "",
+    "customOrder": 1,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "最新::https://18comic2.art/albums?o=mr\n热门::https://18comic2.art/albums?o=mv\n最新A漫::https://18comic2.art/albums?o=mr\n同人::https://18comic2.art/albums/doujin\n单本::https://18comic2.art/albums/single\n短篇::https://18comic2.art/albums/short\n其他::https://18comic2.art/albums/another\n韩漫::https://18comic2.art/albums/hanman\n美漫::https://18comic2.art/albums/meiman\nCosplay::https://18comic2.art/albums/doujin/sub/cosplay\n3D::https://18comic2.art/search/photos?search_query=3D\n总排行::https://18comic2.art/albums?o=mv\n月排行::https://18comic2.art/albums?t=m&o=mv\n周排行::https://18comic2.art/albums?o=mv&t=w\nday排行::https://18comic2.art/albums?o=mv&t=t\n劇情向::https://18comic2.art/search/photos?search_query=劇情向\n校園::https://18comic2.art/search/photos?search_query=校園\n純愛::https://18comic2.art/search/photos?search_query=純愛\n人妻::https://18comic2.art/search/photos?search_query=人妻\n師生::https://18comic2.art/search/photos?search_query=師生\n亂倫::https://18comic2.art/search/photos?search_query=亂倫\n百合::https://18comic2.art/search/photos?search_query=百合\nBL::https://18comic2.art/search/photos?search_query=YAOI\n性轉換::https://18comic2.art/search/photos?search_query=性轉換\nNTR::https://18comic2.art/search/photos?search_query=NTR\n偽娘::https://18comic2.art/search/photos?search_query=偽娘\n癡女::https://18comic2.art/search/photos?search_query=癡女\n全彩::https://18comic2.art/search/photos?search_query=全彩\n女性向::https://18comic2.art/search/photos?search_query=女性向\n蘿莉::https://18comic2.art/search/photos?search_query=蘿莉\n御姐::https://18comic2.art/search/photos?search_query=御姐\n熟女::https://18comic2.art/search/photos?search_query=熟女\n正太::https://18comic2.art/search/photos?search_query=正太\n巨乳::https://18comic2.art/search/photos?search_query=巨乳\n貧乳::https://18comic2.art/search/photos?search_query=貧乳\n女王::https://18comic2.art/search/photos?search_query=女王\n教師::https://18comic2.art/search/photos?search_query=教師\n女僕::https://18comic2.art/search/photos?search_query=女僕\n護士::https://18comic2.art/search/photos?search_query=護士\n泳裝::https://18comic2.art/search/photos?search_query=泳裝\n眼鏡::https://18comic2.art/search/photos?search_query=眼鏡\n連褲襪::https://18comic2.art/search/photos?search_query=連褲襪\n其他制服::https://18comic2.art/search/photos?search_query=其他制服\n兔女郎::https://18comic2.art/search/photos?search_query=兔女郎\n群交::https://18comic2.art/search/photos?search_query=群交\n足交::https://18comic2.art/search/photos?search_query=足交\nSM::https://18comic2.art/search/photos?search_query=SM\n肛交::https://18comic2.art/search/photos?search_query=肛交\n阿黑顏::https://18comic2.art/search/photos?search_query=阿黑顏\n藥物::https://18comic2.art/search/photos?search_query=藥物\n扶他::https://18comic2.art/search/photos?search_query=扶他\n調教::https://18comic2.art/search/photos?search_query=調教\n野外露出::https://18comic2.art/search/photos?search_query=野外露出\n催眠::https://18comic2.art/search/photos?search_query=催眠\n自慰::https://18comic2.art/search/photos?search_query=自慰\n觸手::https://18comic2.art/search/photos?search_query=觸手\n獸交::https://18comic2.art/search/photos?search_query=獸交\n亞人::https://18comic2.art/search/photos?search_query=亞人\n魔物::https://18comic2.art/search/photos?search_query=魔物\nCG集::https://18comic2.art/search/photos?search_query=CG集\n重口::https://18comic2.art/search/photos?search_query=重口\n獵奇::https://18comic2.art/search/photos?search_query=獵奇\n非H::https://18comic2.art/search/photos?search_query=非H\n血腥暴力::https://18comic2.art/search/photos?search_query=血腥暴力\nnull",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36 Edg/85.0.564.68\"\n}",
+    "lastUpdateTime": 1627194134682,
+    "loginUrl": "",
+    "ruleBookInfo": {
+      "author": "class.btn btn-sm btn-primary@text",
+      "coverUrl": "class.lazy_img img-responsive@src",
+      "intro": "class.p-t-5 p-b-5@text"
+    },
+    "ruleContent": {
+      "content": "class.lazy_img img-responsive-mw@html"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "bookList": "class.row@class.col-xs-6 col-sm-6 col-md-4 col-lg-3 list-col",
+      "bookUrl": "class.well well-sm@tag.a@href",
+      "coverUrl": "class.thumb-overlay-albums@tag.img@data-original&&class.thumb-overlay@tag.img.0@data-original",
+      "kind": "class.title-truncate@tag.a@text",
+      "name": "class.video-title title-truncate m-t-5@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.col-lg-7@tag.div.2@class.episode@class.btn-toolbar @tag.a&&class.col btn btn-primary dropdown-toggle reading",
+      "chapterName": "tag.li@text",
+      "chapterUrl": "href"
+    },
+    "searchUrl": "https://18comic2.art/search/photos?search_query={{key}}&main_tag=0&page={{page}}",
     "weight": 0
   },
   {
@@ -16107,7 +16195,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 耽美",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.danmeiwang.com",
@@ -16160,7 +16248,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 甜梦文",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.tmxs.net",
@@ -16209,7 +16297,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 肉色屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.rousewu.in",
@@ -16250,7 +16338,7 @@
   },
   {
     "bookSourceComment": "https://wap.popo.city",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 肉书屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.roushuwu7.com",
@@ -16307,7 +16395,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 BL文网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.wenkuw99.com",
@@ -16348,7 +16436,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 BL文库",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.blwenku123.com",
@@ -16404,7 +16492,7 @@
   },
   {
     "bookSourceComment": "                    \"error:正文内容为空\n                    \"error:正文内容为空\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 365富书",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.fushuwang365.com",
@@ -16458,7 +16546,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 lesbl腐书",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.lesbl.com",
@@ -16513,7 +16601,7 @@
   },
   {
     "bookSourceComment": "搜索间隔3秒",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 鲤鱼乡",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.bimo123.com",
@@ -16552,7 +16640,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 鲤鱼乡①",
     "bookSourceType": 0,
     "bookSourceUrl": "http://awubooks.com",
@@ -16591,7 +16679,7 @@
   },
   {
     "bookSourceComment": "\"error:Timed out waiting for 180000 ms\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 鲤鱼乡②",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.liyuxiangbl.com",
@@ -16641,7 +16729,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 福书网①",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.fushuu.in",
@@ -16687,7 +16775,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 福书网②",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.fushucun.com",
@@ -16729,7 +16817,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 耽美书斋",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.dmshuzhai.com",
@@ -16771,7 +16859,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 耽美书包",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.shubao1.cc",
@@ -16822,7 +16910,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 就要耽美",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.521danmei.org",
@@ -16876,7 +16964,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 爱他小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.hiaita.com",
@@ -16931,7 +17019,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 同人小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.trxs.org",
@@ -16985,7 +17073,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 耽美小说①",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.88danmei.net",
@@ -17040,7 +17128,7 @@
   },
   {
     "bookSourceComment": "//备用网站http://www.dmxs.org\n//搜索间隔时间不能少于10秒",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🔥 耽美小说②",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.dmxs.me",
@@ -17944,7 +18032,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️米国度",
     "bookSourceType": 0,
     "bookSourceUrl": "https://myrics.com",
@@ -17992,7 +18080,7 @@
   },
   {
     "bookSourceComment": "\"error:正文内容为空\n需登录\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️青花鱼",
     "bookSourceType": 0,
     "bookSourceUrl": "https://allcp.net",
@@ -18037,7 +18125,7 @@
   },
   {
     "bookSourceComment": "                    \"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n                    \"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼兔九三",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.tu93.com",
@@ -18082,7 +18170,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️耽美书网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://wap.dmshuwang.org",
@@ -18122,7 +18210,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼百合小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.baihexs.com",
@@ -18163,7 +18251,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️耽美小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.88danmei.com",
@@ -18208,7 +18296,7 @@
   },
   {
     "bookSourceComment": "                    \"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n                                        \"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n                                        \"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n                                        \"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n                                        \"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n                                        \"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n                    error:unexpected end of stream on http://www.fanqianxs.com/...\n\"\"\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼番茄小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.fqxs.org",
@@ -18245,7 +18333,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️落宅屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.lazhaiwu.com",
@@ -18284,7 +18372,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼256文学",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.256wxc.com",
@@ -18321,7 +18409,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼晋江文学城",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.jjwxc.net/",
@@ -18380,7 +18468,7 @@
   },
   {
     "bookSourceComment": "\"error:正文内容为空\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️360小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.360xs.com",
@@ -18438,7 +18526,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️海棠书屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://haitang123.tv",
@@ -18482,7 +18570,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️海棠搜书",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.haitangsoushu.com/",
@@ -18521,7 +18609,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️新御宅屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.hdt99.net",
@@ -18577,7 +18665,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️海棠书房",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.yuzhaiwula.com",
@@ -18621,7 +18709,7 @@
   },
   {
     "bookSourceComment": "                    \"error:timeout\n                    \"error:timeout\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️脸红心跳",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.po18.xyz",
@@ -18672,7 +18760,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️少数派文库",
     "bookSourceType": 0,
     "bookSourceUrl": "https://sspwenku.com",
@@ -18716,7 +18804,7 @@
   },
   {
     "bookSourceComment": "                    \"error:timeout\n                    目录加载失败的书是因为原网址的目录列表为空，请转原网址阅读。\n\n自制\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️脸红心跳文学",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.po18wx.com",
@@ -18762,7 +18850,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼斋书苑",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.zhaishuyuan.org/",
@@ -18816,7 +18904,7 @@
   },
   {
     "bookSourceComment": "需要调字距",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️魔爪小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.mozhua2.com",
@@ -18881,7 +18969,7 @@
   },
   {
     "bookSourceComment": "\"error:SSL handshake aborted: ssl=0x7f72c49100: I/O error during system call, Connection reset by peer\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️卡夜阁阁",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.kayege.net",
@@ -18921,7 +19009,7 @@
   },
   {
     "bookSourceComment": "\"error:SSL handshake aborted: ssl=0x7f609aee80: I/O error during system call, Connection reset by peer\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️看书君君",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.kanshujun.cc",
@@ -18959,7 +19047,7 @@
   },
   {
     "bookSourceComment": "\"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️99看书吧",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.99shuba.com",
@@ -18996,7 +19084,7 @@
   },
   {
     "bookSourceComment": "\"error:SSL handshake aborted: ssl=0x7f71df2200: I/O error during system call, Connection reset by peer\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️52书库房",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.52shuku.vip",
@@ -19031,7 +19119,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️笔趣宝宝",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.biqubao.com",
@@ -19071,7 +19159,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️有兔阅读",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.mituyuedu.com",
@@ -19107,7 +19195,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️EE小说网②",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.zwda.com",
@@ -19146,7 +19234,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️八一中文②",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.81zw.net",
@@ -19184,7 +19272,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️龙坛书网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.ltsw888.com",
@@ -19222,7 +19310,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️中网文学",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.zwwx.com",
@@ -19261,7 +19349,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️EE小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.exiaoshuo.com",
@@ -19300,7 +19388,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️81中文网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.81zw.com",
@@ -19340,7 +19428,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️修笔小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.xiubi.net",
@@ -19377,7 +19465,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️追书网网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.biquya.com",
@@ -19417,7 +19505,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️八戒中文",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.biquka.com/",
@@ -19471,7 +19559,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️官术网网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.3dllc.com",
@@ -19511,7 +19599,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️八一中文",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.81zw.org",
@@ -19549,7 +19637,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️龙坛书网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.longtanshuwang.com",
@@ -19587,7 +19675,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️久久小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.99xs.net",
@@ -19627,7 +19715,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️1982小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.19826.net",
@@ -19666,7 +19754,7 @@
   },
   {
     "bookSourceComment": "\"error:正文内容为空\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️石头阅读",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.jiaodafu.net",
@@ -19703,7 +19791,7 @@
   },
   {
     "bookSourceComment": "\"error:List is empty.\n天域战歌整理\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️看书吧",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.kanshu8.net",
@@ -19741,7 +19829,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️三千小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.3000xs.com/",
@@ -19790,7 +19878,7 @@
   },
   {
     "bookSourceComment": "精准搜索",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️笔趣阁",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.vipkanshu.com/",
@@ -19842,7 +19930,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️秒书屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.miaoshu5.cc/",
@@ -19893,7 +19981,7 @@
   },
   {
     "bookSourceComment": "精准搜索",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️新八一中文",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.x81xzw.com/",
@@ -19945,7 +20033,7 @@
   },
   {
     "bookSourceComment": "                    \"error:SSL handshake aborted: ssl=0x7f829d9c00: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f609af380: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f60a6a980: I/O error during system call, Connection reset by peer\n                    \"error:SSL handshake aborted: ssl=0x7f609af380: I/O error during system call, Connection reset by peer\n\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️落秋中文",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.luoqiuzw.com/",
@@ -19996,7 +20084,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️值得阅读",
     "bookSourceType": 0,
     "bookSourceUrl": "https://s.lansheweb.com",
@@ -20045,7 +20133,7 @@
   },
   {
     "bookSourceComment": "1.正文乱码或空需登录刷新正文，登录建议随便点进一本书的正文后再点勾\n2.关闭预下载\n3.网站限制频繁访问\n4.频繁访问二十章左右如果出现乱码或空，请隔十多分钟再刷新\n5.关耳",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️长佩文学",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.gongzicp.com",
@@ -20101,7 +20189,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼无错小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.read8.net/",
@@ -20152,7 +20240,7 @@
   },
   {
     "bookSourceComment": "\"error:List is empty.\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼起舞中文",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.75zhongwen.com/",
@@ -20207,7 +20295,7 @@
   },
   {
     "bookSourceComment": "                    \"error:SSL handshake aborted: ssl=0x7f60a69580: I/O error during system call, Connection reset by peer\n                    \"error:SSL handshake aborted: ssl=0x7f76a48e80: I/O error during system call, Connection reset by peer\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼云轩阁",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.yunxuange.org/",
@@ -20261,7 +20349,7 @@
   },
   {
     "bookSourceComment": "\"error:SSL handshake aborted: ssl=0x7f76a45a00: I/O error during system call, Connection reset by peer\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼宝来小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.baolaixsw.com/",
@@ -20315,7 +20403,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼追哟文学",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.zhuiyo.com/",
@@ -20369,7 +20457,7 @@
   },
   {
     "bookSourceComment": "                    \"error:SSL handshake aborted: ssl=0x7f84eae480: I/O error during system call, Connection reset by peer\n                    \"error:SSL handshake aborted: ssl=0x7f71df2c00: I/O error during system call, Connection reset by peer\n\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼奇书网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.suyingwang.net/",
@@ -20423,7 +20511,7 @@
   },
   {
     "bookSourceComment": "                    \"error:SSL handshake aborted: ssl=0x7f84646900: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f84eac180: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f84850d80: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f60a37380: I/O error during system call, Connection reset by peer\n                    \"error:SSL handshake aborted: ssl=0x7f71df2700: I/O error during system call, Connection reset by peer\n\"\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼七界小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.7jie.com/",
@@ -20476,7 +20564,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼书仓网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.shucang.cc/",
@@ -20531,7 +20619,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼奇幻小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.7huan.com/",
@@ -20585,7 +20673,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼追书看",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.zhuishukan.com/",
@@ -20639,7 +20727,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼乐文小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.xlewen.com/",
@@ -20681,7 +20769,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼千千小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.qqxsnew.com/",
@@ -20732,7 +20820,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼千千小说②",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.xqqxs8.com/",
@@ -20782,7 +20870,7 @@
   },
   {
     "bookSourceComment": "搜索25S限制\n目录有分页\n冷门资源\n#class.txt-list\n#class.section-list\n#id.content",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼兰兰文学",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.lanlanguoji.com",
@@ -20823,7 +20911,7 @@
   },
   {
     "bookSourceComment": "HINOTORI修",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼天籁小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.tianlaixsw.org/",
@@ -20879,7 +20967,7 @@
   },
   {
     "bookSourceComment": "天域战歌整理",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼乐文小说②",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.lewentxt.com",
@@ -20917,7 +21005,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼玩吧小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.wanbar.net",
@@ -20958,7 +21046,7 @@
   },
   {
     "bookSourceComment": "天域战歌整理",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼28书库",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.syt2008.com",
@@ -20999,7 +21087,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼看书室",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.kanshushi.com",
@@ -21038,7 +21126,7 @@
   },
   {
     "bookSourceComment": "天域战歌整理",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼采薇小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.ybwzx.com",
@@ -21078,7 +21166,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼六零文学②",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.60355.net/",
@@ -21132,7 +21220,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼一世书城",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.1114txt.com/",
@@ -21184,7 +21272,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼去读读",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.qududu.cc/",
@@ -21225,7 +21313,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼138阅读网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.138txt.com/",
@@ -21275,7 +21363,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼一曲书斋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.yiqushu.cc",
@@ -21328,7 +21416,7 @@
   },
   {
     "bookSourceComment": "天域战歌整理",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼哈罗小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.hlxs9.com",
@@ -21365,7 +21453,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼铁书网",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.tieshuw.com/",
@@ -21415,7 +21503,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼我爱小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.5200wx.com/",
@@ -21467,7 +21555,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼第五小说网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.diwuxs.com/",
@@ -21508,7 +21596,7 @@
   },
   {
     "bookSourceComment": "精准搜索",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼笔趣阁④",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.42zw.com/",
@@ -21561,7 +21649,7 @@
   },
   {
     "bookSourceComment": "天域战歌",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼笔趣阁①",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.biqu6.cc",
@@ -21597,7 +21685,7 @@
   },
   {
     "bookSourceComment": "精准搜索",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼笔趣阁②",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.9biquge.com/",
@@ -21650,7 +21738,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼笔趣库",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.biqiku.net/",
@@ -21700,7 +21788,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼新书包",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.xingshubao.net",
@@ -21736,7 +21824,7 @@
   },
   {
     "bookSourceComment": "比晋江慢一章",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼青果小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.qgqy.com/",
@@ -21788,7 +21876,7 @@
   },
   {
     "bookSourceComment": "\"error:List is empty.\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼邂逅小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.xhxswz.com",
@@ -21835,7 +21923,7 @@
   },
   {
     "bookSourceComment": "error:正文内容为空\nerror:Timed out waiting for 180000 ms\nerror:Timed out waiting for 180000 ms\nerror:timeout\n",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼玫瑰小说(备用)",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.meiguixsw.com",
@@ -21892,7 +21980,7 @@
   },
   {
     "bookSourceComment": "比晋江慢一章",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼御书网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.yushubo.com/",
@@ -21937,7 +22025,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️101言情",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.txt101.com",
@@ -21977,7 +22065,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼红甘泉",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.hgq26.com",
@@ -22043,7 +22131,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼大雪天",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.daxuetian.com",
@@ -22085,7 +22173,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️格格党",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.62326.net",
@@ -22128,7 +22216,7 @@
   },
   {
     "bookSourceComment": "\"error:SSL handshake aborted: ssl=0x7f77a95500: I/O error during system call, Connection reset by peer\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️2K中文",
     "bookSourceType": 0,
     "bookSourceUrl": "https://wap.2kzw.com/",
@@ -22179,7 +22267,7 @@
   },
   {
     "bookSourceComment": "关耳",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼如文网",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.ruwen5.com",
@@ -22227,7 +22315,7 @@
   },
   {
     "bookSourceComment": "                    \"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n                                        \"error:SSL handshake aborted: ssl=0x7f599f3180: I/O error during system call, Connection reset by peer\n                    \"error:recvfrom failed: ECONNRESET (Connection reset by peer)\n\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼格格党",
     "bookSourceType": 0,
     "bookSourceUrl": "http://www.51ggd.com",
@@ -22269,7 +22357,7 @@
   },
   {
     "bookSourceComment": "                    \"error:SSL handshake aborted: ssl=0x7f60a35800: I/O error during system call, Connection reset by peer\n                                        \"error:搜索内容为空并且没有发现\n                                        \"error:搜索内容为空并且没有发现\n                    \"error:搜索内容为空并且没有发现\n\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼笔下文学",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.bxwx66.com",
@@ -22318,7 +22406,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼杰米哒",
     "bookSourceType": 0,
     "bookSourceUrl": "http://m.xs63.com",
@@ -22364,7 +22452,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼风华居",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.fenghuaju.cc",
@@ -22408,7 +22496,7 @@
   },
   {
     "bookSourceComment": "\"error:正文内容为空\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️大河小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.dahexs.net",
@@ -22454,7 +22542,7 @@
   },
   {
     "bookSourceComment": "关耳",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🌼久久小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.txt909.cc",
@@ -22495,7 +22583,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️晨曦小说",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.chenxixsw.com",
@@ -22536,7 +22624,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️就爱谈",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.9itan.com",
@@ -22581,7 +22669,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️甜梦文库「PO文」",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.tianmengwenku.info",
@@ -22625,7 +22713,7 @@
   },
   {
     "bookSourceComment": "\"error:timeout\n\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️po18gw「PO文」",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.po18gw.com",
@@ -22670,7 +22758,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️雷云阁",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.leiyungewx.com",
@@ -22708,7 +22796,7 @@
   },
   {
     "bookSourceComment": "                    \"error:SSL handshake aborted: ssl=0x7f60a1e700: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f85ca5a00: I/O error during system call, Connection reset by peer\n                                        \"error:SSL handshake aborted: ssl=0x7f60a34b80: I/O error during system call, Connection reset by peer\n                    \"error:SSL handshake aborted: ssl=0x7f8484fe80: I/O error during system call, Connection reset by peer\n\"\"\"\"",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️52书库①",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.52shukuw.com",
@@ -22752,7 +22840,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️256中文",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.256shuku.com",
@@ -22795,7 +22883,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️肉肉屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://m.rourouwu.com",
@@ -22837,7 +22925,7 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "耽美,R18",
+    "bookSourceGroup": "R18,耽美",
     "bookSourceName": "🏵️欲望社 ",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.win10city.com",
