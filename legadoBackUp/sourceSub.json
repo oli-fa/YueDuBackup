@@ -47,15 +47,6 @@
   {
     "autoUpdate": false,
     "customOrder": 2,
-    "id": 1623719663317,
-    "name": "namofree书源：（通用，精简，比较适合大多数人）",
-    "type": 0,
-    "update": 1623719663317,
-    "url": "http://shuyuan.miaogongzi.net/shuyuan/1622509629.json"
-  },
-  {
-    "autoUpdate": false,
-    "customOrder": 2,
     "id": 1623720034395,
     "name": "不世玄奇大佬的书源(高级)",
     "type": 0,
@@ -106,33 +97,6 @@
     "type": 0,
     "update": 1625153916966,
     "url": "https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json"
-  },
-  {
-    "autoUpdate": false,
-    "customOrder": 2,
-    "id": 1625153979271,
-    "name": "天域战歌大佬的2.0书源",
-    "type": 0,
-    "update": 1625153979271,
-    "url": "https://tianyuzhange.coding.net/p/booksource/d/shuyuan/git/raw/master/2.0shuyuan.json"
-  },
-  {
-    "autoUpdate": false,
-    "customOrder": 2,
-    "id": 1625154002242,
-    "name": "破冰大佬的700个收藏书源合集",
-    "type": 0,
-    "update": 1625154002242,
-    "url": "https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/syhj.json"
-  },
-  {
-    "autoUpdate": false,
-    "customOrder": 2,
-    "id": 1625154027247,
-    "name": "千仞云书源",
-    "type": 0,
-    "update": 1625154027247,
-    "url": "http://shuyuan.miaogongzi.net/shuyuan/1624832786.json"
   },
   {
     "autoUpdate": false,
@@ -196,5 +160,41 @@
     "type": 1,
     "update": 1626428788517,
     "url": "https://cdn.jsdelivr.net/gh/ifwlzs/YueDuBackup@master/R18/R18RssSource.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1627470319355,
+    "name": "渊呀",
+    "type": 0,
+    "update": 1627470319355,
+    "url": "https://olixina.coding.net/p/yuedu/d/source/git/raw/master/bookSource.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1627544820810,
+    "name": "ifwlzs净化备份",
+    "type": 2,
+    "update": 1627544820810,
+    "url": "https://cdn.jsdelivr.net/gh/ifwlzs/YueDuBackup@master/legadoBackUp/replaceRule.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1627544975269,
+    "name": "ifwlzs书源备份",
+    "type": 0,
+    "update": 1627544975269,
+    "url": "https://cdn.jsdelivr.net/gh/ifwlzs/YueDuBackup@master/legadoBackUp/bookSource.json"
+  },
+  {
+    "autoUpdate": false,
+    "customOrder": 2,
+    "id": 1627544989024,
+    "name": "ifwlzs订阅源备份",
+    "type": 1,
+    "update": 1627544989024,
+    "url": "https://cdn.jsdelivr.net/gh/ifwlzs/YueDuBackup@master/legadoBackUp/rssSources.json"
   }
 ]

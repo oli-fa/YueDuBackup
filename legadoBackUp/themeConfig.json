@@ -70,5 +70,13 @@
     "isNightTheme": true,
     "primaryColor": "#ff303030",
     "themeName": "2"
+  },
+  {
+    "accentColor": "#ff485e68",
+    "backgroundColor": "#fffffcfc",
+    "bottomBackground": "#39cccc",
+    "isNightTheme": false,
+    "primaryColor": "#39cccc",
+    "themeName": "初音未来"
   }
 ]
