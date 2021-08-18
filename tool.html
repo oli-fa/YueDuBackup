@@ -8,252 +8,248 @@
 		<meta name="apple-mobile-web-app-status-bar-style" content="black">
 		<meta name="format-detection" content="telephone=no">
 		<title>美化发现&正则小工具 by关耳</title>
-		<style>
-			body {
-				background-color: lightsteelblue;
-			}
-			
-			textarea {
-				width: 99%;
-				height: 100%;
-				box-sizing: border-box;
-				border: none;
-				resize: none;
-				border: 2px solid #ccc;
-				box-shadow: 2px 2px 0px #ccc;
-			}
-			
-			.link {
-				color: ivory;
-				/*#409eff;*/
-				display: inline-flex;
-				flex-direction: row;
-				align-items: center;
-				justify-content: center;
-				vertical-align: middle;
-				position: relative;
-				text-decoration: none;
-				outline: none;
-				cursor: pointer;
-				font-size: 1.5em;
-				font-weight: bold;
-				margin: auto 2%;
-				/*background-color: aliceblue;*/
-			}
-			
-			.textarea {
-				border-radius: 5px;
-				padding: 5px 15px;
-				/*border: 0 solid #dcdfe6*/
-			}
-			
-			.textarea:focus {
-				outline: none;
-				border-color: #409eff
-			}
-			
-			.button {
-				display: inline-block;
-				line-height: 1;
-				white-space: nowrap;
-				cursor: pointer;
-				background: #fff;
-				border: 1px solid #dcdfe6;
-				color: #606266;
-				-webkit-appearance: none;
-				text-align: center;
-				box-sizing: border-box;
-				outline: none;
-				/*margin-top: 4px;*/
-				margin-left: 8px;
-				margin-bottom: 8px;
-				transition: .1s;
-				font-weight: 500;
-				-moz-user-select: none;
-				-webkit-user-select: none;
-				-ms-user-select: none;
-				padding: 12px 20px;
-				font-size: 14px;
-				border-radius: 4px;
-			}
-			
-			.button:focus,
-			.button:hover {
-				color: #409eff;
-				border-color: #c6e2ff;
-				background-color: #ecf5ff;
-			}
-			
-			.card {
-				box-shadow: 0 6px 12px 0 #0089ceaa;
-				border-radius: 15px;
-				border: 1px solid #ebeef5;
-				background-color: #fff;
-				overflow: hidden;
-				color: #303133;
-				transition: .3s;
-				margin: 3vw 0;
-			}
-			
-			.demo-input-suffix {
-				margin-left: 15px;
-				margin-bottom: 15px;
-			}
-			
-			.form-control {
-				width: 260px;
-				position: relative;
-				font-size: 14px;
-				display: inline-block;
-			}
-			
-			.input {
-				background-color: #fff;
-				background-image: none;
-				border-radius: 4px;
-				border: 1px solid #dcdfe6;
-				box-sizing: border-box;
-				color: #606266;
-				display: inline-block;
-				font-size: inherit;
-				height: 40px;
-				line-height: 40px;
-				outline: none;
-				padding: 0 15px;
-				transition: border-color .2s cubic-bezier(.645, .045, .355, 1);
-				width: 100%;
-			}
-			
-			.input:focus {
-				outline: none;
-				border-color: #409eff;
-			}
-			
-			.checkbox-group {
-				margin-left: 15px;
-				margin-bottom: 15px;
-			}
-			
-			.el-checkbox {
-				color: #606266;
-				font-weight: 500;
-				font-size: 14px;
-				position: relative;
-				cursor: pointer;
-				display: inline-block;
-				white-space: nowrap;
-				user-select: none;
-				margin-right: 30px;
-			}
-			
-			.el-checkbox__input {
-				white-space: nowrap;
-				cursor: pointer;
-				outline: none;
-				display: inline-block;
-				line-height: 1;
-				position: relative;
-				vertical-align: middle;
-			}
-			
-			.el-checkbox__input.is-checked .el-checkbox__inner {
-				background-color: #409eff;
-				border-color: #409eff;
-			}
-			
-			.el-checkbox__inner {
-				display: inline-block;
-				position: relative;
-				border: 1px solid #dcdfe6;
-				border-radius: 2px;
-				box-sizing: border-box;
-				width: 14px;
-				height: 14px;
-				background-color: #fff;
-				z-index: 1;
-				transition: border-color .25s cubic-bezier(.71, -.46, .29, 1.46), background-color .25s cubic-bezier(.71, -.46, .29, 1.46);
-			}
-			
-			.el-checkbox__inner::after {
-				box-sizing: content-box;
-				content: "";
-				border: 1px solid #fff;
-				border-left: 0;
-				border-top: 0;
-				height: 7px;
-				left: 4px;
-				position: absolute;
-				top: 1px;
-				transform: rotate(45deg) scaleY(0);
-				width: 3px;
-				transition: transform .15s ease-in .05s;
-				transform-origin: center;
-			}
-			
-			.el-checkbox__original {
-				opacity: 0;
-				outline: none;
-				position: absolute;
-				margin: 0;
-				width: 0;
-				height: 0;
-				z-index: -1;
-			}
-			
-			.el-checkbox__input.is-checked+.el-checkbox__label {
-				color: #409eff;
-			}
-			
-			input[type=checkbox] {
-				margin-right: 5px;
-				width: 13px;
-				height: 13px;
-			}
-			
-			input[type=checkbox]:after {
-				width: 100%;
-				height: 100%;
-				top: 0;
-				content: "";
-				background-color: White;
-				color: #000000;
-				display: inline-block;
-				visibility: visible;
-				border-radius: 2px;
-				border: 1px solid #A9A9A9;
-			}
-			
-			input[type=checkbox][disabled=disabled]:after {
-				width: 100%;
-				height: 100%;
-				top: 0;
-				content: "";
-				background-color: #0999F8;
-				color: #0999F8;
-				display: inline-block;
-				visibility: visible;
-				border-radius: 2px;
-				border: 1px solid #A9A9A9;
-			}
-			
-			input[type=checkbox]:checked:after {
-				content: "\2713";
-				/*UNICODE中对号*/
-				font-size: 12px;
-				font-weight: bold;
-				background-color: #409eff;
-				color: White;
-			}
-		</style>
-		<script>
-			function $(selector) {
-				return document.querySelector(selector);
-			}
+		<style>body {
+	background-color: lightsteelblue;
+}
 
-			function $$(selector) {
-				return document.querySelectorAll(selector);
-			}
-		</script>
+textarea {
+	width: 99%;
+	height: 100%;
+	box-sizing: border-box;
+	border: none;
+	resize: none;
+	border: 2px solid #ccc;
+	box-shadow: 2px 2px 0px #ccc;
+}
+
+.link {
+	color: ivory;
+	/*#409eff;*/
+	display: inline-flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	vertical-align: middle;
+	position: relative;
+	text-decoration: none;
+	outline: none;
+	cursor: pointer;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: auto 2%;
+	/*background-color: aliceblue;*/
+}
+
+.textarea {
+	border-radius: 5px;
+	padding: 5px 15px;
+	/*border: 0 solid #dcdfe6*/
+}
+
+.textarea:focus {
+	outline: none;
+	border-color: #409eff
+}
+
+.button {
+	display: inline-block;
+	line-height: 1;
+	white-space: nowrap;
+	cursor: pointer;
+	background: #fff;
+	border: 1px solid #dcdfe6;
+	color: #606266;
+	-webkit-appearance: none;
+	text-align: center;
+	box-sizing: border-box;
+	outline: none;
+	/*margin-top: 4px;*/
+	margin-left: 8px;
+	margin-bottom: 8px;
+	transition: .1s;
+	font-weight: 500;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	padding: 12px 20px;
+	font-size: 14px;
+	border-radius: 4px;
+}
+
+.button:focus,
+.button:hover {
+	color: #409eff;
+	border-color: #c6e2ff;
+	background-color: #ecf5ff;
+}
+
+.card {
+	box-shadow: 0 6px 12px 0 #0089ceaa;
+	border-radius: 15px;
+	border: 1px solid #ebeef5;
+	background-color: #fff;
+	overflow: hidden;
+	color: #303133;
+	transition: .3s;
+	margin: 3vw 0;
+}
+
+.demo-input-suffix {
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+.form-control {
+	width: 260px;
+	position: relative;
+	font-size: 14px;
+	display: inline-block;
+}
+
+.input {
+	background-color: #fff;
+	background-image: none;
+	border-radius: 4px;
+	border: 1px solid #dcdfe6;
+	box-sizing: border-box;
+	color: #606266;
+	display: inline-block;
+	font-size: inherit;
+	height: 40px;
+	line-height: 40px;
+	outline: none;
+	padding: 0 10px;
+	transition: border-color .2s cubic-bezier(.645, .045, .355, 1);
+	width: 100%;
+}
+
+.input:focus {
+	outline: none;
+	border-color: #409eff;
+}
+
+.checkbox-group {
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+.el-checkbox {
+	color: #606266;
+	font-weight: 500;
+	font-size: 14px;
+	position: relative;
+	cursor: pointer;
+	display: inline-block;
+	white-space: nowrap;
+	user-select: none;
+	margin-right: 30px;
+}
+
+.el-checkbox__input {
+	white-space: nowrap;
+	cursor: pointer;
+	outline: none;
+	display: inline-block;
+	line-height: 1;
+	position: relative;
+	vertical-align: middle;
+}
+
+.el-checkbox__input.is-checked .el-checkbox__inner {
+	background-color: #409eff;
+	border-color: #409eff;
+}
+
+.el-checkbox__inner {
+	display: inline-block;
+	position: relative;
+	border: 1px solid #dcdfe6;
+	border-radius: 2px;
+	box-sizing: border-box;
+	width: 14px;
+	height: 14px;
+	background-color: #fff;
+	z-index: 1;
+	transition: border-color .25s cubic-bezier(.71, -.46, .29, 1.46), background-color .25s cubic-bezier(.71, -.46, .29, 1.46);
+}
+
+.el-checkbox__inner::after {
+	box-sizing: content-box;
+	content: "";
+	border: 1px solid #fff;
+	border-left: 0;
+	border-top: 0;
+	height: 7px;
+	left: 4px;
+	position: absolute;
+	top: 1px;
+	transform: rotate(45deg) scaleY(0);
+	width: 3px;
+	transition: transform .15s ease-in .05s;
+	transform-origin: center;
+}
+
+.el-checkbox__original {
+	opacity: 0;
+	outline: none;
+	position: absolute;
+	margin: 0;
+	width: 0;
+	height: 0;
+	z-index: -1;
+}
+
+.el-checkbox__input.is-checked+.el-checkbox__label {
+	color: #409eff;
+}
+
+input[type=checkbox] {
+	margin-right: 5px;
+	width: 13px;
+	height: 13px;
+}
+
+input[type=checkbox]:after {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	content: "";
+	background-color: White;
+	color: #000000;
+	display: inline-block;
+	visibility: visible;
+	border-radius: 2px;
+	border: 1px solid #A9A9A9;
+}
+
+input[type=checkbox][disabled=disabled]:after {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	content: "";
+	background-color: #0999F8;
+	color: #0999F8;
+	display: inline-block;
+	visibility: visible;
+	border-radius: 2px;
+	border: 1px solid #A9A9A9;
+}
+
+input[type=checkbox]:checked:after {
+	content: "\2713";
+	/*UNICODE中对号*/
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #409eff;
+	color: White;
+}</style>
+		<script>function $(selector) {
+	return document.querySelector(selector);
+}
+
+function $$(selector) {
+	return document.querySelectorAll(selector);
+}</script>
 	</head>
 
 	<body>
@@ -290,7 +286,7 @@
         </label>
 			</div>
 			<div class="demo-input-suffix">
-				正则表达式：
+				正则表达式:
 				<div class="form-control">
 					<label>
                 <input type="text" autocomplete="off" placeholder="请输入自定义正则表达式 例如：\d{6}" class="input"  id="textPattern" name="textPattern" >
@@ -327,7 +323,7 @@
         </label>
 			</div>
 			<div class="demo-input-suffix">
-				替换文本：
+				替换文本:
 				<div class="form-control">
 					<!---->
 					<label>
@@ -354,200 +350,200 @@
         </label>
 			</div>
 		</div>
-		<div style="margin: 10px;text-align: right;"><span style="background-color: whitesmoke;padding: 3px;border-radius: 20px; color:dimgray">页面源码：by&nbsp;关耳</span></div>
-		<script>
-			var copyText = function() {
-				var text = document.getElementById('input');
-				// 选中文本
-				text.select()
-				// 复制
-				document.execCommand('copy')
-			}
-			var copyText2 = function() {
-				var text = document.getElementById('textReplaceResult');
-				// 选中文本
-				text.select()
-				// 复制
-				document.execCommand('copy')
-			}
-			var copyText3 = function() {
-				var text = document.getElementById('textMatchResult');
-				// 选中文本
-				text.select()
-				// 复制
-				document.execCommand('copy')
-			}
-		</script>
-		<script>
-			function pp(a) {
-				$("#textReplace").value += a.replace(/\\/, '');
-				$("#textReplace").focus()
-			}
+		<div style="margin: 20px 10px 0 0;text-align: right;">
+			<span style="background-color: aliceblue;padding: 3px;border-radius: 20px; color:#000">
+				源码: 关耳; 美化: 渊呀&菊蒻
+			</span>
+		</div>
+		<script>var copyText = function() {
+	var text = document.getElementById('input');
+	// 选中文本
+	text.select()
+	// 复制
+	document.execCommand('copy')
+}
+var copyText2 = function() {
+	var text = document.getElementById('textReplaceResult');
+	// 选中文本
+	text.select()
+	// 复制
+	document.execCommand('copy')
+}
+var copyText3 = function() {
+	var text = document.getElementById('textMatchResult');
+	// 选中文本
+	text.select()
+	// 复制
+	document.execCommand('copy')
+}</script>
+		<script>function pp(a) {
+	$("#textReplace").value += a.replace(/\\/, '');
+	$("#textReplace").focus()
+}
 
-			function dis() {
-				document.getElementById("bt1").disabled = true;
-				document.getElementById("bt2").disabled = true
-			}
+function dis() {
+	document.getElementById("bt1").disabled = true;
+	document.getElementById("bt2").disabled = true
+}
 
-			function di() {
-				document.getElementById("bt1").disabled = false;
-				document.getElementById("bt2").disabled = false
-			}
+function di() {
+	document.getElementById("bt1").disabled = false;
+	document.getElementById("bt2").disabled = false
+}
 
-			function getInput() {
-				text = $("#input").value;
-				list = text.match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/g);
-				html = ""
-				if(list.length == 0) {
-					html = "格式化失败！！！请检查是否为带html标签"
-				} else {
-					html = ""
-				}
-				for(i in list) {
-					a = list[i].match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/);
-					html += a[2] + "::" + a[1] + "\n"
-				}
-				$("#input").value = html
-			}
+function getInput() {
+	text = $("#input").value;
+	list = text.match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/g);
+	html = ""
+	if(list.length == 0) {
+		html = "格式化失败！！！请检查是否为带html标签"
+	} else {
+		html = ""
+	}
+	for(i in list) {
+		a = list[i].match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/);
+		html += a[2] + "::" + a[1] + "\n"
+	}
+	$("#input").value = html
+}
 
-			function getInput2() {
-				text = $("#input").value;
-				list = text.match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/g);
-				html = "";
-				if(list.length == 0) {
-					html = "格式化失败！！！请检查是否为带html标签"
-				} else {
-					html = ""
-				}
-				for(i in list) {
-					a = list[i].match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/);
-					html += "{'title':'" + a[2] + "','url':'" + a[1] + "','style':{}},\n\n"
-				}
+function getInput2() {
+	text = $("#input").value;
+	list = text.match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/g);
+	html = "";
+	if(list.length == 0) {
+		html = "格式化失败！！！请检查是否为带html标签"
+	} else {
+		html = ""
+	}
+	for(i in list) {
+		a = list[i].match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/);
+		html += "{'title':'" + a[2] + "','url':'" + a[1] + "','style':{}},\n\n"
+	}
 
-				$("#input").value = html
-			}
+	$("#input").value = html
+}
 
-			function getInput3() {
-				text = $("#input").value;
-				if(text.match(/\&\&|::/g)) {
-					text = text.replace(/\&\&/g, '\n');
-					list = text.match(/.*::.*/g);
-					html = [];
-					for(i = 0; i < list.length; i++) {
-						l = list[i].match(/(.*)::(.*)/);
-						title = l[1];
-						url = l[2]
-						html.push({
-							title: title,
-							url: url,
-							style: {}
-						})
-					}
-					$("#input").value = JSON.stringify(html).replaceAll("},", "},\n")
-				} else {
-					html = "";
-					json = JSON.parse(text);
-					for(i in json) {
-						html += json[i].title + "::" + json[i].url + "\n"
-					}
-					$("#input").value = html
-				}
-			}
+function getInput3() {
+	text = $("#input").value;
+	if(text.match(/\&\&|::/g)) {
+		text = text.replace(/\&\&/g, '\n');
+		list = text.match(/.*::.*/g);
+		html = [];
+		for(i = 0; i < list.length; i++) {
+			l = list[i].match(/(.*)::(.*)/);
+			title = l[1];
+			url = l[2]
+			html.push({
+				title: title,
+				url: url,
+				style: {}
+			})
+		}
+		$("#input").value = JSON.stringify(html).replaceAll("},", "},\n")
+	} else {
+		html = "";
+		json = JSON.parse(text);
+		for(i in json) {
+			html += json[i].title + "::" + json[i].url + "\n"
+		}
+		$("#input").value = html
+	}
+}
 
-			function getInput4(flag) {
-				text = $("#input").value;
-				if(flag == 1) {
-					json = JSON.parse(text);
-					for(i in json) {
-						json[i].style.layout_flexGrow = 1
-					}
-				} else {
-					json = JSON.parse(text);
-					for(i in json) {
-						json[i].style.layout_flexBasisPercent = flag
-					}
-				}
-				$("#input").value = JSON.stringify(json).replaceAll("},", "},\n")
-			}
+function getInput4(flag) {
+	text = $("#input").value;
+	if(flag == 1) {
+		json = JSON.parse(text);
+		for(i in json) {
+			json[i].style.layout_flexGrow = 1
+		}
+	} else {
+		json = JSON.parse(text);
+		for(i in json) {
+			json[i].style.layout_flexBasisPercent = flag
+		}
+	}
+	$("#input").value = JSON.stringify(json).replaceAll("},", "},\n")
+}
 
-			function setVisible(idElement, visible) {
-				var obj = document.getElementById(idElement);
-				obj.style.visibility = visible ? "visible" : "hidden";
-			}
+function setVisible(idElement, visible) {
+	var obj = document.getElementById(idElement);
+	obj.style.visibility = visible ? "visible" : "hidden";
+}
 
-			function isValidFields() {
-				var textSour = document.getElementById("textSour");
-				if(null == textSour.value || textSour.value.length < 1) {
-					textSour.focus();
-					JsonsMessageBox($("#textSour"), "请输入待匹配文本");
-					return false;
-				}
-				var textPattern = document.getElementById("textPattern");
-				if(null == textPattern.value || textPattern.value.length < 1) {
-					textPattern.focus();
-					JsonsMessageBox($("#textPattern"), "请输入正则表达式");
-					return false;
-				}
-				return true;
-			}
+function isValidFields() {
+	var textSour = document.getElementById("textSour");
+	if(null == textSour.value || textSour.value.length < 1) {
+		textSour.focus();
+		JsonsMessageBox($("#textSour"), "请输入待匹配文本");
+		return false;
+	}
+	var textPattern = document.getElementById("textPattern");
+	if(null == textPattern.value || textPattern.value.length < 1) {
+		textPattern.focus();
+		JsonsMessageBox($("#textPattern"), "请输入正则表达式");
+		return false;
+	}
+	return true;
+}
 
-			function buildRegex() {
-				var op = "";
-				if(document.getElementById("optionGlobal").checked) op = "g";
-				if(document.getElementById("optionIgnoreCase").checked) op = op + "i";
-				return new RegExp(document.getElementById("textPattern").value, op);
-			}
+function buildRegex() {
+	var op = "";
+	if(document.getElementById("optionGlobal").checked) op = "g";
+	if(document.getElementById("optionIgnoreCase").checked) op = op + "i";
+	return new RegExp(document.getElementById("textPattern").value, op);
+}
 
-			function onMatch() {
-				if(!isValidFields())
-					return false;
-				document.getElementById("textMatchResult").value = "";
-				var regex = buildRegex();
-				var result = document.getElementById("textSour").value.match(regex);
-				if(null == result || 0 == result.length) {
-					document.getElementById("textMatchResult").value = "（没有匹配）";
-					return false;
-				}
-				if(document.getElementById("optionGlobal").checked) {
-					var re = "";
-					var strResult = "共找到 " + result.length + " 处匹配：\r\n";
-					document.getElementById("textResult").innerText = strResult;
-					for(var i = 0; i < result.length; ++i) {
-						re += result[i] + "\r\n";
-					}
-					document.getElementById("textMatchResult").value = re;
-				} else {
-					document.getElementById("textMatchResult").value = "匹配位置：" + regex.lastIndex + "\r\n匹配结果：" + result[0];
-				}
-				return true;
-			}
+function onMatch() {
+	if(!isValidFields())
+		return false;
+	document.getElementById("textMatchResult").value = "";
+	var regex = buildRegex();
+	var result = document.getElementById("textSour").value.match(regex);
+	if(null == result || 0 == result.length) {
+		document.getElementById("textMatchResult").value = "（没有匹配）";
+		return false;
+	}
+	if(document.getElementById("optionGlobal").checked) {
+		var re = "";
+		var strResult = "共找到 " + result.length + " 处匹配：\r\n";
+		document.getElementById("textResult").innerText = strResult;
+		for(var i = 0; i < result.length; ++i) {
+			re += result[i] + "\r\n";
+		}
+		document.getElementById("textMatchResult").value = re;
+	} else {
+		document.getElementById("textMatchResult").value = "匹配位置：" + regex.lastIndex + "\r\n匹配结果：" + result[0];
+	}
+	return true;
+}
 
-			function onReplace() {
-				var str = document.getElementById("textSour").value;
-				var regex = buildRegex();
-				document.getElementById("textReplaceResult").value = str.replace(regex, document.getElementById("textReplace").value);
-			}
+function onReplace() {
+	var str = document.getElementById("textSour").value;
+	var regex = buildRegex();
+	document.getElementById("textReplaceResult").value = str.replace(regex, document.getElementById("textReplace").value);
+}
 
-			function reset() {
-				$("#textSour").value = "";
-				$("#textPattern").value = "";
-				$("#textMatchResult").value = "";
-				$("#textReplace").value = "";
-				$("#textReplaceResult").value = "";
-			}
-			//			$("#regCommon a").click(function() {
-			//				$("#textPattern").val($(this).attr("t"));
-			//				onMatch();
-			//			});
+function reset() {
+	$("#textSour").value = "";
+	$("#textPattern").value = "";
+	$("#textMatchResult").value = "";
+	$("#textReplace").value = "";
+	$("#textReplaceResult").value = "";
+}
+//			$("#regCommon a").click(function() {
+//				$("#textPattern").val($(this).attr("t"));
+//				onMatch();
+//			});
 
-			function Empty() {
-				$("#textSour").value = "";
-				$("#textMatchResult").value = "";
-				$("#textReplace").value = "";
-				$("#textReplaceResult").value = "";
-				$("#textSour").select();
-			}
-		</script>
+function Empty() {
+	$("#textSour").value = "";
+	$("#textMatchResult").value = "";
+	$("#textReplace").value = "";
+	$("#textReplaceResult").value = "";
+	$("#textSour").select();
+}</script>
 	</body>
 
 </html>
