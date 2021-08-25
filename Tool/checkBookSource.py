@@ -137,4 +137,4 @@ print("无法获取站点状态码的源有" + str(len(exceptionResult)) + "个"
 # print(exceptionResult)
 print("结果仅供参考！！请用户自行判断，源是否真的失效。校验结果保存在当前目录下的【result.txt】文件中")
 print("校验后的书源保存在当前目录下的【newBookSource.txt】文件中（仅去除状态码异常的源）")
-input("\n\n\n请按任意键关闭本窗口 . .")
+input("\n\n\n请按任意键关闭本窗口 . . .")
