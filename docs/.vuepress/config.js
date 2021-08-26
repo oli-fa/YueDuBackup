@@ -5,7 +5,7 @@ const sidebarConf = require('./config/sidebarConfig.js')
 
 
 module.exports = {
-    base: '/docs/',
+    base: '/YueDuBackup/',
     title: '阅读文档',
     description: 'YueDu VuePress docs',
     head: headConf,
