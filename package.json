@@ -2,14 +2,14 @@
   "name": "docs",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git+ssh://git@github.com/olixina/docs.git",
-  "author": "olixina",
+  "repository": "git@github.com:oli-fa/YueDuBackup.git",
+  "author": "ifwlzs, olixina",
   "license": "MIT",
-  "description": "VuePress docs",
+  "description": "docs",
   "bugs": {
-    "url": "https://github.com/olixina/docs/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/olixina/docs#readme",
+  "homepage": "https://github.com/oli-fa/YueDuBackup#readme",
   "dependencies": {},
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.2",
