@@ -7,6 +7,7 @@ set -e
 npm run docs:build
 
 # 进入生成的文件夹
+cp tool.html docs/.vuepress/dist
 cd docs/.vuepress/dist
 
 # 如果是发布到自定义域名
