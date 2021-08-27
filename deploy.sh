@@ -14,9 +14,6 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git checkout gh-pages
-git checkout master -- tool.html
-git add tool.html
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
