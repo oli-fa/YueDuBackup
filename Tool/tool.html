@@ -1,574 +1,498 @@
 <!DOCTYPE html>
 <html>
 
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta name="apple-mobile-web-app-status-bar-style" content="black">
-		<meta name="format-detection" content="telephone=no">
-		<title>美化发现&正则小工具 by关耳</title>
-		<style>body {
-	background-color: lightsteelblue;
-}
-
-textarea {
-	width: 99%;
-	height: 100%;
-	box-sizing: border-box;
-	border: none;
-	resize: none;
-	border: 2px solid #ccc;
-	box-shadow: 2px 2px 0px #ccc;
-}
-
-.link {
-	color: ivory;
-	/*#409eff;*/
-	display: inline-flex;
-	flex-direction: row;
-	align-items: center;
-	justify-content: center;
-	vertical-align: middle;
-	position: relative;
-	text-decoration: none;
-	outline: none;
-	cursor: pointer;
-	font-size: 1.5em;
-	font-weight: bold;
-	margin: auto 2%;
-	/*background-color: aliceblue;*/
-}
-
-.textarea {
-	border-radius: 5px;
-	padding: 5px 15px;
-	/*border: 0 solid #dcdfe6*/
-}
-
-.textarea:focus {
-	outline: none;
-	border-color: #409eff
-}
-
-.button {
-	display: inline-block;
-	line-height: 1;
-	white-space: nowrap;
-	cursor: pointer;
-	background: #fff;
-	border: 1px solid #dcdfe6;
-	color: #606266;
-	-webkit-appearance: none;
-	text-align: center;
-	box-sizing: border-box;
-	outline: none;
-	/*margin-top: 4px;*/
-	margin-left: 8px;
-	margin-bottom: 8px;
-	transition: .1s;
-	font-weight: 500;
-	-moz-user-select: none;
-	-webkit-user-select: none;
-	-ms-user-select: none;
-	padding: 12px 20px;
-	font-size: 14px;
-	border-radius: 4px;
-}
-
-.button:focus,
-.button:hover, {
-	color: #409eff;
-	border-color: #c6e2ff;
-	background-color: #ecf5ff;
-}
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="format-detection" content="telephone=no">
+	<title>美化发现&正则小工具 by关耳</title>
 
 
+	<style>
+		[v-cloak] {
+			display: none;
+		}
+		body {
+			background-color: lightsteelblue;
+		}
 
-.card {
-	box-shadow: 0 6px 12px 0 #0089ceaa;
-	border-radius: 15px;
-	border: 1px solid #ebeef5;
-	background-color: #fff;
-	overflow: hidden;
-	color: #303133;
-	transition: .3s;
-	margin: 3vw 0;
-}
+		textarea {
+			width: 99%;
+			height: 100%;
+			box-sizing: border-box;
+			border: none;
+			resize: none;
+			border: 2px solid #ccc;
+			box-shadow: 2px 2px 0px #ccc;
+		}
 
-.demo-input-suffix {
-	margin-left: 15px;
-	margin-bottom: 15px;
-}
+		.link {
+			color: ivory;
+			/*#409eff;*/
+			display: inline-flex;
+			flex-direction: row;
+			align-items: center;
+			justify-content: center;
+			vertical-align: middle;
+			position: relative;
+			text-decoration: none;
+			outline: none;
+			cursor: pointer;
+			font-size: 1.5em;
+			font-weight: bold;
+			margin: auto 2%;
+			/*background-color: aliceblue;*/
+		}
 
-.form-control {
-	width: 260px;
-	position: relative;
-	font-size: 14px;
-	display: inline-block;
-}
+		.textarea {
+			border-radius: 5px;
+			padding: 5px 15px;
+			/*border: 0 solid #dcdfe6*/
+		}
 
-.input {
-	background-color: #fff;
-	background-image: none;
-	border-radius: 4px;
-	border: 1px solid #dcdfe6;
-	box-sizing: border-box;
-	color: #606266;
-	display: inline-block;
-	font-size: inherit;
-	height: 40px;
-	line-height: 40px;
-	outline: none;
-	padding: 0 10px;
-	transition: border-color .2s cubic-bezier(.645, .045, .355, 1);
-	width: 100%;
-}
+		.textarea:focus {
+			outline: none;
+			border-color: #409eff
+		}
 
-.input:focus {
-	outline: none;
-	border-color: #409eff;
-}
+		.button {
+			display: inline-block;
+			line-height: 1;
+			white-space: nowrap;
+			cursor: pointer;
+			background: #fff;
+			border: 1px solid #dcdfe6;
+			color: #606266;
+			-webkit-appearance: none;
+			text-align: center;
+			box-sizing: border-box;
+			outline: none;
+			/*margin-top: 4px;*/
+			margin-left: 8px;
+			margin-bottom: 8px;
+			transition: .1s;
+			font-weight: 500;
+			-moz-user-select: none;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			padding: 12px 20px;
+			font-size: 14px;
+			border-radius: 4px;
+		}
 
-.checkbox-group {
-	margin-left: 15px;
-	margin-bottom: 15px;
-}
+		.button:focus,
+		.button:hover, {
+			color: #409eff;
+			border-color: #c6e2ff;
+			background-color: #ecf5ff;
+		}
 
-.el-checkbox {
-	color: #606266;
-	font-weight: 500;
-	font-size: 14px;
-	position: relative;
-	cursor: pointer;
-	display: inline-block;
-	white-space: nowrap;
-	user-select: none;
-	margin-right: 30px;
-}
 
-.el-checkbox__input {
-	white-space: nowrap;
-	cursor: pointer;
-	outline: none;
-	display: inline-block;
-	line-height: 1;
-	position: relative;
-	vertical-align: middle;
-}
 
-.el-checkbox__input.is-checked .el-checkbox__inner {
-	background-color: #409eff;
-	border-color: #409eff;
-}
+		.card {
+			box-shadow: 0 6px 12px 0 #0089ceaa;
+			border-radius: 15px;
+			border: 1px solid #ebeef5;
+			background-color: #fff;
+			overflow: hidden;
+			color: #303133;
+			transition: .3s;
+			margin: 3vw 0;
+		}
 
-.el-checkbox__inner {
-	display: inline-block;
-	position: relative;
-	border: 1px solid #dcdfe6;
-	border-radius: 2px;
-	box-sizing: border-box;
-	width: 14px;
-	height: 14px;
-	background-color: #fff;
-	z-index: 1;
-	transition: border-color .25s cubic-bezier(.71, -.46, .29, 1.46), background-color .25s cubic-bezier(.71, -.46, .29, 1.46);
-}
+		.demo-input-suffix {
+			margin-left: 15px;
+			margin-bottom: 15px;
+		}
 
-.el-checkbox__inner::after {
-	box-sizing: content-box;
-	content: "";
-	border: 1px solid #fff;
-	border-left: 0;
-	border-top: 0;
-	height: 7px;
-	left: 4px;
-	position: absolute;
-	top: 1px;
-	transform: rotate(45deg) scaleY(0);
-	width: 3px;
-	transition: transform .15s ease-in .05s;
-	transform-origin: center;
-}
+		.form-control {
+			width: 260px;
+			position: relative;
+			font-size: 14px;
+			display: inline-block;
+		}
 
-.el-checkbox__original {
-	opacity: 0;
-	outline: none;
-	position: absolute;
-	margin: 0;
-	width: 0;
-	height: 0;
-	z-index: -1;
-}
+		.input {
+			background-color: #fff;
+			background-image: none;
+			border-radius: 4px;
+			border: 1px solid #dcdfe6;
+			box-sizing: border-box;
+			color: #606266;
+			display: inline-block;
+			font-size: inherit;
+			height: 40px;
+			line-height: 40px;
+			outline: none;
+			padding: 0 10px;
+			transition: border-color .2s cubic-bezier(.645, .045, .355, 1);
+			width: 100%;
+		}
 
-.el-checkbox__input.is-checked+.el-checkbox__label {
-	color: #409eff;
-}
+		.input:focus {
+			outline: none;
+			border-color: #409eff;
+		}
 
-input[type=checkbox] {
-	margin-right: 5px;
-	width: 13px;
-	height: 13px;
-}
+		.checkbox-group {
+			margin-left: 15px;
+			margin-bottom: 15px;
+		}
 
-input[type=checkbox]:after {
-	width: 100%;
-	height: 100%;
-	top: 0;
-	content: "";
-	background-color: White;
-	color: #000000;
-	display: inline-block;
-	visibility: visible;
-	border-radius: 2px;
-	border: 1px solid #A9A9A9;
-}
+		.el-checkbox {
+			color: #606266;
+			font-weight: 500;
+			font-size: 14px;
+			position: relative;
+			cursor: pointer;
+			display: inline-block;
+			white-space: nowrap;
+			user-select: none;
+			margin-right: 30px;
+		}
 
-input[type=checkbox][disabled=disabled]:after {
-	width: 100%;
-	height: 100%;
-	top: 0;
-	content: "";
-	background-color: #0999F8;
-	color: #0999F8;
-	display: inline-block;
-	visibility: visible;
-	border-radius: 2px;
-	border: 1px solid #A9A9A9;
-}
+		.el-checkbox__input {
+			white-space: nowrap;
+			cursor: pointer;
+			outline: none;
+			display: inline-block;
+			line-height: 1;
+			position: relative;
+			vertical-align: middle;
+		}
 
-input[type=checkbox]:checked:after {
-	content: "\2713";
-	/*UNICODE中对号*/
-	font-size: 12px;
-	font-weight: bold;
-	background-color: #409eff;
-	color: White;
-}</style>
-<script>function $(selector) {
-	return document.querySelector(selector);
-}
+		.el-checkbox__input.is-checked .el-checkbox__inner {
+			background-color: #409eff;
+			border-color: #409eff;
+		}
 
-function $$(selector) {
-	return document.querySelectorAll(selector);
-}</script>
-	</head>
+		.el-checkbox__inner {
+			display: inline-block;
+			position: relative;
+			border: 1px solid #dcdfe6;
+			border-radius: 2px;
+			box-sizing: border-box;
+			width: 14px;
+			height: 14px;
+			background-color: #fff;
+			z-index: 1;
+			transition: border-color .25s cubic-bezier(.71, -.46, .29, 1.46), background-color .25s cubic-bezier(.71, -.46, .29, 1.46);
+		}
 
-	<body>
-		<center>
-			<a class="link" href="https://www.sojson.com/rehtml"><span class="el-link--inner">HTML 转义</span></a>
-			<a class="link" href="http://www.jsons.cn/urlencode/"><span class="el-link--inner">URL 解码</span></a>
+		.el-checkbox__inner::after {
+			box-sizing: content-box;
+			content: "";
+			border: 1px solid #fff;
+			border-left: 0;
+			border-top: 0;
+			height: 7px;
+			left: 4px;
+			position: absolute;
+			top: 1px;
+			transform: rotate(45deg) scaleY(0);
+			width: 3px;
+			transition: transform .15s ease-in .05s;
+			transform-origin: center;
+		}
+
+		.el-checkbox__original {
+			opacity: 0;
+			outline: none;
+			position: absolute;
+			margin: 0;
+			width: 0;
+			height: 0;
+			z-index: -1;
+		}
+
+		.el-checkbox__input.is-checked+.el-checkbox__label {
+			color: #409eff;
+		}
+
+		input[type=checkbox] {
+			margin-right: 5px;
+			width: 13px;
+			height: 13px;
+		}
+
+		input[type=checkbox]:after {
+			width: 100%;
+			height: 100%;
+			top: 0;
+			content: "";
+			background-color: White;
+			color: #000000;
+			display: inline-block;
+			visibility: visible;
+			border-radius: 2px;
+			border: 1px solid #A9A9A9;
+		}
+
+		input[type=checkbox][disabled=disabled]:after {
+			width: 100%;
+			height: 100%;
+			top: 0;
+			content: "";
+			background-color: #0999F8;
+			color: #0999F8;
+			display: inline-block;
+			visibility: visible;
+			border-radius: 2px;
+			border: 1px solid #A9A9A9;
+		}
+
+		input[type=checkbox]:checked:after {
+			content: "\2713";
+			/*UNICODE中对号*/
+			font-size: 12px;
+			font-weight: bold;
+			background-color: #409eff;
+			color: White;
+		}</style>
+	<script>function $(selector) {
+		return document.querySelector(selector);
+	}
+
+	function $$(selector) {
+		return document.querySelectorAll(selector);
+	}</script>
+	<!-- 引入样式 -->
+	<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+</head>
+
+<body>
+<center>
+	<a class="link" href="https://www.sojson.com/rehtml"><span class="el-link--inner">HTML 转义</span></a>
+	<a class="link" href="http://www.jsons.cn/urlencode/"><span class="el-link--inner">URL 解码</span></a>
+</center>
+
+<div id="app" v-cloak>
+	<div class="card">
+		<center style="margin: 2vw;font-size: 1.5em;font-weight: bold;">
+			美化发现
 		</center>
-
-		<div class="card">
-			<center style="margin: 2vw;font-size: 1.5em;font-weight: bold;">
-				美化发现
-			</center>
-			<div>
-				<label>
-            <textarea rows="10" class="textarea" id="input" onfocus="di()" placeholder="格式化发现请输入带html标签的发现内容，或者旧格式的发现"></textarea>
-        </label>
-			</div>
-			<button type="button" class="button" onclick="getInput();dis()" id="bt1"><span>格式化为[旧]发现</span></button>
-			<button type="button" class="button" onclick="getInput2();dis()" id="bt2"><span>格式化为[新]发现</span></button>
-			<button type="button" class="button" onclick="getInput3();" id="bt3"><span>发现格式互转</span></button>
-			<button type="button" class="button" onclick="getInput4(1);" id="bt3"><span>[必选项]设置行居中,自动排版</span></button>
-			<button type="button" class="button" onclick="getInput4(0.2);" id="bt4"><span>一行4个分组</span></button>
-			<button type="button" class="button" onclick="getInput4(0.25);" id="bt4"><span>一行3个分组</span></button>
-			<button type="button" class="button" onclick="getInput4(0.4);" id="bt4"><span>一行2个分组</span></button>
-			<button type="button" class="button" onclick="getInput4(0.6);" id="bt4"><span>一行1个分组</span></button>
-			<button type="button" class="button" onclick="copyText()"><span>一键复制</span></button>
+		<div>
+			<label>
+				<textarea rows="10" class="textarea" id="input" onfocus="di()" placeholder="格式化发现请输入带html标签的发现内容，或者旧格式的发现" v-model="message"></textarea>
+			</label>
 		</div>
-		<div class="card">
-			<center style="margin: 2vw;font-size: 1.5em;font-weight: bold;">正则表达式匹配替换</center>
+		<button type="button" class="button" @click="getInput01" id="bt1"><span>格式化为[旧]发现</span></button>
+		<button type="button" class="button" @click="getInput02" id="bt2"><span>格式化为[新]发现</span></button>
+		<button type="button" class="button" @click="getInput03"><span>发现格式互转</span></button>
+		<button type="button" class="button" @click="getInput04(1)"><span>[必选项]设置行居中,自动排版</span></button>
+		<button type="button" class="button" @click="getInput04(0.2)"><span>一行4个分组</span></button>
+		<button type="button" class="button" @click="getInput04(0.25)"><span>一行3个分组</span></button>
+		<button type="button" class="button" @click="getInput04(0.4)"><span>一行2个分组</span></button>
+		<button type="button" class="button" @click="getInput04(0.6)"><span>一行1个分组</span></button>
+		<el-button v-clipboard:copy="message" v-clipboard:success="onCopy" v-clipboard:error="onError">一键复制</el-button>
+	</div>
+	<div class="card">
+		<center style="margin: 2vw;font-size: 1.5em;font-weight: bold;">正则表达式匹配替换</center>
 
-			<div>
+		<div>
+			<label>
+				<textarea rows="10" class="textarea" id="textSour" name="textSour"  placeholder="请输入要验证的文本" ref="textSour" v-model="textSour"></textarea>
+			</label>
+		</div>
+		<div class="demo-input-suffix">
+			正则表达式:
+			<div class="form-control">
 				<label>
-            <textarea rows="10" class="textarea" id="textSour" name="textSour"  placeholder="请输入要验证的文本"></textarea>
-        </label>
-			</div>
-			<div class="demo-input-suffix">
-				正则表达式:
-				<div class="form-control">
-					<label>
-                <input type="text" autocomplete="off" placeholder="请输入自定义正则表达式 例如：\d{6}" class="input"  id="textPattern" name="textPattern" >
-            </label>
-					<span class="el-input__suffix"><span class="el-input__suffix-inner">
+					<input type="text" autocomplete="off" placeholder="请输入自定义正则表达式 例如：\d{6}" class="input"  id="textPattern" name="textPattern" ref="textPattern" v-model="textPattern"  :model="regexpValidate" ref="regexpValidate">
+				</label>
+				<span class="el-input__suffix"><span class="el-input__suffix-inner">
             <i class="el-icon-edit el-input__icon"></i>
             </span>
 					<!---->
 					</span>
+			</div>
+		</div>
+		<div class="checkbox-group">
+			<div class="">
+				<div class="input-group">
+					<label class="checkbox" style="cursor: pointer;">
+						<input type="checkbox" value="g" checked="checked" id="optionGlobal" name="optionGlobl" v-model="checkVal">全局搜索</label>
 				</div>
 			</div>
-			<div class="checkbox-group">
-				<div class="">
-					<div class="input-group">
-						<label class="checkbox" style="cursor: pointer;">
-                    <input type="checkbox" value="global" checked="checked" id="optionGlobal" name="optionGlobl">全局搜索</label>
-					</div>
-				</div>
-				<div class="">
-					<div class="input-group">
-						<label class="checkbox" style="cursor: pointer;">
-                    <input type="checkbox" value="ignoreCase" id="optionIgnoreCase"
-                           name="optionIgnoreCase">忽略大小写</label>
-					</div>
+			<div class="">
+				<div class="input-group">
+					<label class="checkbox" style="cursor: pointer;">
+						<input type="checkbox" value="i" id="optionIgnoreCase"
+									 name="optionIgnoreCase" v-model="checkVal">忽略大小写</label>
 				</div>
 			</div>
-			<button type="button" class="button" onclick="return onMatch();"><span>验证匹配内容</span></button>
-			<button type="button" class="button" onclick="Empty();"><span>清空输入框</span></button>
-			<button type="button" class="button" onclick="copyText3()"><span>一键复制</span></button>
-			<div>
+		</div>
+		<!--    <button type="button" class="button" onclick="return onMatch();"><span>验证匹配内容</span></button>-->
+		<button type="button" class="button" @click="onMatch01"><span>验证匹配内容</span></button>
+		<button type="button" class="button" @click="resetForm(regexpValidate)"><span>清空输入框</span></button>
+		<el-button v-clipboard:copy="textMatchResult" v-clipboard:success="onCopy" v-clipboard:error="onError">一键复制</el-button>
+		<div>
+			<label>
+				<div id="textResult">{{strResult}}</div>
+				<textarea rows="10" class="textarea" id="textMatchResult" class="form-control" placeholder="得到验证后内容，内容为空为验证失败" readonly="readonly" v-model="textMatchResult"></textarea>
+			</label>
+		</div>
+		<div class="demo-input-suffix">
+			替换文本:
+			<div class="form-control">
+				<!---->
 				<label>
-        <div id="textResult"></div>
-            <textarea rows="10" class="textarea" id="textMatchResult" class="form-control" placeholder="得到验证后内容，内容为空为验证失败" readonly="readonly"></textarea>
-        </label>
-			</div>
-			<div class="demo-input-suffix">
-				替换文本:
-				<div class="form-control">
-					<!---->
-					<label>
-                <input type="text" autocomplete="off" placeholder="请输入替换内容" class="input"  id="textReplace" name="textReplace">
-            </label>
-					<span class="el-input__suffix"><span class="el-input__suffix-inner">
+					<input type="text" autocomplete="off" placeholder="请输入替换内容" class="input"  id="textReplace" name="textReplace" v-model="textReplace">
+				</label>
+				<span class="el-input__suffix"><span class="el-input__suffix-inner">
             <i class="el-icon-edit el-input__icon"></i>
             </span>
 					<!---->
 					</span>
-				</div>
-				<button type="button" class="button" value="{\{page}}" onclick="pp(this.value)"><span>page</span></button>
-				<button type="button" class="button" value="$" onclick="pp(this.value)"><span>$</span></button>
-				<button type="button" class="button" value="'" onclick="pp(this.value)"><span>'</span></button>
-				<button type="button" class="button" value="/" onclick="pp(this.value)"><span>/</span></button>
-				<button type="button" class="button" value="_" onclick="pp(this.value)"><span>_</span></button>
-				<button type="button" class="button" value="-" onclick="pp(this.value)"><span>-</span></button>
 			</div>
-			<button type="button" class="button" onclick="return onReplace()"><span>替换匹配内容</span></button>
-			<button type="button" class="button" onclick="copyText2()"><span>一键复制</span></button>
-			<div>
-				<label>
-            <textarea rows="10" class="textarea" id="textReplaceResult" placeholder="此处为替换后内容"></textarea>
-        </label>
-			</div>
+			<button type="button" class="button" value="{{page}}" @click="getInputValue"><span>page</span></button>
+			<button type="button" class="button" value="$" @click="getInputValue"><span>$</span></button>
+			<button type="button" class="button" value="'" @click="getInputValue"><span>/</span></button>
+			<button type="button" class="button" value="_" @click="getInputValue"><span>_</span></button>
+			<button type="button" class="button" value="-" @click="getInputValue"><span>-</span></button>
 		</div>
-		<div style="margin: 20px 10px 0 0;text-align: right;">
+		<button type="button" class="button" @click="onReplace01"><span>替换匹配内容</span></button>
+		<button type="button" class="button" onclick="copyText2()"><span>一键复制</span></button>
+		<el-button v-clipboard:copy="textReplaceResult" v-clipboard:success="onCopy" v-clipboard:error="onError">一键复制</el-button>
+		<div>
+			<label>
+				<textarea rows="10" class="textarea" id="textReplaceResult" placeholder="此处为替换后内容" v-model="textReplaceResult"></textarea>
+			</label>
+		</div>
+	</div>
+	<div style="margin: 20px 10px 0 0;text-align: right;">
 			<span style="background-color: aliceblue;padding: 3px;border-radius: 20px; color:#000">
 				源码: 关耳; 美化: 渊呀&菊蒻
 			</span>
-		</div>
-		<script>var copyText = function() {
-	var text = document.getElementById('input');
-	// 选中文本
-	text.select()
-	// 复制
-	document.execCommand('copy')
-}
-var copyText2 = function() {
-	var text = document.getElementById('textReplaceResult');
-	// 选中文本
-	text.select()
-	// 复制
-	document.execCommand('copy')
-}
-var copyText3 = function() {
-	var text = document.getElementById('textMatchResult');
-	// 选中文本
-	text.select()
-	// 复制
-	document.execCommand('copy')
-}</script>
+	</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
+<script src="https://cdn.jsdelivr.net/gh/Inndy/vue-clipboard2@0.3.1/dist/vue-clipboard.min.js"></script>
+<script src="https://unpkg.com/element-ui/lib/index.js"></script>
 <script>
-function pp(a) {
-	$("#textReplace").value += a.replace(/\\/, '');
-	$("#textReplace").focus()
-}
-
-function dis() {
-	document.getElementById("bt1").disabled = true;
-	document.getElementById("bt2").disabled = true
-	document.getElementById("bt1").style="background-color:#ecf5ff"
-	document.getElementById("bt2").style="background-color:#ecf5ff"
-}
-
-function di() {
-	document.getElementById("bt1").disabled = false;
-	document.getElementById("bt2").disabled = false
-	document.getElementById("bt1").style="background-color: #fff;"
-	document.getElementById("bt2").style="background-color: #fff;"
-	
-}
-
-function getInput() {
-	text = $("#input").value;
-	console.log(text);
-	list = text.match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/g);
-	html = ""
-	if(list == null ||list==""||list.length==0) {
-		di();
-		html = "格式化失败！！！请检查是否为带html标签"
-	} else {
-		dis();
-		html = ""
-	}
-	for(i in list) {
-		a = list[i].match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/);
-		html += a[2] + "::" + a[1] + "\n"
-	}
-	$("#input").value = html
-	
-}
-
-function getInput2() {
-	/*text = $("#input").value;
-	list = text.match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/g);
-	html = "";
-	if(list == null||list==""||list.length==0) {
-	di();
-		html = "格式化失败！！！请检查是否为带html标签"
-	} else {
-		dis();
-		html = ""
-	}
-	console.log(list.length)
-	for(i=0; i<list.length;i++) {
-		if(i==0){
-			html="["
+	new Vue({
+		el: '#app',
+		data: {
+			message: '',
+			textSour: '',
+			textPattern: '',
+			textMatchResult: '',
+			textReplace: '',
+			textReplaceResult: '',
+			checkVal: ['g'],
+			strResult: '',
+			regexpValidate: {}
+		},
+		methods: {
+			onCopy() {
+				this.$message.success('复制成功')
+			},
+			onError() {
+				this.$message.error('复制失败')
+			},
+			getInput01() {
+				const list = this.message.match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/g)
+				if(list == null || list.length===0) {
+					di()
+					this.message = "格式化失败！！！请检查是否为带html标签"
+				} else {
+					dis()
+					this.message = ''
+				}
+				let a
+				for (const i in list) {
+					a = list[i].match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/)
+					this.message += a[2] + "::" + a[1] + "\n"
+				}
+			},
+			getInput02() {
+				this.getInput01()
+				this.getInput03()
+			},
+			getInput03() {
+				let html = ''
+				if (this.message.match(/&&|::/g)) {
+					html = this.message.replace(/&&/g, '\n').match(/.*::.*/g).map(item => (
+									{
+										title: item.match(/(.*)::(.*)/)[1],
+										url: item.match(/(.*)::(.*)/)[2],
+										style: {}
+									})
+					)
+					this.message = JSON.stringify(html).replaceAll("},", "},\n")
+				} else {
+					JSON.parse(this.message).forEach(item => html += item.title + '::' + item.url + '\n')
+					this.message = html
+				}
+			},
+			getInput04(flag) {
+				const json = JSON.parse(this.message);
+				if(flag === 1) json.forEach(item => item.style.layout_flexGrow = 1)
+				else json.forEach(item => item.style.layout_flexBasisPercent = flag)
+				this.message = JSON.stringify(json).replaceAll("},", "},\n")
+			},
+			isValidFields01() {
+				const textSour = this.textSour
+				if(null == textSour || textSour.length < 1) {
+					this.$nextTick(()=>this.$refs.textSour.focus())
+					this.$message.warning('请输入待匹配文本')
+					return false
+				}
+				const textPattern = this.textPattern;
+				if(null == textPattern || textPattern.length < 1) {
+					this.$nextTick(()=>this.$refs.textPattern.focus())
+					this.$message.warning('请输入正则表达式')
+					return false
+				}
+				return true
+			},
+			onMatch01() {
+				if (!this.isValidFields01()) {
+					return false
+				}
+				const flag = new RegExp(this.textPattern, this.checkVal.join(''))
+				let re = ''
+				const result = this.textSour.match(flag);
+				if(flag.test(this.textSour)){
+					this.strResult = "共找到 " + result.length + " 处匹配：\r\n"
+					result.forEach(item => re += item + "\r\n")
+					this.textMatchResult = re
+				}else{
+					this.textMatchResult = '（没有匹配）'
+				}
+			},
+			resetForm() {
+				this.textSour = ''
+				this.textPattern = ''
+				this.textMatchResult = ''
+				this.textReplace = ''
+				this.textReplaceResult = ''
+			},
+			getInputValue(event) {
+				this.textReplace += event.currentTarget.value
+			},
+			onReplace01() {
+				this.textReplaceResult = this.textSour.replace(new RegExp(this.textPattern, this.checkVal.join('')), this.textReplace);
+			}
 		}
-		a = list[i].match(/<a.*?href="([^"]+)".*?>([\s\S]+?)<\/a>/);
-		html += "{\"title\":\"" + a[2] + "\",\"url\":\"" + a[1] + "\",\"style\":{}}"
-		if(i!=list.length-1){
-			html+=",\n"
-		}else{
-			html+="]"
-		}
+	})
+</script>
+<script>
+	function dis() {
+		document.getElementById("bt1").disabled = true;
+		document.getElementById("bt2").disabled = true
+		document.getElementById("bt1").style="background-color:#ecf5ff"
+		document.getElementById("bt2").style="background-color:#ecf5ff"
 	}
-	$("#input").value = html*/
-	getInput()
-	getInput3()
-}
-
-function getInput3() {
-	text = $("#input").value;
-	if(text.match(/\&\&|::/g)) {
-		text = text.replace(/\&\&/g, '\n');
-		list = text.match(/.*::.*/g);
-		html = [];
-		for(i = 0; i < list.length; i++) {
-			l = list[i].match(/(.*)::(.*)/);
-			title = l[1];
-			url = l[2]
-			html.push({
-				title: title,
-				url: url,
-				style: {}
-			})
-		}
-		$("#input").value = JSON.stringify(html).replaceAll("},", "},\n")
-	} else {
-		html = "";
-		json = JSON.parse(text);
-		for(i in json) {
-			html += json[i].title + "::" + json[i].url + "\n"
-		}
-		$("#input").value = html
+	function di() {
+		document.getElementById("bt1").disabled = false;
+		document.getElementById("bt2").disabled = false
+		document.getElementById("bt1").style="background-color: #fff;"
+		document.getElementById("bt2").style="background-color: #fff;"
 	}
-}
-
-function getInput4(flag) {
-	text = $("#input").value;
-	if(flag == 1) {
-		json = JSON.parse(text);
-		for(i in json) {
-			json[i].style.layout_flexGrow = 1
-		}
-	} else {
-		json = JSON.parse(text);
-		for(i in json) {
-			json[i].style.layout_flexBasisPercent = flag
-		}
-	}
-	$("#input").value = JSON.stringify(json).replaceAll("},", "},\n")
-}
-
-function setVisible(idElement, visible) {
-	var obj = document.getElementById(idElement);
-	obj.style.visibility = visible ? "visible" : "hidden";
-}
-
-function isValidFields() {
-	var textSour = document.getElementById("textSour");
-	if(null == textSour.value || textSour.value.length < 1) {
-		textSour.focus();
-		JsonsMessageBox($("#textSour"), "请输入待匹配文本");
-		return false;
-	}
-	var textPattern = document.getElementById("textPattern");
-	if(null == textPattern.value || textPattern.value.length < 1) {
-		textPattern.focus();
-		JsonsMessageBox($("#textPattern"), "请输入正则表达式");
-		return false;
-	}
-	return true;
-}
-
-function buildRegex() {
-	var op = "";
-	if(document.getElementById("optionGlobal").checked) op = "g";
-	if(document.getElementById("optionIgnoreCase").checked) op = op + "i";
-	return new RegExp(document.getElementById("textPattern").value, op);
-}
-
-function onMatch() {
-	if(!isValidFields())
-		return false;
-	document.getElementById("textMatchResult").value = "";
-	var regex = buildRegex();
-	var result = document.getElementById("textSour").value.match(regex);
-	if(null == result || 0 == result.length) {
-		document.getElementById("textMatchResult").value = "（没有匹配）";
-		return false;
-	}
-	if(document.getElementById("optionGlobal").checked) {
-		var re = "";
-		var strResult = "共找到 " + result.length + " 处匹配：\r\n";
-		document.getElementById("textResult").innerText = strResult;
-		for(var i = 0; i < result.length; ++i) {
-			re += result[i] + "\r\n";
-		}
-		document.getElementById("textMatchResult").value = re;
-	} else {
-		document.getElementById("textMatchResult").value = "匹配位置：" + regex.lastIndex + "\r\n匹配结果：" + result[0];
-	}
-	return true;
-}
-
-function onReplace() {
-	var str = document.getElementById("textSour").value;
-	var regex = buildRegex();
-	document.getElementById("textReplaceResult").value = str.replace(regex, document.getElementById("textReplace").value);
-}
-
-function reset() {
-	$("#textSour").value = "";
-	$("#textPattern").value = "";
-	$("#textMatchResult").value = "";
-	$("#textReplace").value = "";
-	$("#textReplaceResult").value = "";
-}
-/*
-$("#regCommon a").click(function() {
-	$("#textPattern").val($(this).attr("t"));
-	onMatch();
-});
-*/
-function Empty() {
-	$("#textSour").value = "";
-	$("#textMatchResult").value = "";
-	$("#textReplace").value = "";
-	$("#textReplaceResult").value = "";
-	$("#textSour").select();
-}</script>
-	</body>
-
+</script>
+</body>
 </html>
