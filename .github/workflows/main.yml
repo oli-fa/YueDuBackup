@@ -35,4 +35,5 @@ jobs:
           github_token: ${{ secrets.docs }}
           publish_dir: docs/.vuepress/dist
           commit_message: ${{ github.event.head_commit.message }}
+          cname: yuedu.juhua.fun
 
