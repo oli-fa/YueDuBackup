@@ -30,6 +30,7 @@ jobs:
           npm run docs:build
           pwd
           ls -la
+          cp Tool/tool.html docs/.vuepress/dist
 
       - name: Deploy Github
         uses: peaceiris/actions-gh-pages@v3
