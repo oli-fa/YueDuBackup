@@ -3,8 +3,12 @@ name: Deploy
 on:
   # 每当 push 到 main 分支时触发部署
   push:
-    branches: [ main ]
-
+    branches: 
+      - master
+      - main
+  watch:
+    types: [started]
+      
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
