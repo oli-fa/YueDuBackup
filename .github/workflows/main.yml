@@ -3,12 +3,12 @@ name: Deploy
 on:
   # 每当 push 到 main 分支时触发部署
   push:
-    branches: 
+    branches:
       - master
       - main
 #  watch:
 #    types: [started]
-      
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -27,9 +27,9 @@ jobs:
           export GOOGLE_GA=${{ secrets.GOOGLE_GA }} GOOGLE_SEARCH_CONSOLE=${{ secrets.GOOGLE_SEARCH_CONSOLE }}
           git --no-pager log --oneline -n 20
           npm install
-          cp /tool/tool.html /docs/.vuepress/dist
           npm run docs:build
-          
+          cp tool/tool.html /docs/.vuepress/dist
+
 
       - name: Deploy Github
         uses: peaceiris/actions-gh-pages@v3
