@@ -29,7 +29,7 @@
 		}
 
 		.link {
-			color: #362F78;
+			color: ivory;
 			/*#409eff;*/
 			display: inline-flex;
 			flex-direction: row;
@@ -40,12 +40,11 @@
 			text-decoration: none;
 			outline: none;
 			cursor: pointer;
-			font-size: 1.3em;
+			font-size: 1.5em;
 			font-weight: bold;
-			/*margin: auto 2%;*/
+			margin: auto 2%;
 			/*background-color: aliceblue;*/
 		}
-
 
 		.textarea {
 			border-radius: 5px;
@@ -58,9 +57,6 @@
 			border-color: #409eff
 		}
 
-		.el-button{
-
-		}
 		.button {
 			display: inline-block;
 			line-height: 1;
@@ -108,7 +104,7 @@
 
 		.demo-input-suffix {
 			margin-left: 15px;
-			/*margin-bottom: 15px;*/
+			margin-bottom: 15px;
 		}
 
 		.form-control {
@@ -133,7 +129,6 @@
 			padding: 0 10px;
 			transition: border-color .2s cubic-bezier(.645, .045, .355, 1);
 			width: 100%;
-			margin-bottom:8px
 		}
 
 		.input:focus {
@@ -255,207 +250,8 @@
 			font-weight: bold;
 			background-color: #409eff;
 			color: White;
-		}
-
-		/* 悬浮弹出层提示框背景色和文字色 */
-		:root {
-		  --primary: #BEBADE;
-		  --primary-d: #A1B0CC;
-		  --primary-d-d: #3aa273;
-		  --success: #f0ad4e;
-		  --success-d: #eea236;
-		  --success-d-d: #ec971f;
-		  --info: #5bc0de;
-		  --info-d: #46b8da;
-		  --info-d-d: #31b0d5;
-		  --warning: #f0ad4e;
-		  --warning-d: #eea236;
-		  --warning-d-d: #ec971f;
-		  --danger: #d9534f;
-		  --danger-d: #d43f3a;
-		  --danger-d-d: #c9302c;
-		  --default: #f6f6f6;
-		  --default-d: #e9e9e9;
-		  --default-d-d: #dcdcdc;
-		}
-		.a-button {
-		  border-radius: 1px;
-		  border: 0px;
-		  cursor: pointer;
-		  position: relative;
-		  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
-		  transition: all 0.1s ease;
-		}
-		.a-button-sms {
-		  padding: 0px 10px;
-		  display: inline-block;
-		  text-align: center;
-		  line-height: 25px;
-		  font-size: 12px;
-		}
-		.a-button-sm {
-		  padding: 6px 12px;
-		  display: inline-block;
-		  text-align: center;
-		  line-height: 1.42857143;
-
-		}
-		.a-button-md {
-		  padding: 6px 18px;
-		  display: inline-block;
-		  text-align: center;
-		  line-height: 1.42857143;
-
-		}
-		.a-button-lg {
-		  padding: 10px 24px;
-		  display: inline-block;
-		  text-align: center;
-		  line-height: 1.42857143;
-		  margin: 0 5vw
-
-		}
-		.a-button-primary {
-		  color: #fff;
-		  background-color: var(--primary);
-		  border: 1px solid var(--primary-d);
-		}
-		.a-button-primary .a-button-ico {
-		  padding: 0px 5px 0px 0px;
-		  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-		}
-		.a-button-primary:hover {
-		  background-color: var(--primary-d);
-		  border: 1px solid var(--primary-d-d);
-		}
-		.a-button-success {
-		  color: #fff;
-		  background-color: var(--success);
-		  border: 1px solid var(--success-d);
-		}
-		.a-button-success .a-button-ico {
-		  padding: 0px 5px 0px 0px;
-		  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-		}
-		.a-button-success:hover {
-		  background-color: var(--success-d);
-		  border: 1px solid var(--success-d-d);
-		}
-		.a-button-info {
-		  color: #fff;
-		  background-color: var(--info);
-		  border: 1px solid var(--info-d);
-		}
-		.a-button-info .a-button-ico {
-		  padding: 0px 5px 0px 0px;
-		  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-		}
-		.a-button-info:hover {
-		  background-color: var(--info-d);
-		  border: 1px solid var(--info-d-d);
-		}
-		.a-button-warning {
-		  color: #fff;
-		  background-color: var(--warning);
-		  border: 1px solid var(--warning-d);
-		}
-		.a-button-warning .a-button-ico {
-		  padding: 0px 5px 0px 0px;
-		  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-		}
-		.a-button-warning:hover {
-		  background-color: var(--warning-d);
-		  border: 1px solid var(--warning-d-d);
-		}
-		.a-button-danger {
-		  color: #fff;
-		  background-color: var(--danger);
-		  border: 1px solid var(--danger-d);
-		}
-		.a-button-danger .a-button-ico {
-		  padding: 0px 5px 0px 0px;
-		  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-		}
-		.a-button-danger:hover {
-		  background-color: var(--danger-d);
-		  border: 1px solid var(--danger-d-d);
-		}
-		.a-button-default {
-		  color: #333;
-		  background-color: var(--default);
-		  border: 1px solid var(--default-d);
-		}
-		.a-button-default .a-button-ico {
-		  padding: 0px 5px 0px 0px;
-		  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-		}
-		.a-button-default:hover {
-		  background-color: var(--default-d);
-		  border: 1px solid var(--default-d-d);
-		}
-
-		.a-button-lg{
-			border-radius: 20px
-		}
-
-		.a-button-lg:before, .a-button-lg:after {
-			content: "";
-			position: absolute;
-			border-radius: 20px;
-			top: -2px;
-			left: -2px;
-			background: linear-gradient( 45deg, #fb0094, #0000ff, #00ff00, #ffff00, #ff0000, #fb0094, #0000ff, #00ff00, #ffff00, #ff0000 );
-			background-size: 400%;
-			width: calc(100% + 4px);
-			height: calc(100% + 4px);
-			z-index: -1;
-			animation: animate 20s linear infinite;
-		}
-
-		.a-button-lg:after {
-			filter: blur(20px);
-		}
-
-		@keyframes animate {
-		  0% {
-			background-position: 0 0;
-		  }
-		  50% {
-			background-position: 200% 0;
-		  }
-		  100% {
-			background-position: 0 0;
-		  }
-		}
-		@media screen and (max-width: 600px) {
-			.a-button-lg {
-			 padding:5px .5vw;
-			 margin: auto 5vw
-			}
-		}
-		@media screen and (max-width: 400px) {
-		.link {
-				font-size:16px
-			}
-			.a-button-lg {
-			 padding:5px;
-			 margin: auto 1vw
-			}
-		}
-		@media screen and (max-width: 300px) {
-		.link {
-				
-				font-size:14px
-			}
-			.a-button-lg {
-				 padding:3px;
-				 margin: auto .5vw
-			}
-		}
-
-		</style>
-	<script>
-	function $(selector) {
+		}</style>
+	<script>function $(selector) {
 		return document.querySelector(selector);
 	}
 
@@ -468,27 +264,8 @@
 
 <body>
 <center>
-<!-- a-link-button begain -->
-	<button class="a-button a-button-primary a-button-lg">
-		<a class="link" href="https://www.sojson.com/rehtml">
-			<span class="el-link--inner">HTML 转义</span>
-		</a>
-	</button>
-	<button class="a-button a-button-primary a-button-lg">
-		<a class="link" href="http://www.jsons.cn/urlencode/">
-			<span class="el-link--inner">URL 解码</span>
-		</a>
-	</button>
-	<button class="a-button a-button-primary a-button-lg">
-		<a class="link" href="/教程.html#美化版关耳工具简单使用">
-			<span class="el-link--inner">使用教程</span>
-		</a>
-	</button>
-	<!--
 	<a class="link" href="https://www.sojson.com/rehtml"><span class="el-link--inner">HTML 转义</span></a>
 	<a class="link" href="http://www.jsons.cn/urlencode/"><span class="el-link--inner">URL 解码</span></a>
-	<a class="link" href="#"><span class="el-link--inner">使用教程</span></a>
-	-->
 </center>
 
 <div id="app" v-cloak>
@@ -509,7 +286,7 @@
 		<button type="button" class="button" @click="getInput04(0.25)"><span>一行3个分组</span></button>
 		<button type="button" class="button" @click="getInput04(0.4)"><span>一行2个分组</span></button>
 		<button type="button" class="button" @click="getInput04(0.6)"><span>一行1个分组</span></button>
-		<button class="button" v-clipboard:copy="message" v-clipboard:success="onCopy" v-clipboard:error="onError"><span>一键复制</span></button>
+		<el-button v-clipboard:copy="message" v-clipboard:success="onCopy" v-clipboard:error="onError">一键复制</el-button>
 	</div>
 	<div class="card">
 		<center style="margin: 2vw;font-size: 1.5em;font-weight: bold;">正则表达式匹配替换</center>
@@ -550,7 +327,7 @@
 		<!--    <button type="button" class="button" onclick="return onMatch();"><span>验证匹配内容</span></button>-->
 		<button type="button" class="button" @click="onMatch01"><span>验证匹配内容</span></button>
 		<button type="button" class="button" @click="resetForm(regexpValidate)"><span>清空输入框</span></button>
-		<button class="button" v-clipboard:copy="textMatchResult" v-clipboard:success="onCopy" v-clipboard:error="onError"><span>一键复制</span></button>
+		<el-button v-clipboard:copy="textMatchResult" v-clipboard:success="onCopy" v-clipboard:error="onError">一键复制</el-button>
 		<div>
 			<label>
 				<div id="textResult">{{strResult}}</div>
@@ -577,7 +354,8 @@
 			<button type="button" class="button" value="-" @click="getInputValue"><span>-</span></button>
 		</div>
 		<button type="button" class="button" @click="onReplace01"><span>替换匹配内容</span></button>
-		<button class="button" v-clipboard:copy="textReplaceResult" v-clipboard:success="onCopy" v-clipboard:error="onError"><span>一键复制</span></button>
+		<button type="button" class="button" onclick="copyText2()"><span>一键复制</span></button>
+		<el-button v-clipboard:copy="textReplaceResult" v-clipboard:success="onCopy" v-clipboard:error="onError">一键复制</el-button>
 		<div>
 			<label>
 				<textarea rows="10" class="textarea" id="textReplaceResult" placeholder="此处为替换后内容" v-model="textReplaceResult"></textarea>
