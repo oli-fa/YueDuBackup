@@ -28,8 +28,6 @@ jobs:
           git --no-pager log --oneline -n 20
           npm install
           npm run docs:build
-          pwd
-          ls -la
           cp Tool/tool.html docs/.vuepress/dist
 
       - name: Deploy Github
