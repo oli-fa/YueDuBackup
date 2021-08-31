@@ -28,6 +28,7 @@ jobs:
           git --no-pager log --oneline -n 20
           npm install
           npm run docs:build
+      - run: cp tool/tool.html docs/.vuepress/dist/
 
       - name: Deploy Github
         uses: peaceiris/actions-gh-pages@v3
