@@ -31,8 +31,6 @@ jobs:
 
       - name: Deploy Github
         uses: peaceiris/actions-gh-pages@v3
-        run:
-          cp tool/tool.html docs/.vuepress/dist
         with:
           github_token: ${{ secrets.docs }}
           publish_dir: docs/.vuepress/dist
