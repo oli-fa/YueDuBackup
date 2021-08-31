@@ -11,7 +11,7 @@ cp tool/tool.html docs/.vuepress/dist
 cd docs/.vuepress/dist
 
 # 如果是发布到自定义域名
- echo 'yuedu.juhua.fun' > CNAME
+echo 'yuedu.juhua.fun' > CNAME
 
 git init
 git add -A
