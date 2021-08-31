@@ -29,6 +29,7 @@ jobs:
           npm install
           npm run docs:build
           pwd
+          ls -la
 
       - name: Deploy Github
         uses: peaceiris/actions-gh-pages@v3
