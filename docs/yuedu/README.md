@@ -9,6 +9,8 @@ title: 官方账号
 
 公众号名称：**`开源阅读软件`**，微信号：**`MyBookRead`**
 
+软件官网：[软件官网](http://www.legado.top/)
+
 软件源码地址：[软件源码地址](https://github.com/gedoor/legado)
 
 官方TG通知群：[官方TG通知群](https://t.me/legado_channels)
@@ -18,3 +20,4 @@ title: 官方账号
 源仓库：[源仓库](http://yck.mumuceo.com/)
 
 对于软件各个版本（R18，Pro，普通版本）的说明和区别请看阅读官方TG通知群[置顶](https://t.me/legado_channels/414)
+
