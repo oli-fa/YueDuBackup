@@ -5,11 +5,17 @@ module.exports = {
             collapsable: false,
             children: [
                 '/yuedu/',
+            ]
+        },
+        {
+            title: '小白入门教程',
+            collapsable: false,
+            children: [
                 '/yuedu/教程',
             ]
         },
         {
-            title: '说明',
+            title: '仓库文件说明',
             collapsable: false,
             children: [
                 '/yuedu/个人备份说明',
