@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>获取链接</title>
+		<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.5.1.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js"></script>
+		<style>
+		table{
+			width:90%;
+			border:5px solid #39c;
+		}
+		input{
+			width:95%;
+		}
+		</style>
+	</head>
+
+	<body>
+		<table class="" border="1" align="center" style="text-align: center;">
+			<tr>
+				<td>用户名</td>
+				<td><input type="text" name="Username" id="Username" value="oli-fa" /></td>
+			</tr>
+			<tr>
+				<td>仓库名</td>
+				<td><input type="text" name="RepositoryName" id="RepositoryName" value="" /></td>
+			</tr>
+			<tr>
+				<td>分支名</td>
+				<td><input type="text" name="BranchesName" id="BranchesName" value="main" /></td>
+			</tr>
+			<tr>
+				<td>&nbsp;路&nbsp;&nbsp;径&nbsp;</td>
+				<td><input type="text" name="Path" id="Path" value="" /></td>
+			</tr>
+			<tr>
+				<td>文件名</td>
+				<td><input type="text" name="FileName" id="FileName" value="" /></td>
+			</tr>
+			<tr>
+				<td>&nbsp;生&nbsp;&nbsp;成&nbsp;</td>
+				<td align="center">
+					<button class="pure-button pure-button-primary" id="create">&nbsp;确&nbsp;定&nbsp;</button>
+					<button class="pure-button button-blue" id="copy">复制结果</button>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<div id="out">
+
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<div align="center" style="">说明</div>
+					<div align="left">
+						FastGit：注意：单个文件太大时可能会提示超时（实时获取中），请重试。<br /> Bajins：Bajins的个人站点 <br /> CF加速1：每日10万次调用上限，由wuyanzheshui提供 <br /> CF加速2：每日10万次调用上限，由RC1844提供 <br /> CF加速3：每日10万次调用上限，由Ecalose提供 <br /> IAPK：IAPK工具箱·Github下载器 <br /> jsDelivr：项目当前分支总文件大小不可超过 50MB 注意：该加速源存在缓存机制（24小时），所以文件可能不是最新。当前分支名为版本号格式时（如 v1.2.3），该高速下载链接因格式限制不可 用<br /> Statically：只能浏览图片和源代码文件，文件大小限制为30MB 注意：该加速是全球 Anycast CDN，国内一般分配到日本节点。
+					</div>
+				</td>
+			</tr>
+		</table>
+		<script type="text/javascript">
+			//			console.log(RepositoryName)
+			//			console.log(BranchesName)
+			//			console.log(Path)
+			//			console.log(FileName)
+
+			$("#create").click(function() {
+				var Username = $("#Username").val();
+				var RepositoryName = $("#RepositoryName").val();
+				var BranchesName = $("#BranchesName").val();
+				var Path = $("#Path").val();
+				var FileName = $("#FileName").val();
+				if(Path[0] == "/") {
+					Path = Path.substr(1);
+				}
+				if(Path[Path.length - 1] == "/") {
+					Path = Path.substr(0, Path.length - 1);
+				}
+				if(!Username || !RepositoryName || !BranchesName || !Path || !FileName) {
+					alert("有值为空！")
+				}
+				str = "FastGit：<a href=\"https://raw.fastgit.org/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\">https://raw.fastgit.org/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				//str += "Bajins：<a href=\"https://github.bajins.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\">https://github.bajins.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				str += "CF加速：<a href=\"https://github.rc1844.workers.dev/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\">https://github.rc1844.workers.dev/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				//str += "IAPK：<a href=\"https://iapk.cc/github?url=https://github.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\">https://iapk.cc/github?url=https://github.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				str += "jsDelivr：<a href=\"https://cdn.jsdelivr.net/gh/" + Username + "/" + RepositoryName + "@" + BranchesName + "/" + Path + "/" + FileName + "\">https://cdn.jsdelivr.net/gh/" + Username + "/" + RepositoryName + "@" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				str += "Statically：<a href=\"https://cdn.staticaly.com/gh/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\">https://cdn.staticaly.com/gh/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				str += "韩国首尔：<a href=\"https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName +"\">https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				str += "Github Raw：<a href=\"https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\">https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				console.log(str)
+				$("#out").html(str);
+			});
+
+			$("#copy").click(function() {
+				var Username = $("#Username").val();
+				var RepositoryName = $("#RepositoryName").val();
+				var BranchesName = $("#BranchesName").val();
+				var Path = $("#Path").val();
+				var FileName = $("#FileName").val();
+				if(Path[0] == "/") {
+					Path = Path.substr(1);
+				}
+				if(Path[Path.length - 1] == "/") {
+					Path = Path.substr(0, Path.length - 1);
+				}
+				var copytxt = "FastGit：https://raw.fastgit.org/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\n";
+				//copytxt += "Bajins：https://github.bajins.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\n";
+				copytxt += "CF加速：https://github.rc1844.workers.dev/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\n";				
+				//copytxt += "IAPK：https://iapk.cc/github?url=https://github.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\n";
+				copytxt += "jsDelivr：https://cdn.jsdelivr.net/gh/" + Username + "/" + RepositoryName + "@" + BranchesName + "/" + Path + "/" + FileName + "\n";
+				copytxt += "Statically：https://cdn.staticaly.com/gh/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\n";
+				copytxt += "韩国首尔：https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\n";
+				copytxt += "Github Raw：https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName;
+				var clipboard = new ClipboardJS('#copy', {
+					text: function() {
+						return copytxt;
+					}
+				});
+				clipboard.on('success', function(e) {
+					alert("复制成功");
+				});
+
+				clipboard.on('error', function(e) {
+					console.log(e);
+				});
+			})
+		</script>
+	</body>
+
+</html>
