@@ -7,6 +7,13 @@ module.exports = {
                 '/yuedu/',
             ]
         },
+		{
+            title: '软件下载',
+            collapsable: false,
+            children: [
+                '/yuedu/软件下载',
+            ]
+        },
         {
             title: '小白入门教程',
             collapsable: false,
