@@ -127,6 +127,6 @@ if __name__ == '__main__':
     print("  Bug反馈 & 建议：")
     print("\thttps://github.com/oli-fa/YueDuBackup/issues/new")
     print("=====================================================================\n")
-    filePath=input("请输入将要批量美化的文件路径：")
+    filePath = input("请输入将要批量美化的文件路径：")
     getTestAll(filePath)
     input("运行结束。输入任何键，退出本工具！")
