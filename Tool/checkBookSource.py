@@ -75,7 +75,7 @@ print("""============================================
 ============================================\n\n""")
 
 # 设置文件目录
-path = input("请输入书源的绝对地址（bookSource）：")
+path = input("请输入将要校验的书源文件路径（bookSource）：")
 # path = r"D:\MyCode\Python\webState\bookSource.json"
 # 设置站点超时时间
 s = input("请设置超时时间（直接敲回车默认为10秒）")
