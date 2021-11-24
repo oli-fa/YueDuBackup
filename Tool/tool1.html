@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		<title>批量美化发现列表</title>
-		
+
 		<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.6.0.min.js" type="text/javascript" charset="utf-8"></script>
 		<style type="text/css">
 			#tips {
@@ -26,6 +26,7 @@
 				margin: 20px auto;
 				width: 90%;
 			}
+			
 		</style>
 	</head>
 
@@ -36,14 +37,13 @@
 			<h3>使用说明</h3> ★本工具是直接修改输入的文件！！请自行备份原文件！！
 			<br /> ★不保证完美美化，有些源作者写的发现可能不符合规范
 			<br /> ps: 我手上的测试数据并不多， 出现错误的自己看看书源里发现的格式是不是对的
-
 			<h3>发现格式声明</h3> 形如 分类名::分类url
 			<h3><a href="https://github.com/oli-fa/YueDuBackup/blob/master/Tool/toBeautify.py">py脚本源码地址</a></h3>
 			<h3><a href="https://github.com/oli-fa/YueDuBackup/blob/master/Tool/toBeautify.exe">exe下载地址</a></h3>
 			<h3><a href="https://github.com/oli-fa/YueDuBackup/issues/new">Bug反馈 & 建议</a></h3>
 		</div>
-		<div id="">
-
+		<div id="" style="margin:10px auto;color:red;font-size:28px;text-align:center">
+			生成需要时间,取决于当前设备的运行速度，请耐心等待。。。不要重复上传
 		</div>
 		<input type="file" id="file" name="file" accept=".json,.txt">
 		<button id="start">开始执行</button>
@@ -64,6 +64,7 @@
 			return false;
 		}
 
+
 		//切割发现列表字段中的字符串，进行美化
 		function toFormat(str) {
 			//去除多余空行,去除首位空格
@@ -71,6 +72,7 @@
 			//根据回车切出所有发现列
 			list1 = str.split("\n");
 			var result = "[";
+			var elem = document.getElementById("myBar");
 			for(var i = 0; i < list1.length; i++) {
 				//根据::进行切割，此刻列表存的就是分类和地址
 				list2 = list1[i].split("::");
@@ -82,10 +84,20 @@
 					list2[1] = "";
 				}
 				result += "{\"title\":\"" + list2[0] + "\",\"url\":\"" + list2[1] + "\",\"style\":{\"layout_flexGrow\":1}}";
-				console.log(list2[0] + "  " + list2[1])
+				//console.log(list2[0] + "  " + list2[1])
+				//设置进度条
+				//显示进度条
+				var id = setInterval(function frame() {
+					if(width >= 100) {
+						clearInterval(id);
+					} else {
+						elem.style.width = i / list1.length + '%';
+						elem.innerHTML = i / list1.length * 1 + '%';
+					}
+				}, 10);
 			}
 			result += "]";
-			console.log(result)
+			//console.log(result)
 			return result;
 		}
 
@@ -101,6 +113,7 @@
 			} else {
 				pom.click();
 			}
+			alert("转换成功！");
 		}
 
 		// 处理文件并下载
@@ -122,7 +135,6 @@
 			//console.log(data)
 			//保存数据 下载。文件名为newBookSource
 			download("newBookSource", JSON.stringify(data));
-
 		}
 
 		//主方法，进行格式化，并保存到原文件中。
@@ -146,7 +158,7 @@
 				reader.onload = function(evt) {
 					// 读取文件内容
 					var fileString = evt.target.result;
-					console.log(fileString)
+					//console.log(fileString)
 					formatFile($.parseJSON(fileString))
 				}
 			}
