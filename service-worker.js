@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c63e33e351d56e24b1584f8c3cf08467"
+    "revision": "f60c62b2806cb913f8ea077f40805714"
   },
   {
     "url": "assets/css/0.styles.e42cd381.css",
@@ -38,36 +38,36 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.99123f55.js",
-    "revision": "019d88cd560254512d2f72d9b2c3d873"
+    "url": "assets/js/10.70155d29.js",
+    "revision": "3a77eeed621e6cd9a5dae482994a863e"
   },
   {
-    "url": "assets/js/11.2ba05150.js",
-    "revision": "4805e24e441401fc7d400cedae7d5c7a"
+    "url": "assets/js/11.c42d83e9.js",
+    "revision": "e95628480310353f5419f22307e979b2"
   },
   {
-    "url": "assets/js/12.1ec62032.js",
-    "revision": "a42c134d8260972de596384342b98aed"
+    "url": "assets/js/12.2d5c464d.js",
+    "revision": "06890495e301302db2c4b37da17bf14c"
   },
   {
-    "url": "assets/js/13.174d5ed2.js",
-    "revision": "cf8de40fb3d240d1eebbd07d1e7c210f"
+    "url": "assets/js/13.f499c0d2.js",
+    "revision": "723d4381b6aba7e08cfa811006fbe700"
   },
   {
-    "url": "assets/js/14.6d02fade.js",
-    "revision": "0b67140257ec792db912bac54657d709"
+    "url": "assets/js/14.c8ef080b.js",
+    "revision": "0fc704e43934fa9544476231c8e1d897"
   },
   {
-    "url": "assets/js/15.e1fa73c1.js",
-    "revision": "35e30b3197371d226e41e1efb0091d38"
+    "url": "assets/js/15.aa1bcc22.js",
+    "revision": "24e54a7e8508de0bb5b14416c7378fe9"
   },
   {
-    "url": "assets/js/16.cb78f466.js",
-    "revision": "772409e22e1f2a35835b260ad2775f8d"
+    "url": "assets/js/16.fa3535b3.js",
+    "revision": "a0ae8614d099e4fdb87e63e2114acbf4"
   },
   {
-    "url": "assets/js/17.883317ab.js",
-    "revision": "773d48b8806870fb9fabb3343c4642cc"
+    "url": "assets/js/17.15c0a771.js",
+    "revision": "5e1ac226371769366593f99b751d5e96"
   },
   {
     "url": "assets/js/18.32f8005f.js",
@@ -106,8 +106,8 @@ self.__precacheManifest = [
     "revision": "e32455170efac087244d8fcef6f89048"
   },
   {
-    "url": "assets/js/app.6681074a.js",
-    "revision": "55aefcc0cae09601f994f67182110ab3"
+    "url": "assets/js/app.f40e6975.js",
+    "revision": "e726b28abb272602aabbe3fc57ca0394"
   },
   {
     "url": "icons/icon-128x128.png",
@@ -143,43 +143,43 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "3d83951ab42f379597268856c5143459"
+    "revision": "76c6d0ad818b4db509d82db1d42b6c75"
   },
   {
     "url": "yuedu/index.html",
-    "revision": "6f544337a08cd82e005866783ec729b6"
+    "revision": "697fd18c7c74af4c7e21b79958ddb31d"
   },
   {
     "url": "yuedu/个人备份说明.html",
-    "revision": "f020f62ba796324c22b8ba3dfd8a0ca5"
+    "revision": "b0d233737a919200cdff565ceb591ee1"
   },
   {
     "url": "yuedu/书源校验工具.html",
-    "revision": "5cc20878874fec87932145574324f707"
+    "revision": "87db4bbbad9aca1fe77cf371a0246aa0"
   },
   {
     "url": "yuedu/关耳美化发现工具.html",
-    "revision": "6934a10133b01f3cb4f96a33d19efd49"
+    "revision": "66a31a678a9796bf0d6ec983e1977015"
   },
   {
     "url": "yuedu/备份文件说明.html",
-    "revision": "fd426045cfcf0bbd841b08eba9584251"
+    "revision": "305e2305a6d974d2cbf676b8605b28d8"
   },
   {
     "url": "yuedu/批量美化发现列表.html",
-    "revision": "828f2680c59d30599ba13c3c4847bb96"
+    "revision": "6ea2a010b94d8a5e3e804ee8c5585310"
   },
   {
     "url": "yuedu/教程.html",
-    "revision": "e5ed731cae907a27ad5af172cc08e205"
+    "revision": "8f855136ad57941ce926661ed645bd09"
   },
   {
     "url": "yuedu/资源共享.html",
-    "revision": "b6fe1f9546aec50d9c342463090702b5"
+    "revision": "b825815a14e702a3cc0c121050c504ae"
   },
   {
     "url": "yuedu/软件下载.html",
-    "revision": "f23aeec414fac48c391323267122f84f"
+    "revision": "0cd770f79f4029996b00575037bf2627"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
