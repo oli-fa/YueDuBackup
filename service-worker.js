@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "5f30fa2df118faad7f7bba6b60b2b86a"
+    "revision": "e1fd00f12f73f7fcc21cef00350fc8f1"
   },
   {
     "url": "assets/css/0.styles.e42cd381.css",
@@ -106,8 +106,8 @@ self.__precacheManifest = [
     "revision": "e32455170efac087244d8fcef6f89048"
   },
   {
-    "url": "assets/js/app.4b58355f.js",
-    "revision": "2c049b9a98f8a0a2dfbb3f5f1ce37006"
+    "url": "assets/js/app.1fc46cbd.js",
+    "revision": "b68fdcd8ab626b3f49a89d0dddbac040"
   },
   {
     "url": "icons/icon-128x128.png",
@@ -143,43 +143,43 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5ec5e02f66d0c4b7e8cf2ac6a9e2fdd3"
+    "revision": "1be9bcaed15bab864f9d9001cf965469"
   },
   {
     "url": "yuedu/index.html",
-    "revision": "9414980c10cef59ae105631d768744aa"
+    "revision": "87962b127e1af331425fc4cecf517852"
   },
   {
     "url": "yuedu/个人备份说明.html",
-    "revision": "6e73a9d7ba2235e6c59ed33ea2077a09"
+    "revision": "0963ad7497ad6807da45a979fa2fe018"
   },
   {
     "url": "yuedu/书源校验工具.html",
-    "revision": "6964489235dc5f60ace38c375a91c1ce"
+    "revision": "244c9b3dcf25d1cac0c4a46daced7874"
   },
   {
     "url": "yuedu/关耳美化发现工具.html",
-    "revision": "8db241610e4ae42d43c027a41947d65b"
+    "revision": "ec45f08435dac1f38c8a28f09f985c87"
   },
   {
     "url": "yuedu/备份文件说明.html",
-    "revision": "dc1f7c286727307058e5367a889defb8"
+    "revision": "f9019906179a87ad047625a9043039cb"
   },
   {
     "url": "yuedu/批量美化发现列表.html",
-    "revision": "b2ec5539d23fdef7461006b6af03ceda"
+    "revision": "d0559563898f9c3e8739fb5dffba5f35"
   },
   {
     "url": "yuedu/教程.html",
-    "revision": "c93cdccbf5bd877bc5ed30327573e4cc"
+    "revision": "c6c908cc5912fc8efc972442a5439011"
   },
   {
     "url": "yuedu/资源共享.html",
-    "revision": "1c60f19b54650d3d65cd49cce2fdaa0d"
+    "revision": "fb1150d32d79b6299d5b3345e45f32c7"
   },
   {
     "url": "yuedu/软件下载.html",
-    "revision": "712a1b1432bd224bc78e5fc8a2e14f10"
+    "revision": "13d085c7981e84b4c78d6f9cf04b9032"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

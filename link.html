@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -6,14 +7,38 @@
 		<title>获取链接</title>
 		<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.5.1.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="format-detection" content="telephone=no" />
 		<style>
-		table{
-			width:90%;
-			border:5px solid #39c;
-		}
-		input{
-			width:95%;
-		}
+			table {
+				width: 90%;
+				border: 5px solid #39c;
+			}
+			
+			input {
+				width: 95%;
+			}
+			
+			body {
+				font-size: 22px
+			}
+			
+			@media only screen and (max-width:450px) {
+				body {
+					font-size: 25px
+				}
+				input {
+					font-size: 25px;
+				}
+				button {
+					font-size: 25px;
+				}
+				table {
+					width: 98%;
+					table-layout: fixed;
+				}
+			}
 		</style>
 	</head>
 
@@ -25,11 +50,11 @@
 			</tr>
 			<tr>
 				<td>仓库名</td>
-				<td><input type="text" name="RepositoryName" id="RepositoryName" value="" /></td>
+				<td><input type="text" name="RepositoryName" id="RepositoryName" value="YueDuBackup" /></td>
 			</tr>
 			<tr>
 				<td>分支名</td>
-				<td><input type="text" name="BranchesName" id="BranchesName" value="main" /></td>
+				<td><input type="text" name="BranchesName" id="BranchesName" value="master" /></td>
 			</tr>
 			<tr>
 				<td>&nbsp;路&nbsp;&nbsp;径&nbsp;</td>
@@ -55,9 +80,11 @@
 			</tr>
 			<tr>
 				<td colspan="2">
-					<div align="center" style="">说明</div>
-					<div align="left">
+					<div style="text-algn:center;font-size:30px;color:red;">说&nbsp;&nbsp;&nbsp;&nbsp;明</div>
+					<div style="margin:10px 0 0 20px;text-align:left">
 						FastGit：注意：单个文件太大时可能会提示超时（实时获取中），请重试。<br /> Bajins：Bajins的个人站点 <br /> CF加速1：每日10万次调用上限，由wuyanzheshui提供 <br /> CF加速2：每日10万次调用上限，由RC1844提供 <br /> CF加速3：每日10万次调用上限，由Ecalose提供 <br /> IAPK：IAPK工具箱·Github下载器 <br /> jsDelivr：项目当前分支总文件大小不可超过 50MB 注意：该加速源存在缓存机制（24小时），所以文件可能不是最新。当前分支名为版本号格式时（如 v1.2.3），该高速下载链接因格式限制不可 用<br /> Statically：只能浏览图片和源代码文件，文件大小限制为30MB 注意：该加速是全球 Anycast CDN，国内一般分配到日本节点。
+						<br/>
+						<div  align="right" style="padding:20px"><a href="https://github.com/ifwlzs">制作者：ifwlzs</a></div>	
 					</div>
 				</td>
 			</tr>
@@ -89,8 +116,10 @@
 				//str += "IAPK：<a href=\"https://iapk.cc/github?url=https://github.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\">https://iapk.cc/github?url=https://github.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
 				str += "jsDelivr：<a href=\"https://cdn.jsdelivr.net/gh/" + Username + "/" + RepositoryName + "@" + BranchesName + "/" + Path + "/" + FileName + "\">https://cdn.jsdelivr.net/gh/" + Username + "/" + RepositoryName + "@" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
 				str += "Statically：<a href=\"https://cdn.staticaly.com/gh/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\">https://cdn.staticaly.com/gh/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
-				str += "韩国首尔：<a href=\"https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName +"\">https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				str += "韩国首尔：<a href=\"https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\">https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
 				str += "Github Raw：<a href=\"https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\">https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				str += "Gitee Raw：<a href=\"https://gitee.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName+"\">https://gitee.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "</a><br >";
+				str += "Coding Raw：<a href=\"https://" + Username + ".coding.net/p/yue/d/" + RepositoryName + "/git/raw/" + BranchesName + "/" + Path + "/" + FileName+"?download=false"+"\">https://" + Username + ".coding.net/p/import-cbfl/d/" + RepositoryName + "/git/raw/" + BranchesName + "/" + Path + "/" + FileName+"?download=false</a><br >";
 				console.log(str)
 				$("#out").html(str);
 			});
@@ -109,12 +138,14 @@
 				}
 				var copytxt = "FastGit：https://raw.fastgit.org/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\n";
 				//copytxt += "Bajins：https://github.bajins.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\n";
-				copytxt += "CF加速：https://github.rc1844.workers.dev/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\n";				
+				copytxt += "CF加速：https://github.rc1844.workers.dev/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\n";
 				//copytxt += "IAPK：https://iapk.cc/github?url=https://github.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName + "\n";
 				copytxt += "jsDelivr：https://cdn.jsdelivr.net/gh/" + Username + "/" + RepositoryName + "@" + BranchesName + "/" + Path + "/" + FileName + "\n";
 				copytxt += "Statically：https://cdn.staticaly.com/gh/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\n";
 				copytxt += "韩国首尔：https://ghproxy.com/https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName + "\n";
-				copytxt += "Github Raw：https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName;
+				copytxt += "Github Raw：https://raw.githubusercontent.com/" + Username + "/" + RepositoryName + "/" + BranchesName + "/" + Path + "/" + FileName+"\n";
+				copytxt += "Gitee Raw：https://gitee.com/" + Username + "/" + RepositoryName + "/raw/" + BranchesName + "/" + Path + "/" + FileName+"\n";
+				copytxt += "Coding Raw: https://" + Username + ".coding.net/p/yue/d/" + RepositoryName + "/git/raw/" + BranchesName + "/" + Path + "/" + FileName+"?download=false"
 				var clipboard = new ClipboardJS('#copy', {
 					text: function() {
 						return copytxt;
