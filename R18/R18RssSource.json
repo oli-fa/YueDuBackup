@@ -1,6 +1,28 @@
 [
   {
     "articleStyle": 0,
+    "customOrder": -18480,
+    "enableJs": false,
+    "enabled": true,
+    "loadWithBaseUrl": false,
+    "ruleArticles": "class.listpic",
+    "ruleContent": "class.nbodys@html",
+    "ruleImage": "class.vodpic lazyload@data-original",
+    "ruleLink": "tag.a@href",
+    "ruleNextPage": "page",
+    "rulePubDate": "class.time@text",
+    "ruleTitle": "class.vodname@text",
+    "singleUrl": false,
+    "sortUrl": "精品图集::https://c52o6ii2qt78.xyz:52888/home/piclist/7/828-{{page}}.html\r\n欧美风情::https://c52o6ii2qt78.xyz:52888/home/piclist/7/829-{{page}}.html\r\n亚洲情色::https://c52o6ii2qt78.xyz:52888/home/piclist/7/830-{{page}}.html\r\n性爱自拍::https://c52o6ii2qt78.xyz:52888/home/piclist/7/831-{{page}}.html\r\n成人动漫::https://c52o6ii2qt78.xyz:52888/home/piclist/7/832-{{page}}.html\r\n美腿丝袜::https://c52o6ii2qt78.xyz:52888/home/piclist/7/833-{{page}}.html\r\n唯美写真::https://c52o6ii2qt78.xyz:52888/home/piclist/7/834-{{page}}.html\r\n人体艺术::https://c52o6ii2qt78.xyz:52888/home/piclist/7/835-{{page}}.html",
+    "sourceComment": "永久地址:52AVAV.com\n<js>github@ifwlzs</js>",
+    "sourceGroup": "ifwlzs,R18",
+    "sourceIcon": "https://avatars.githubusercontent.com/u/49548316",
+    "sourceName": "52∧∨图片频道",
+    "sourceUrl": "https://c52o6ii2qt78.xyz:52888/",
+    "style": "##github@ifwlzs"
+  },
+  {
+    "articleStyle": 0,
     "customOrder": -18479,
     "enableJs": true,
     "enabled": true,
@@ -13,11 +35,12 @@
     "ruleTitle": "class.title@tag.a@text",
     "singleUrl": false,
     "sortUrl": "福利姬::https://www.fuliji.buzz/?m=pic_list*29*{{page}}\r\n自拍流出::https://www.fuliji.buzz/?m=pic_list*27*{{page}}\r\n室外露出::https://www.fuliji.buzz/?m=pic_list*30*{{page}}\r\n扫街偷拍::https://www.fuliji.buzz/?m=pic_list*25*{{page}}\r\n写真合辑::https://www.fuliji.buzz/?m=pic_list*26*{{page}}\r\n异域风情::https://www.fuliji.buzz/?m=pic_list*28*{{page}}\r\n",
-    "sourceComment": "fuliji.top\n发邮件到fuliji880@gmail.com获取最新地址",
+    "sourceComment": "fuliji.top\n发邮件到fuliji880@gmail.com获取最新地址\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://www.fuliji.buzz/Template/9C18I049/images/fulijilogo.png",
     "sourceName": "福利姬",
-    "sourceUrl": "https://www.fuliji.buzz/"
+    "sourceUrl": "https://www.fuliji.buzz/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -33,11 +56,12 @@
     "ruleTitle": "desc",
     "singleUrl": false,
     "sortUrl": "热门::https://www.pornpics.com/search/srch.php?q=popular&limit=20&offset={{(page-1)*20}}\n搜索::https://www.pornpics.com/search/srch.php?q=关键字&limit=20&offset={{(page-1)*20}}\n丝袜::https://www.pornpics.com/search/srch.php?q=stocking&limit=20&offset={{(page-1)*20}}\r\n亚洲::https://www.pornpics.com/search/srch.php?q=asians&limit=20&offset={{(page-1)*20}}\r\n萝莉::https://www.pornpics.com/search/srch.php?q=lolita&limit=20&offset={{(page-1)*20}}\r\n青少年::https://www.pornpics.com/search/srch.php?q=teenager&limit=20&offset={{(page-1)*20}}\r\n白::https://www.pornpics.com/search/srch.php?q=white&limit=20&offset={{(page-1)*20}}\r\n自拍::https://www.pornpics.com/search/srch.php?q=Selfie&limit=20&offset={{(page-1)*20}}\r\n公开场合::https://www.pornpics.com/getchank2.php?rid=1&cat=102&limit=20&offset={{(page-1)*20}}\r\n",
-    "sourceComment": "需VPN\n搜索自行替换关键字，只支持英文搜索",
+    "sourceComment": "需VPN\n搜索自行替换关键字，只支持英文搜索\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://static.pornpics.com/favicon/favicon.ico",
     "sourceName": "pornpics",
-    "sourceUrl": "https://www.pornpics.com/"
+    "sourceUrl": "https://www.pornpics.com/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -55,11 +79,12 @@
     "ruleTitle": "class.post-meta-index@text",
     "singleUrl": false,
     "sortUrl": "all::http://kkoo.icu/page/{{page}}",
-    "sourceComment": "http://nsfwpicx.com/",
+    "sourceComment": "http://nsfwpicx.com/\n\t<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "http://kkoo.icu/favicon.ico",
     "sourceName": "NSFWPIXC",
-    "sourceUrl": "http://kkoo.icu/"
+    "sourceUrl": "http://kkoo.icu/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -76,11 +101,12 @@
     "ruleTitle": "class.thumb-under@text",
     "singleUrl": false,
     "sortUrl": "jk::https://www.xnxx.com/search/jk/{{page}}\n搜索::https://www.xnxx.com/search/关键词/{{page}}\njav::https://www.xnxx.com/search/jav/{{page}}\n国产::https://www.xnxx.com/search/国产/{{page}}",
-    "sourceComment": "需vpn\n搜索自己替换关键词\n【画质更改教程】\n内容规则中的『setVideoUrlLow』替换下面的英文。\n高清：setVideoUrlHigh\n标清：setVideoUrlLow",
+    "sourceComment": "需vpn\n搜索自己替换关键词\n【画质更改教程】\n内容规则中的『setVideoUrlLow』替换下面的英文。\n高清：setVideoUrlHigh\n标清：setVideoUrlLow\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://www.xnxx.com/favicon-32x32.png",
     "sourceName": "XNXX",
-    "sourceUrl": "https://www.xnxx.com/"
+    "sourceUrl": "https://www.xnxx.com/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -97,11 +123,12 @@
     "ruleTitle": "class.title@text",
     "singleUrl": false,
     "sortUrl": "jk::https://www.xvideos.com/?k=jk&p={{page}}\n搜索::https://www.xvideos.com/?k=关键词&p={{page}}\njav::https://www.xvideos.com/?k=jav&p={{page}}\n国产::https://www.xvideos.com/?k=国产&p={{page}}",
-    "sourceComment": "需vpn\n搜索自己替换关键词\n【画质更改教程】\n内容规则中的『setVideoUrlLow』替换下面的英文。\n高清：setVideoUrlHigh\n标清：setVideoUrlLow",
+    "sourceComment": "需vpn\n搜索自己替换关键词\n【画质更改教程】\n内容规则中的『setVideoUrlLow』替换下面的英文。\n高清：setVideoUrlHigh\n标清：setVideoUrlLow\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://www.xvideos.com/favicon-32x32.png",
     "sourceName": "XVideos",
-    "sourceUrl": "https://www.xvideos.com/"
+    "sourceUrl": "https://www.xvideos.com/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -120,7 +147,8 @@
     "sourceGroup": "R18",
     "sourceIcon": "https://xn--qbt00o3ns2fk.xyz/images/logo.png",
     "sourceName": "自拍图库",
-    "sourceUrl": "https://xn--qbt00o3ns2fk.xyz"
+    "sourceUrl": "https://xn--qbt00o3ns2fk.xyz",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -142,7 +170,8 @@
     "sourceGroup": "R18",
     "sourceIcon": "https://www.caiji01.com/public/images/arrow_up.png",
     "sourceName": "caiji01.com",
-    "sourceUrl": "http://caiji01.com/"
+    "sourceUrl": "http://caiji01.com/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -159,11 +188,12 @@
     "ruleTitle": "tag.a@title",
     "singleUrl": false,
     "sortUrl": "首页::https://smallgrassselfie.com/new/{{page}}\n搜索::https://smallgrassselfie.com/tag/搜索值/{{page}}\n少妇::https://smallgrassselfie.com/tag/少妇/{{page}}\n老婆::https://smallgrassselfie.com/tag/老婆/{{page}}\n女友::https://smallgrassselfie.com/tag/女友/{{page}}\n人妻::https://smallgrassselfie.com/tag/人妻/{{page}}\n情人::https://smallgrassselfie.com/tag/情人/{{page}}\n骚货::https://smallgrassselfie.com/tag/骚货/{{page}}\n情趣内衣::https://smallgrassselfie.com/tag/情趣内衣/{{page}}\n白虎::https://smallgrassselfie.com/tag/白虎/{{page}}\n少女::https://smallgrassselfie.com/tag/少女/{{page}}\n妹妹::https://smallgrassselfie.com/tag/妹妹/{{page}}\n极品::https://smallgrassselfie.com/tag/极品/{{page}}\n调教::https://smallgrassselfie.com/tag/调教/{{page}}\n粉嫩::https://smallgrassselfie.com/tag/粉嫩/{{page}}\n白丝::https://smallgrassselfie.com/tag/白丝/{{page}}\n黑丝::https://smallgrassselfie.com/tag/黑丝/{{page}}\n丝袜::https://smallgrassselfie.com/tag/丝袜/{{page}}\n第一次::https://smallgrassselfie.com/tag/第一次/{{page}}\n掰开::https://smallgrassselfie.com/tag/掰开/{{page}}\n户外::https://smallgrassselfie.com/tag/户外/{{page}}",
-    "sourceComment": "发布地址：https://xfsr.org\n\n我这里就写几个。其他tag自己加https://smallgrassselfie.com/tag-list\n搜索功能：\n直接更改下方的\"搜索值\"。\n",
+    "sourceComment": "发布地址：https://xfsr.org\n\n我这里就写几个。其他tag自己加https://smallgrassselfie.com/tag-list\n搜索功能：\n直接更改下方的\"搜索值\"。\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://smallgrassselfie.com/images/logo-md.png",
     "sourceName": "小草自拍",
-    "sourceUrl": "https://smallgrassselfie.com/"
+    "sourceUrl": "https://smallgrassselfie.com/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -173,7 +203,7 @@
     "header": "{\"User-Agent\":\"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36 Edg/91.0.864.67\"\n}",
     "loadWithBaseUrl": true,
     "ruleArticles": "li",
-    "ruleContent": "class.bz_message_table&&class.message@html##li|ul##div",
+    "ruleContent": "class.bz_message_table&&class.message@all##file##src",
     "ruleDescription": "",
     "ruleImage": "",
     "ruleLink": "a@href",
@@ -181,12 +211,13 @@
     "rulePubDate": "tag.a@tag.span.3@text",
     "ruleTitle": "a@tag.span.0@text",
     "singleUrl": false,
-    "sortUrl": "家庭乱伦::https://www.talk18.top/forum.php?mod=forumdisplay&fid=12&page={{page}}&mobile=2\r\n诱惑人妻::https://www.talk18.top/forum.php?mod=forumdisplay&fid=13&page={{page}}&mobile=2\r\n校园春色::https://www.talk18.top/forum.php?mod=forumdisplay&fid=14&page={{page}}&mobile=2\r\n职场经历::https://www.talk18.top/forum.php?mod=forumdisplay&fid=15&page={{page}}&mobile=2\r\n都市激情::https://www.talk18.top/forum.php?mod=forumdisplay&fid=16&page={{page}}&mobile=2\r\n武侠玄幻::https://www.talk18.top/forum.php?mod=forumdisplay&fid=17&page={{page}}&mobile=2\n网友自拍::https://www.talk18.top/forum.php?mod=forumdisplay&fid=6&page={{page}}&mobile=2\r\n偷拍街拍::https://www.talk18.top/forum.php?mod=forumdisplay&fid=7&page={{page}}&mobile=2\r\n日韩激情::https://www.talk18.top/forum.php?mod=forumdisplay&fid=8&page={{page}}&mobile=2\r\n欧美色图::https://www.talk18.top/forum.php?mod=forumdisplay&fid=9&page={{page}}&mobile=2\r\n唯美写真::https://www.talk18.top/forum.php?mod=forumdisplay&fid=10&page={{page}}&mobile=2\r\n成人动漫::https://www.talk18.top/forum.php?mod=forumdisplay&fid=11&page={{page}}&mobile=2\r",
-    "sourceComment": "发布页6996dizhi.com",
+    "sortUrl": "\n网友自拍::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=6&page={{page}}&mobile=2\r\n偷拍街拍::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=7&page={{page}}&mobile=2\r\n日韩激情::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=8&page={{page}}&mobile=2\r\n欧美色图::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=9&page={{page}}&mobile=2\r\n唯美写真::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=10&page={{page}}&mobile=2\r\n成人动漫::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=11&page={{page}}&mobile=2\r\n家庭乱伦::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=12&page={{page}}&mobile=2\r\n诱惑人妻::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=13&page={{page}}&mobile=2\r\n校园春色::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=14&page={{page}}&mobile=2\r\n职场经历::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=15&page={{page}}&mobile=2\r\n都市激情::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=16&page={{page}}&mobile=2\r\n武侠玄幻::https://www.tbke002.top/forum.php?mod=forumdisplay&fid=17&page={{page}}&mobile=2",
+    "sourceComment": "发布页\n6996dizhi.com\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
-    "sourceIcon": "https://www.talk18.top/favicon.ico",
-    "sourceName": "69色堂(文)",
-    "sourceUrl": "https://www.talk18.top/"
+    "sourceIcon": "https://www.tbke002.top/favicon.ico",
+    "sourceName": "69色堂(图文)",
+    "sourceUrl": "https://www.tbke002.top/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -202,40 +233,20 @@
     "rulePubDate": "class.updatetime.0@text",
     "ruleTitle": "class.name@text",
     "singleUrl": false,
-    "sortUrl": "精品图集::https://www.m525jorpjfnz.xyz:61443/home/piclist/25/1046-{{page}}.html\n欧美风情::https://www.m525jorpjfnz.xyz:61443/home/piclist/25/1047-{{page}}.html\n亚洲情色::https://www.m525jorpjfnz.xyz:61443/home/piclist/25/1048-{{page}}.html\n性爱自拍::https://www.m525jorpjfnz.xyz:61443/home/piclist/25/1049-{{page}}.html\n成人动漫::https://www.m525jorpjfnz.xyz:61443/home/piclist/25/1050-{{page}}.html\n美腿丝袜::https://www.m525jorpjfnz.xyz:61443/home/piclist/25/1051-{{page}}.html\n唯美写真::https://www.m525jorpjfnz.xyz:61443/home/piclist/25/1052-{{page}}.html\n人体艺术::https://www.m525jorpjfnz.xyz:61443/home/piclist/25/1053-{{page}}.html\n都市情感::https://www.m525jorpjfnz.xyz:61443/home/textlist/25/1055-{{page}}.html\n人妻熟女::https://www.m525jorpjfnz.xyz:61443/home/textlist/25/1056-{{page}}.html\n玄幻武侠::https://www.m525jorpjfnz.xyz:61443/home/textlist/25/1057-{{page}}.html\n另类其它::https://www.m525jorpjfnz.xyz:61443/home/textlist/25/1058-{{page}}.html\n明星校园::https://www.m525jorpjfnz.xyz:61443/home/textlist/25/1059-{{page}}.html\n家庭乱伦::https://www.m525jorpjfnz.xyz:61443/home/textlist/25/1060-{{page}}.html\n成人小说::https://www.m525jorpjfnz.xyz:61443/home/textlist/25/1061-{{page}}.html\n暴力虐待::https://www.m525jorpjfnz.xyz:61443/home/textlist/25/1062-{{page}}.html",
-    "sourceComment": "永久地址:52AVAV.com",
+    "sortUrl": "精品图集::https://c52o6ii2qt78.xyz:52888/home/piclist/25/1046-{{page}}.html\n欧美风情::https://c52o6ii2qt78.xyz:52888/home/piclist/25/1047-{{page}}.html\n亚洲情色::https://c52o6ii2qt78.xyz:52888/home/piclist/25/1048-{{page}}.html\n性爱自拍::https://c52o6ii2qt78.xyz:52888/home/piclist/25/1049-{{page}}.html\n成人动漫::https://c52o6ii2qt78.xyz:52888/home/piclist/25/1050-{{page}}.html\n美腿丝袜::https://c52o6ii2qt78.xyz:52888/home/piclist/25/1051-{{page}}.html\n唯美写真::https://c52o6ii2qt78.xyz:52888/home/piclist/25/1052-{{page}}.html\n人体艺术::https://c52o6ii2qt78.xyz:52888/home/piclist/25/1053-{{page}}.html\n都市情感::https://c52o6ii2qt78.xyz:52888/home/textlist/25/1055-{{page}}.html\n人妻熟女::https://c52o6ii2qt78.xyz:52888/home/textlist/25/1056-{{page}}.html\n玄幻武侠::https://c52o6ii2qt78.xyz:52888/home/textlist/25/1057-{{page}}.html\n另类其它::https://c52o6ii2qt78.xyz:52888/home/textlist/25/1058-{{page}}.html\n明星校园::https://c52o6ii2qt78.xyz:52888/home/textlist/25/1059-{{page}}.html\n家庭乱伦::https://c52o6ii2qt78.xyz:52888/home/textlist/25/1060-{{page}}.html\n成人小说::https://c52o6ii2qt78.xyz:52888/home/textlist/25/1061-{{page}}.html\n暴力虐待::https://c52o6ii2qt78.xyz:52888/home/textlist/25/1062-{{page}}.html",
+    "sourceComment": "永久地址:52AVAV.com\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://avatars.githubusercontent.com/u/49548316",
     "sourceName": "52∧∨图文",
-    "sourceUrl": "https://www.m525jorpjfnz.xyz:61443"
-  },
-  {
-    "articleStyle": 0,
-    "customOrder": -18466,
-    "enableJs": false,
-    "enabled": true,
-    "loadWithBaseUrl": false,
-    "ruleArticles": "class.listpic",
-    "ruleContent": "class.nbodys@html",
-    "ruleImage": "class.vodpic lazyload@data-original",
-    "ruleLink": "tag.a@href",
-    "ruleNextPage": "page",
-    "rulePubDate": "class.time@text",
-    "ruleTitle": "class.vodname@text",
-    "singleUrl": false,
-    "sortUrl": "精品图集::https://www.5jg6awtnneb78spk.com/home/piclist/7/828-{{page}}.html\r\n欧美风情::https://www.5jg6awtnneb78spk.com/home/piclist/7/829-{{page}}.html\r\n亚洲情色::https://www.5jg6awtnneb78spk.com/home/piclist/7/830-{{page}}.html\r\n性爱自拍::https://www.5jg6awtnneb78spk.com/home/piclist/7/831-{{page}}.html\r\n成人动漫::https://www.5jg6awtnneb78spk.com/home/piclist/7/832-{{page}}.html\r\n美腿丝袜::https://www.5jg6awtnneb78spk.com/home/piclist/7/833-{{page}}.html\r\n唯美写真::https://www.5jg6awtnneb78spk.com/home/piclist/7/834-{{page}}.html\r\n人体艺术::https://www.5jg6awtnneb78spk.com/home/piclist/7/835-{{page}}.html",
-    "sourceComment": "永久地址:52AVAV.com",
-    "sourceGroup": "ifwlzs,R18",
-    "sourceIcon": "https://avatars.githubusercontent.com/u/49548316",
-    "sourceName": "52∧∨图片频道",
-    "sourceUrl": "https://www.5jg6awtnneb78spk.com/"
+    "sourceUrl": "https://c52o6ii2qt78.xyz:52888",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
     "customOrder": -18465,
     "enableJs": true,
     "enabled": true,
-    "loadWithBaseUrl": false,
+    "loadWithBaseUrl": true,
     "ruleArticles": "class.tr3 t_one",
     "ruleContent": "id.read_tpc@html##<a .*>.*</a>",
     "ruleImage": "tag.img@data-original&&tag.img@src",
@@ -244,12 +255,13 @@
     "rulePubDate": "clsss.y-style.-1@text",
     "ruleTitle": "tag.h3@tag.a@text",
     "singleUrl": false,
-    "sortUrl": "唯美写真::https://q1.colin1994.xyz/pw/thread.php?fid=14&page={{page}}\n网友自拍::https://q1.colin1994.xyz/pw/thread.php?fid=15&page={{page}}\n露出激情::https://q1.colin1994.xyz/pw/thread.php?fid=16&page={{page}}\n街拍偷拍::https://q1.colin1994.xyz/pw/thread.php?fid=49&page={{page}}\n丝袜美腿::https://q1.colin1994.xyz/pw/thread.php?fid=21&page={{page}}\n欧美风情::https://q1.colin1994.xyz/pw/thread.php?fid=114&page={{page}}\n成人小说::https://q1.colin1994.xyz/pw/thread.php?fid=17&page={{page}}\n都市激情::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=1&page={{page}}\n家庭乱伦::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=2&page={{page}}\n校园之恋::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=3&page={{page}}\n武侠虚幻::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=4&page={{page}}\n名人明星::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=5&page={{page}}\n人妻熟女::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=6&page={{page}}\n另类奇遇::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=7&page={{page}}\n职场丽人::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=8&page={{page}}\n真实体验::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=9&page={{page}}\n强暴虐待::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=10&page={{page}}\n经验故事::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=11&page={{page}}\n真实生活::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=12&page={{page}}\n生活奇遇::https://q1.colin1994.xyz/pw/thread.php?fid=17&type=13&page={{page}}",
+    "sortUrl": "唯美写真::https://q1.f238605b.org/pw/thread.php?fid=14&page={{page}}\n网友自拍::https://q1.f238605b.org/pw/thread.php?fid=15&page={{page}}\n露出激情::https://q1.f238605b.org/pw/thread.php?fid=16&page={{page}}\n街拍偷拍::https://q1.f238605b.org/pw/thread.php?fid=49&page={{page}}\n丝袜美腿::https://q1.f238605b.org/pw/thread.php?fid=21&page={{page}}\n欧美风情::https://q1.f238605b.org/pw/thread.php?fid=114&page={{page}}\n成人小说::https://q1.f238605b.org/pw/thread.php?fid=17&page={{page}}\n都市激情::https://q1.f238605b.org/pw/thread.php?fid=17&type=1&page={{page}}\n家庭乱伦::https://q1.f238605b.org/pw/thread.php?fid=17&type=2&page={{page}}\n校园之恋::https://q1.f238605b.org/pw/thread.php?fid=17&type=3&page={{page}}\n武侠虚幻::https://q1.f238605b.org/pw/thread.php?fid=17&type=4&page={{page}}\n名人明星::https://q1.f238605b.org/pw/thread.php?fid=17&type=5&page={{page}}\n人妻熟女::https://q1.f238605b.org/pw/thread.php?fid=17&type=6&page={{page}}\n另类奇遇::https://q1.f238605b.org/pw/thread.php?fid=17&type=7&page={{page}}\n职场丽人::https://q1.f238605b.org/pw/thread.php?fid=17&type=8&page={{page}}\n真实体验::https://q1.f238605b.org/pw/thread.php?fid=17&type=9&page={{page}}\n强暴虐待::https://q1.f238605b.org/pw/thread.php?fid=17&type=10&page={{page}}\n经验故事::https://q1.f238605b.org/pw/thread.php?fid=17&type=11&page={{page}}\n真实生活::https://q1.f238605b.org/pw/thread.php?fid=17&type=12&page={{page}}\n生活奇遇::https://q1.f238605b.org/pw/thread.php?fid=17&type=13&page={{page}}",
+    "sourceComment": "<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
-    "sourceIcon": "https://q1.colin1994.xyz/favicon.ico",
+    "sourceIcon": "https://q1.f238605b.org/favicon.ico",
     "sourceName": "bt伙计(图文)",
-    "sourceUrl": "https://q1.colin1994.xyz/pw/",
-    "style": ""
+    "sourceUrl": "https://q1.f238605b.org/pw/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -260,17 +272,18 @@
     "ruleArticles": "class.tr3 t_one",
     "ruleContent": "class.tpc_content@html",
     "ruleImage": "tag.img@data-original&&tag.img@src",
-    "ruleLink": "class.tal@tag.a@href##\\s+.*",
+    "ruleLink": "class.tal@tag.a.0@href##\\s+.*",
     "ruleNextPage": "page",
     "rulePubDate": "class.f10@text",
-    "ruleTitle": "class.tal@text##\\s+",
+    "ruleTitle": "class.tal.0@text##\\s+Diss## ",
     "singleUrl": false,
-    "sortUrl": "网友自拍::https://v1.iu3y.space/2048/thread.php?fid-23-page-{{page}}.html\r\n亚洲激情::https://v1.iu3y.space/2048/thread.php?fid-24-page-{{page}}.html\r\n欧美激情::https://v1.iu3y.space/2048/thread.php?fid-25-page-{{page}}.html\r\n露出偷窥::https://v1.iu3y.space/2048/thread.php?fid-26-page-{{page}}.html\r\n高跟丝袜::https://v1.iu3y.space/2048/thread.php?fid-27-page-{{page}}.html\r\n卡通漫画::https://v1.iu3y.space/2048/thread.php?fid-28-page-{{page}}.html\r\n原创自拍::https://v1.iu3y.space/2048/thread.php?fid-135-page-{{page}}.html\r\n人妻意淫::https://v1.iu3y.space/2048/thread.php?fid-103-page-{{page}}.html\r\n乱伦迷情::https://v1.iu3y.space/2048/thread.php?fid-50-page-{{page}}.html\r\n长篇连载::https://v1.iu3y.space/2048/thread.php?fid-54-page-{{page}}.html\r\n文学作者::https://v1.iu3y.space/2048/thread.php?fid-100-page-{{page}}.html\r\n激情都市::https://v1.iu3y.space/2048/thread.php?fid-49-page-{{page}}.html\r\n青春校园::https://v1.iu3y.space/2048/thread.php?fid-51-page-{{page}}.html\r\n武侠虚幻::https://v1.iu3y.space/2048/thread.php?fid-52-page-{{page}}.html\r\n另类其他::https://v1.iu3y.space/2048/thread.php?fid-105-page-{{page}}.html\r\nTXT小说网盘区::https://v1.iu3y.space/2048/thread.php?fid-93-page-{{page}}.html\r\nTXT小说综合一区::https://v1.iu3y.space/2048/thread.php?fid-110-page-{{page}}.html\r\nTXT小说综合二区::https://v1.iu3y.space/2048/thread.php?fid-189-page-{{page}}.html\r\n都市校园::https://v1.iu3y.space/2048/thread.php?fid-190-page-{{page}}.html\r\n武侠小说::https://v1.iu3y.space/2048/thread.php?fid-191-page-{{page}}.html\r\n言情小说::https://v1.iu3y.space/2048/thread.php?fid-192-page-{{page}}.html\r\n同人小说::https://v1.iu3y.space/2048/thread.php?fid-193-page-{{page}}.html",
-    "sourceComment": "发布页hjd.tw",
+    "sortUrl": "网友自拍::https://v1.iu3y.space/2048/thread.php?fid-23-page-{{page}}.html\r\n亚洲激情::https://v1.iu3y.space/2048/thread.php?fid-24-page-{{page}}.html\r\n欧美激情::https://v1.iu3y.space/2048/thread.php?fid-25-page-{{page}}.html\r\n露出偷窥::https://v1.iu3y.space/2048/thread.php?fid-26-page-{{page}}.html\r\n高跟丝袜::https://v1.iu3y.space/2048/thread.php?fid-27-page-{{page}}.html\r\n卡通漫画::https://v1.iu3y.space/2048/thread.php?fid-28-page-{{page}}.html\r\n原创自拍::https://v1.iu3y.space/2048/thread.php?fid-135-page-{{page}}.html\n唯美清純::https://v1.iu3y.space/2048/thread.php?fid-21-page-{{page}}.html\n网络正妹::https://v1.iu3y.space/2048/thread.php?fid-274-page-{{page}}.html\n亞洲正妹::https://v1.iu3y.space/2048/thread.php?fid-275-page-{{page}}.html\n素人正妹::https://v1.iu3y.space/2048/thread.php?fid-276-page-{{page}}.html\nCOSPLAY::https://v1.iu3y.space/2048/thread.php?fid-277-page-{{page}}.html\n女优情报::https://v1.iu3y.space/2048/thread.php?fid-278-page-{{page}}.html\nGif动图::https://v1.iu3y.space/2048/thread.php?fid-29-page-{{page}}.html\n人妻意淫::https://v1.iu3y.space/2048/thread.php?fid-103-page-{{page}}.html\r\n乱伦迷情::https://v1.iu3y.space/2048/thread.php?fid-50-page-{{page}}.html\r\n长篇连载::https://v1.iu3y.space/2048/thread.php?fid-54-page-{{page}}.html\r\n文学作者::https://v1.iu3y.space/2048/thread.php?fid-100-page-{{page}}.html\r\n激情都市::https://v1.iu3y.space/2048/thread.php?fid-49-page-{{page}}.html\r\n青春校园::https://v1.iu3y.space/2048/thread.php?fid-51-page-{{page}}.html\r\n武侠虚幻::https://v1.iu3y.space/2048/thread.php?fid-52-page-{{page}}.html\r\n另类其他::https://v1.iu3y.space/2048/thread.php?fid-105-page-{{page}}.html\r\nTXT小说网盘区::https://v1.iu3y.space/2048/thread.php?fid-93-page-{{page}}.html\r\nTXT小说综合一区::https://v1.iu3y.space/2048/thread.php?fid-110-page-{{page}}.html\r\nTXT小说综合二区::https://v1.iu3y.space/2048/thread.php?fid-189-page-{{page}}.html\r\n都市校园::https://v1.iu3y.space/2048/thread.php?fid-190-page-{{page}}.html\r\n武侠小说::https://v1.iu3y.space/2048/thread.php?fid-191-page-{{page}}.html\r\n言情小说::https://v1.iu3y.space/2048/thread.php?fid-192-page-{{page}}.html\r\n同人小说::https://v1.iu3y.space/2048/thread.php?fid-193-page-{{page}}.html",
+    "sourceComment": "发布页hjd.tw\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://v1.iu3y.space/2048/favicon.ico",
     "sourceName": "2048论坛(图文)",
-    "sourceUrl": "https://v1.iu3y.space/2048/"
+    "sourceUrl": "https://v1.iu3y.space/2048/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -289,11 +302,12 @@
     "ruleTitle": "class.n5_htnrys cl@tag.a@text",
     "singleUrl": false,
     "sortUrl": "原创自拍区::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=155&page={{page}}&backforums=1&mobile=2\n转贴自拍::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=125&page={{page}}&backforums=1&mobile=2\n华人街拍区::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=50&page={{page}}&backforums=1&mobile=2\n亚洲性爱::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=48&page={{page}}&backforums=1&mobile=2\n欧美性爱::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=49&page={{page}}&backforums=1&mobile=2\n卡通动漫::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=117&page={{page}}&backforums=1&mobile=2\n原创人生::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=154&page={{page}}&backforums=1&mobile=2\n乱伦人妻::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=135&page={{page}}&backforums=1&mobile=2\n青春校园::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=137&page={{page}}&backforums=1&mobile=2\n武侠虚幻::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=138&page={{page}}&backforums=1&mobile=2\n激情都市::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=136&page={{page}}&backforums=1&mobile=2\n全部::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&mobile=2&page={{page}}\n凌辱虐情::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=673&mobile=2&page={{page}}\n玄幻武侠::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=682&mobile=2&page={{page}}\n绿意盎然::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=681&mobile=2&page={{page}}\n作者合集::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=680&mobile=2&page={{page}}\n同人衍生::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=679&mobile=2&page={{page}}\n历史古香::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=678&mobile=2&page={{page}}\n青春校园::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=677&mobile=2&page={{page}}\n女警英雄::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=676&mobile=2&page={{page}}\n都市奇缘::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=675&mobile=2&page={{page}}\n唯美纯爱::https://rewrfsrewr.xyz/forum.php?mod=forumdisplay&fid=139&filter=typeid&typeid=674&mobile=2&page={{page}}",
-    "sourceComment": "无长篇连载\nhttps://www.shjinting.com/",
+    "sourceComment": "无长篇连载\nhttps://www.shjinting.com/\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://rewrfsrewr.xyz/static/image/common/logo.png",
     "sourceName": "98堂(图文)",
-    "sourceUrl": "https://rewrfsrewr.xyz/"
+    "sourceUrl": "https://rewrfsrewr.xyz/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -308,13 +322,13 @@
     "ruleNextPage": "page",
     "ruleTitle": "tag.h3@text",
     "singleUrl": false,
-    "sortUrl": "技术讨论区-吹水区::https://cl.qs37.xyz/thread0806.php?fid=7&page={{page}}\n今日-吹水区::https://cl.qs37.xyz/thread0806.php?fid=7&search=today&page={{page}}\r\n新时代的我们::https://cl.qs37.xyz/thread0806.php?fid=8&page={{page}}\r\n达盖尔的旗帜-草榴自拍区::https://cl.qs37.xyz/thread0806.php?fid=16&page={{page}}\n今日-草榴自拍区::https://cl.qs37.xyz/thread0806.php?fid=16&search=today&page={{page}}\r\n成人文学交流区::https://cl.qs37.xyz/thread0806.php?fid=20&page={{page}}\r\n亚洲无码原创区::https://cl.qs37.xyz/thread0806.php?fid=2&page={{page}}\r\n亚洲有码原创区::https://cl.qs37.xyz/thread0806.php?fid=15&page={{page}}\r\n欧美原创区::https://cl.qs37.xyz/thread0806.php?fid=4&page={{page}}\r\n动漫原创区::https://cl.qs37.xyz/thread0806.php?fid=5&page={{page}}\r\n国产原创区::https://cl.qs37.xyz/thread0806.php?fid=25&page={{page}}\r\n中字原创区::https://cl.qs37.xyz/thread0806.php?fid=26&page={{page}}\r\nHTTP下载区::https://cl.qs37.xyz/thread0806.php?fid=21&page={{page}}",
-    "sourceComment": "永久域名(vpn)：t66y.com",
+    "sortUrl": "技术讨论区-吹水区::https://cl.5837z.xyz/thread0806.php?fid=7&page={{page}}\n今日-吹水区::https://cl.5837z.xyz/thread0806.php?fid=7&search=today&page={{page}}\r\n新时代的我们::https://cl.5837z.xyz/thread0806.php?fid=8&page={{page}}\r\n达盖尔的旗帜-草榴自拍区::https://cl.5837z.xyz/thread0806.php?fid=16&page={{page}}\n今日-草榴自拍区::https://cl.5837z.xyz/thread0806.php?fid=16&search=today&page={{page}}\r\n成人文学交流区::https://cl.5837z.xyz/thread0806.php?fid=20&page={{page}}\r\n亚洲无码原创区::https://cl.5837z.xyz/thread0806.php?fid=2&page={{page}}\r\n亚洲有码原创区::https://cl.5837z.xyz/thread0806.php?fid=15&page={{page}}\r\n欧美原创区::https://cl.5837z.xyz/thread0806.php?fid=4&page={{page}}\r\n动漫原创区::https://cl.5837z.xyz/thread0806.php?fid=5&page={{page}}\r\n国产原创区::https://cl.5837z.xyz/thread0806.php?fid=25&page={{page}}\r\n中字原创区::https://cl.5837z.xyz/thread0806.php?fid=26&page={{page}}\r\nHTTP下载区::https://cl.5837z.xyz/thread0806.php?fid=21&page={{page}}",
+    "sourceComment": "永久域名(vpn)：t66y.com\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
-    "sourceIcon": "https://cl.qs37.xyz/72.png",
+    "sourceIcon": "https://cl.5837z.xyz/72.png",
     "sourceName": "草榴",
-    "sourceUrl": "https://cl.qs37.xyz/",
-    "style": ""
+    "sourceUrl": "https://cl.5837z.xyz/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -554,7 +568,8 @@
     "ruleTitle": "class.image-list-item-title@text",
     "singleUrl": false,
     "sortUrl": "搜索::https://hentai-cosplays.com/search/keyword/Genshin/\n排行::https://hentai-cosplays.com/ranking/\n萝莉::https://hentai-cosplays.com/search/tag/lolita",
-    "sourceGroup": "R18",
+    "sourceComment": "<js>github@ifwlzs</js>",
+    "sourceGroup": "R18,ifwlzs",
     "sourceIcon": "https://avatars.githubusercontent.com/u/49548316",
     "sourceName": "hentai-cosplays",
     "sourceUrl": "https://hentai-cosplays.com/"
@@ -594,12 +609,12 @@
     "ruleTitle": "td!1@text&&h1@text&&article@a@p@text",
     "singleUrl": false,
     "sortUrl": "激情男女::https://caomei123.space/1024/cat/jiqing?page={{page}}\n街拍::https://caomei123.space/1024/cat/toupai?page={{page}}\n自拍::https://caomei123.space/1024/cat/selfie?page={{page}}\n亚洲模特::https://caomei123.space/asiangirl?page={{page}}\n欧美激情::https://caomei123.space/oumei?page={{page}}\n欧美范::https://caomei123.space/1024/cat/oumei?page={{page}}\n欧美流行::https://caomei123.space/popular\n欧美风::https://caomei123.space/xiao77/cat/euro?page={{page}}\n日本激图::https://caomei123.space/xiao77/cat/asian?page={{page}}\n街拍偷拍::https://caomei123.space/xiao77/cat/jiepai?page={{page}}\n网友自拍::https://caomei123.space/xiao77/cat/self?page={{page}}\n女演员::https://caomei123.space/xiao77/cat/meinv?page={{page}}\n小说::https://caomei123.space/novellist?page={{page}}",
-    "sourceComment": "新增线路：https://caomei123.online/ 或者：https://caomei123.space/",
+    "sourceComment": "新增线路：https://caomei123.online/ 或者：https://caomei123.space/\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://caomei123.space/favicon.ico",
     "sourceName": "草莓图库",
     "sourceUrl": "https://caomei123.space/",
-    "style": "img {\nwidth:100%;\nheight:auto;\n}"
+    "style": "img {\nwidth:100%;\nheight:auto;\n}##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -1166,26 +1181,6 @@
   {
     "articleStyle": 0,
     "customOrder": 0,
-    "enableJs": false,
-    "enabled": true,
-    "loadWithBaseUrl": false,
-    "ruleArticles": "class.white-panel||tr",
-    "ruleContent": "class.card-header.0@all&&class.card-body.0@all&&class.pagination@all&&@tag.link@all",
-    "ruleImage": "img@src",
-    "ruleLink": "tag.h1@tag.a@href||tag.a.0@href",
-    "ruleNextPage": "page",
-    "ruleTitle": "h1@text||tag.td.0@tag.a@text||tag.td.0@text",
-    "singleUrl": false,
-    "sortUrl": "卡通::https://imghub.space/1024/cat/cartoon?page={{page}}\r\n欧美大妞::https://imghub.space/1024/cat/euro?page={{page}}\r\n激情男女::https://imghub.space/1024/cat/jiqing?page={{page}}\r\n亚洲模特::https://imghub.space/asiangirl?page={{page}}\r\n日本激图::https://imghub.space/xiao77/cat/asian?page={{page}}\r\n街拍偷拍::https://imghub.space/xiao77/cat/jiepai?page={{page}}\r\n网友自拍::https://imghub.space/xiao77/cat/self?page={{page}}\r\n女演员::https://imghub.space/xiao77/cat/meinv?page={{page}}\r\n偷拍男女::https://imghub.space/1024/cat/toupai?page={{page}}\r\n自拍男女::https://imghub.space/1024/cat/selfie?page={{page}}\r\n学生校园::https://imghub.space/novel/cat/1?page={{page}}\r\n都市生活::https://imghub.space/novel/cat/2?page={{page}}\r\n人妻熟女::https://imghub.space/novel/cat/3?page={{page}}\r\n短篇文学::https://imghub.space/novel/cat/4?page={{page}}\r\n家庭乱伦::https://imghub.space/novel/cat/5?page={{page}}\r\n",
-    "sourceComment": "备用：https://imghub12.website/",
-    "sourceGroup": "ifwlzs,R18",
-    "sourceIcon": "https://imghub.space/logo.png",
-    "sourceName": "ImgHUB",
-    "sourceUrl": "https://imghub.space/"
-  },
-  {
-    "articleStyle": 0,
-    "customOrder": 0,
     "enableJs": true,
     "enabled": true,
     "header": " {\n\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36\",\"Cookie\":\"PHPSESSID=a34vc1b5bvvihau4svk26ncle3; TSCvalue=gb; javascript_cookie_Eighteenth=I_am_over_18_years_old\"\n}",
@@ -1204,26 +1199,6 @@
     "sourceName": "18(1004)",
     "sourceUrl": "https://maa1805.com",
     "style": ".dz {\nwidth:100%; \npadding:5px 0;\nborder:solid; \nborder-radius:5px;\noverflow:scroll;\nbackground-color:#dddddd\n}"
-  },
-  {
-    "articleStyle": 0,
-    "customOrder": 0,
-    "enableJs": true,
-    "enabled": true,
-    "loadWithBaseUrl": true,
-    "ruleArticles": "class.lo1ad1ed",
-    "ruleContent": "<js>\nurl=result.match(/downurl = '(.+)'/)[1].replace(/d.9xxav/,'ncp-wpg')+'.m3u8'\n\nresult = \"<video src=\\\"\" + url + \"\\\" width=\\\"100%\\\" height=\\\"auto\\\" controls=\\\"controls\\\" ></video>\";\r\nresult = \"<html><head><meta charset=\\\"utf-8\\\"><meta name=\\\"viewport\\\" content=\\\"width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no\\\" /><style>html,body{margin:0;padding:0;width:100%;}</style></head><body>\" + result + \"</body></html>\"\n result</js>",
-    "ruleImage": "tag.script@html\n<js>\"https://5pfjgjhk1.com/\"+ result.substring( result.indexOf(\"getPicUrl\")+11,result.indexOf(\");\")-1)</js>",
-    "ruleLink": "tag.a@href",
-    "rulePubDate": "class.videoBox-time@text",
-    "ruleTitle": "class.title@text",
-    "singleUrl": false,
-    "sortUrl": "中文::https://www.ncnc12.xyz/Html/94/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n国产::https://www.ncnc12.xyz/Html/2/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n无码::https://www.ncnc12.xyz/Html/115/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n女优::https://www.ncnc12.xyz/Html/100/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n爆乳::https://www.ncnc12.xyz/Html/112/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n素人::https://www.ncnc12.xyz/Html/111/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n自拍::https://www.ncnc12.xyz/Html/89/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n少女::https://www.ncnc12.xyz/Html/93/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n精品::https://www.ncnc12.xyz/Html/88/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n网红::https://www.ncnc12.xyz/Html/91/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n少妇::https://www.ncnc12.xyz/Html/90/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n美腿::https://www.ncnc12.xyz/Html/87/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n欧美::https://www.ncnc12.xyz/Html/62/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n三级::https://www.ncnc12.xyz/Html/109/{{page - 1 == 0 ? \"\":\"index-\"+page+\".html\"}}\r\nAV::https://www.ncnc12.xyz/Html/114/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n最新女优::https://www.ncnc12.xyz/Html/1/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}",
-    "sourceComment": "嫩草影院永久地址： ncdy01.xyz\n嫩草影院永久地址： ncyb24.com \nhttps://www.ncfb02.com/\n或发送邮件到nengcao@mail.com自动获取最新地址",
-    "sourceGroup": "ifwlzs,R18",
-    "sourceIcon": "https://www.ncnc12.xyz/favicon.ico",
-    "sourceName": "嫩草影院",
-    "sourceUrl": "https://www.ncnc12.xyz/"
   },
   {
     "articleStyle": 0,
@@ -1253,6 +1228,48 @@
     "enableJs": true,
     "enabled": true,
     "loadWithBaseUrl": true,
+    "ruleArticles": "class.lo1ad1ed",
+    "ruleContent": "<js>\nurl=result.match(/downurl = '(.+)'/)[1].replace(/d.9xxav/,'ncp-wpg')+'.m3u8'\n\nresult = \"<video src=\\\"\" + url + \"\\\" width=\\\"100%\\\" height=\\\"auto\\\" controls=\\\"controls\\\" ></video>\";\r\nresult = \"<html><head><meta charset=\\\"utf-8\\\"><meta name=\\\"viewport\\\" content=\\\"width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no\\\" /><style>html,body{margin:0;padding:0;width:100%;}</style></head><body>\" + result + \"</body></html>\"\n result</js>",
+    "ruleImage": "tag.script@html\n<js>\"https://5pfjgjhk1.com/\"+ result.substring( result.indexOf(\"getPicUrl\")+11,result.indexOf(\");\")-1)</js>",
+    "ruleLink": "tag.a@href",
+    "rulePubDate": "class.videoBox-time@text",
+    "ruleTitle": "class.title@text",
+    "singleUrl": false,
+    "sortUrl": "中文::https://www.ncnc12.xyz/Html/94/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n国产::https://www.ncnc12.xyz/Html/2/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n无码::https://www.ncnc12.xyz/Html/115/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n女优::https://www.ncnc12.xyz/Html/100/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n爆乳::https://www.ncnc12.xyz/Html/112/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n素人::https://www.ncnc12.xyz/Html/111/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n自拍::https://www.ncnc12.xyz/Html/89/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n少女::https://www.ncnc12.xyz/Html/93/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n精品::https://www.ncnc12.xyz/Html/88/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n网红::https://www.ncnc12.xyz/Html/91/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n少妇::https://www.ncnc12.xyz/Html/90/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n美腿::https://www.ncnc12.xyz/Html/87/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n欧美::https://www.ncnc12.xyz/Html/62/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n三级::https://www.ncnc12.xyz/Html/109/{{page - 1 == 0 ? \"\":\"index-\"+page+\".html\"}}\r\nAV::https://www.ncnc12.xyz/Html/114/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}\r\n最新女优::https://www.ncnc12.xyz/Html/1/{{page - 1 == 0 ? \"\": \"index-\"+page+\".html\"}}",
+    "sourceComment": "嫩草影院永久地址： ncdy01.xyz\n嫩草影院永久地址： ncyb24.com \nhttps://www.ncfb02.com/\n或发送邮件到nengcao@mail.com自动获取最新地址\n<js>github@ifwlzs</js>",
+    "sourceGroup": "ifwlzs,R18",
+    "sourceIcon": "https://www.ncnc12.xyz/favicon.ico",
+    "sourceName": "嫩草影院",
+    "sourceUrl": "https://www.ncnc12.xyz/",
+    "style": "##github@ifwlzs"
+  },
+  {
+    "articleStyle": 0,
+    "customOrder": 0,
+    "enableJs": false,
+    "enabled": true,
+    "loadWithBaseUrl": false,
+    "ruleArticles": "class.white-panel||tr",
+    "ruleContent": "class.card-header.0@all&&class.card-body.0@all&&class.pagination@all&&@tag.link@all",
+    "ruleImage": "img@src",
+    "ruleLink": "tag.h1@tag.a@href||tag.a.0@href",
+    "ruleNextPage": "page",
+    "ruleTitle": "h1@text||tag.td.0@tag.a@text||tag.td.0@text",
+    "singleUrl": false,
+    "sortUrl": "卡通::https://imghub.space/1024/cat/cartoon?page={{page}}\r\n欧美大妞::https://imghub.space/1024/cat/euro?page={{page}}\r\n激情男女::https://imghub.space/1024/cat/jiqing?page={{page}}\r\n亚洲模特::https://imghub.space/asiangirl?page={{page}}\r\n日本激图::https://imghub.space/xiao77/cat/asian?page={{page}}\r\n街拍偷拍::https://imghub.space/xiao77/cat/jiepai?page={{page}}\r\n网友自拍::https://imghub.space/xiao77/cat/self?page={{page}}\r\n女演员::https://imghub.space/xiao77/cat/meinv?page={{page}}\r\n偷拍男女::https://imghub.space/1024/cat/toupai?page={{page}}\r\n自拍男女::https://imghub.space/1024/cat/selfie?page={{page}}\r\n学生校园::https://imghub.space/novel/cat/1?page={{page}}\r\n都市生活::https://imghub.space/novel/cat/2?page={{page}}\r\n人妻熟女::https://imghub.space/novel/cat/3?page={{page}}\r\n短篇文学::https://imghub.space/novel/cat/4?page={{page}}\r\n家庭乱伦::https://imghub.space/novel/cat/5?page={{page}}\r\n",
+    "sourceComment": "备用：https://imghub12.website/\n<js>github@ifwlzs</js>",
+    "sourceGroup": "ifwlzs,R18",
+    "sourceIcon": "https://imghub.space/logo.png",
+    "sourceName": "ImgHUB",
+    "sourceUrl": "https://imghub.space/",
+    "style": "##github@ifwlzs"
+  },
+  {
+    "articleStyle": 0,
+    "customOrder": 0,
+    "enableJs": true,
+    "enabled": true,
+    "loadWithBaseUrl": true,
     "ruleArticles": "class.update_area_lists cl@li||.update_area@li",
     "ruleContent": "class.content@html##nav[\\s\\u0000-\\uffff]*##\"></div>",
     "ruleImage": "tag.img@data-original&&tag.img@src",
@@ -1262,11 +1279,12 @@
     "ruleTitle": "class.meta-title@text||class.img_title@text",
     "singleUrl": false,
     "sortUrl": "首页::https://www.99zipai.com/{{page - 1 == 0 ? \"\": \"index_\"+page+\".html\"}}\n美图分享::https://www.99zipai.com/share/{{page - 1 == 0 ? \"\": \"index_\"+page+\".html\"}}\n自拍::https://www.99zipai.com/selfies/{{page - 1 == 0 ? \"\": \"index_\"+page+\".html\"}}",
-    "sourceComment": "https://www.7aipai.com/\n",
+    "sourceComment": "https://www.7aipai.com/\n<js>github@ifwlzs</js>",
     "sourceGroup": "ifwlzs,R18",
     "sourceIcon": "https://www.99zipai.com/skin/5zipai/images/logo.png",
     "sourceName": "美拍",
-    "sourceUrl": "https://www.99zipai.com/"
+    "sourceUrl": "https://www.99zipai.com/",
+    "style": "##github@ifwlzs"
   },
   {
     "articleStyle": 0,
@@ -1321,7 +1339,7 @@
     "ruleLink": "",
     "singleUrl": true,
     "sortUrl": "",
-    "sourceComment": "http://xiaoernb.com/",
+    "sourceComment": "http://xiaoernb.com/\n<js>github@ifwlzs</js>",
     "sourceGroup": "R18",
     "sourceIcon": "https://qm6.lanzoui.com/images/type/folder.gif",
     "sourceName": "小二车库",
