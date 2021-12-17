@@ -330,18 +330,27 @@
 				</center>
 				<div>
 					<label>
-				<textarea rows="10" class="textarea" id="input" onfocus="di()" placeholder="格式化发现请输入带html标签的发现内容，或者旧格式的发现" v-model="message"></textarea>
+				<textarea rows="10" class="textarea" id="input" onfocus="di()" placeholder="格式化发现：请输入带html标签的发现内容，或者旧格式的发现" v-model="message"></textarea>
 			</label>
 				</div>
+				<div>&nbsp;&nbsp;&nbsp;&nbsp;准备工作(转换为新发现格式)：<br>
 				<button type="button" class="button" @click="getInput01" id="bt1"><span>HTML转[旧]发现</span></button>
 				<button type="button" class="button" @click="getInput02" id="bt2"><span>HTML转[新]发现</span></button>
 				<button type="button" class="button" @click="getInput03"><span>发现格式互转</span></button>
-				<button type="button" class="button" @click="getInput04(1)"><span>[新发现必选项]自动排版</span></button>
-				<button type="button" class="button" @click="getInput04(0.2)"><span>[新发现]一行4个分组</span></button>
-				<button type="button" class="button" @click="getInput04(0.25)"><span>[新发现]一行3个分组</span></button>
-				<button type="button" class="button" @click="getInput04(0.4)"><span>[新发现]一行2个分组</span></button>
-				<button type="button" class="button" @click="getInput04(0.6)"><span>[新发现]一行1个分组</span></button>
+				</div>
+				<div style="background:#e2eaff">&nbsp;&nbsp;&nbsp;&nbsp;开始美化(新发现格式)：<br>
+				<button type="button" class="button" @click="getInput04(1)"><span>[必选项]自动排版</span></button>
+				<button type="button" class="button" @click="getInput04(0.2)"><span>一行4个分组</span></button>
+				<button type="button" class="button" @click="getInput04(0.25)"><span>一行3个分组</span></button>
+				<button type="button" class="button" @click="getInput04(0.4)"><span>一行2个分组</span></button>
+				<button type="button" class="button" @click="getInput04(0.6)"><span>一行1个分组</span></button>
+				<button type="button" class="button" @click="getInput04(0.15)"><span>一行5个分组</span></button>
+				<button type="button" class="button" @click="getInput04(0.1)"><span>一行7个分组</span></button>
+				<button type="button" class="button" @click="getInput04(0.05)"><span>[占位符]一行10个</span></button>
+				</div>
+				<div>&nbsp;&nbsp;&nbsp;&nbsp;复制结果：<br>
 				<button class="button" v-clipboard:copy="message" v-clipboard:success="onCopy" v-clipboard:error="onError"><span>一键复制</span></button>
+				</div>
 			</div>
 			<div class="card">
 				<center style="margin: 2vw;font-size: 1.5em;font-weight: bold;">正则表达式匹配替换</center>
