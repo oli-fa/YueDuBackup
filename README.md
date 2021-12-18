@@ -21,6 +21,6 @@
 
 这个小人。偷老子的**18订阅源、美化工具。把作者全删了**，改改就是你的是吧？发到源仓库里还搁那引流到自己Q群，**群内收集个人信息并要求拍个人生殖器做验证**？真不要脸啊。
 
-![image](https://gitee.com/ifwlzs/img/raw/master/img/146641534-428d461b-5dbc-44d0-ac4a-a92a237f36b1.png)
+![image](https://user-images.githubusercontent.com/49548316/146642284-1fbb9d89-4d7f-4b0d-8781-48d6e514489f.png)
 
 ---
