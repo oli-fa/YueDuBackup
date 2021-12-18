@@ -1,5 +1,12 @@
 module.exports = {
     '': [
+		{
+            title: '公告',
+            collapsable: false,
+            children: [
+                '/yuedu/公告',
+            ]
+        },
         {
             title: '指南',
             collapsable: false,
