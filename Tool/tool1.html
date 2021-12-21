@@ -124,7 +124,8 @@
 				//去除多余空行,去除首位空格
 				str = str.replace(/\n+/, "\n").replace(/(^\s*)|(\s*$)/g, "");
 				//根据回车切出所有发现列
-				list1 = str.split("\n");
+				list1 = str.split(/\n|&&/);
+				console.log(list1)
 				var result = "[";
 				for(var i = 0; i < list1.length; i++) {
 					//根据::进行切割，此刻列表存的就是分类和地址
@@ -165,11 +166,11 @@
 				var bar = $("#bar");
 				$.each(data, function(infoIndex, info) {
 					//console.log(info)
-					var explorUrl = checkJsonIsNone(info);
-					//console.log(explorUrl);
-					if(explorUrl != false) {
-						explorUrl = toFormat(explorUrl)
-						info['explorUrl'] = explorUrl;
+					var exploreUrl = checkJsonIsNone(info);
+					//console.log(exploreUrl);
+					if(exploreUrl != false) {
+						exploreUrl = toFormat(exploreUrl)
+						info['exploreUrl'] = exploreUrl;
 
 					}
 					//console.log(info)
