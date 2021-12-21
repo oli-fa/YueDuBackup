@@ -58,8 +58,8 @@ def checkFormat(i):
 
 # 切割发现列表字段中的字符串，进行美化
 def toFormat(str):
-    # 根据回车进行切割
-    str = re.sub("\n+", "\n", str).strip()
+    # 根据回车和&&进行切割
+    str = re.sub("\n+|&&", "\n", str).strip()
     # print("63 -->str", str)
     list1 = re.split("\n", str)
     # print("65 list-->", list1, len(list1))
