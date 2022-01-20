@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "238c68cd56b0609730db6e7e93ca8218"
+    "revision": "78f4b1543f9def547321bacd378a46f6"
   },
   {
     "url": "assets/css/0.styles.e42cd381.css",
@@ -42,36 +42,36 @@ self.__precacheManifest = [
     "revision": "b17d5f4eb5ffaa2506ce7ef4e8bb69f7"
   },
   {
-    "url": "assets/js/11.2e57207a.js",
-    "revision": "1c50abbdcf2dc0d31f42cab9769c9587"
+    "url": "assets/js/11.524d87a9.js",
+    "revision": "3f3d957d138f4a6dd63cbe13630dd060"
   },
   {
-    "url": "assets/js/12.1a34c860.js",
-    "revision": "e4f2c955e9310bc66041ff8307b4c349"
+    "url": "assets/js/12.73ce7a3e.js",
+    "revision": "93308611b80024f4ff6d671e5abd5615"
   },
   {
-    "url": "assets/js/13.9bef7e3d.js",
-    "revision": "db9ef0e03a408cb174288579f8483b52"
+    "url": "assets/js/13.34116341.js",
+    "revision": "08ac9918996d2f579d09d85f5368202e"
   },
   {
-    "url": "assets/js/14.c41b7d54.js",
-    "revision": "b27b4d60e8936fcbad211216fc220795"
+    "url": "assets/js/14.440a39db.js",
+    "revision": "43fab1b695a4bd9345df3e0a420953d6"
   },
   {
-    "url": "assets/js/15.64f9fde7.js",
-    "revision": "aa20f165d454912236705168e042bf1c"
+    "url": "assets/js/15.fbd447a4.js",
+    "revision": "e795a2ee9ee8b06e71efdc56c8852d1d"
   },
   {
-    "url": "assets/js/16.859b12a0.js",
-    "revision": "3d430af1c2e757b160689fefe665d868"
+    "url": "assets/js/16.c895da74.js",
+    "revision": "23f93bdd662280f3ba6217ed1bce522d"
   },
   {
-    "url": "assets/js/17.47b79bda.js",
-    "revision": "6a012fc6f1b8472cb975229e1e48f167"
+    "url": "assets/js/17.912ff0af.js",
+    "revision": "ec8c165fd7388f65f07f80de27f7cd86"
   },
   {
-    "url": "assets/js/18.0c586449.js",
-    "revision": "bd374afc28b0587f8b3c9eaad3165cf4"
+    "url": "assets/js/18.d47c0e60.js",
+    "revision": "960ba8fc1dcc30fa532e9eb347e73c0a"
   },
   {
     "url": "assets/js/19.1dca8841.js",
@@ -110,8 +110,8 @@ self.__precacheManifest = [
     "revision": "abc8e9901f3b05e1748910335179b162"
   },
   {
-    "url": "assets/js/app.b71c4382.js",
-    "revision": "9eb7b690934d4fdf837e5873e355604c"
+    "url": "assets/js/app.07336c38.js",
+    "revision": "8361fb5d25db1c0ef1d9ef900bf368ab"
   },
   {
     "url": "icons/icon-128x128.png",
@@ -147,47 +147,47 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "f9d6fc0b675940b025bd1982a30255e7"
+    "revision": "c9fe82bc372b7557a63826386330c4b3"
   },
   {
     "url": "yuedu/index.html",
-    "revision": "638fbe75ca753f7d936cb12f43167c7f"
+    "revision": "35282f267238f6e11c93431ba2808e2b"
   },
   {
     "url": "yuedu/个人备份说明.html",
-    "revision": "0e17c7e15ede0de2fbbcd81fe06b0dfd"
+    "revision": "b21e7ee31fc4bf9284b6b08253f23a1f"
   },
   {
     "url": "yuedu/书源校验工具.html",
-    "revision": "b73613ba6198e5c9359d532edc36507d"
+    "revision": "5379ea20325e43807bdd1cf275b56714"
   },
   {
     "url": "yuedu/公告.html",
-    "revision": "1510a141a9ba2bbc0f47a3702ed5c160"
+    "revision": "222e34d2b7e460e33f8b5cc633c68976"
   },
   {
     "url": "yuedu/关耳美化发现工具.html",
-    "revision": "e90222a465b8461cf68cb388c1da7c31"
+    "revision": "06ff0c86917a474a3f330abb2096ff74"
   },
   {
     "url": "yuedu/备份文件说明.html",
-    "revision": "352d716b6b26ad86061df7dfed2293b3"
+    "revision": "f8d2ee07ae7dfa5dfc0d6d2217119932"
   },
   {
     "url": "yuedu/批量美化发现列表.html",
-    "revision": "d1626992a8419bca3030d5a084abcabd"
+    "revision": "e05059f9e5ef9efefef68976d0ae86e1"
   },
   {
     "url": "yuedu/教程.html",
-    "revision": "5dce7549dc16c6a8411f6d430133eef9"
+    "revision": "d5de63bb167818a85a3797958af55926"
   },
   {
     "url": "yuedu/资源共享.html",
-    "revision": "d7b6c2c67dac0c16c841fe85050ce284"
+    "revision": "ded048e21e3a14770209cc9e27ef3dd7"
   },
   {
     "url": "yuedu/软件下载.html",
-    "revision": "eb240f7ec48ff381d10f8b49f3e1771b"
+    "revision": "94400c55d990cd32d971417d3b881ffa"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

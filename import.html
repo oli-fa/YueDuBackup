@@ -17,10 +17,6 @@
 				overflow: hidden;
 			}
 
-			.el-row {
-				/* margin-top: 1em; */
-			}
-
 			.el-card {
 				margin: 0.5em 0;
 			}
@@ -46,8 +42,7 @@
 					</el-button>
 				</el-input>
 			</el-row>
-
-			<el-row>
+			<el-row style="padding-bottom: 1em;">
 				<h4>手动导入</h4>
 				<el-input v-model="input2" placeholder="请输入连接">
 					<el-select v-model="select" slot="prepend" placeholder="请选择">
@@ -65,14 +60,14 @@
 					</el-button>
 				</el-input>
 			</el-row>
-			<el-card class="box-card" body-style="padding:0px">
+			<el-card class="box-card" body-style="padding:0px;">
 				<el-alert type="info" :closable="false" show-icon effect="dark">
-					<p style="font-size: 1.6em;">作者: 菊蒻。如有问题请
-						<el-link style="font-size: 1em;color: #ff0;"
-							href="https://github.com/oli-fa/YueDuBackup/issues/new" :underline="false" target="_blank">
+					<div style="font-size: 1.5em; text-align: center;">作者: 菊蒻。如有问题请<a
+							style="color: #ff0;text-decoration:none"
+							href="https://github.com/oli-fa/YueDuBackup/issues/new" target="_blank">
 							前往反馈
-						</el-link>
-					</p>
+						</a>
+					</div>
 				</el-alert>
 				</el-crad>
 		</div>
