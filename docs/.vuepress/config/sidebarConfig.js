@@ -49,7 +49,8 @@ module.exports = {
             children: [
                 '/yuedu/关耳美化发现工具',
 				'/yuedu/批量美化发现列表',
-                '/yuedu/书源校验工具',				
+                '/yuedu/书源校验工具',
+				'/yuedu/一键导入源',						
             ]
         }
     ]
