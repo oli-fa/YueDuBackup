@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,intial-scale=1,user-scalable=no">
+		<!-- import CSS -->
+		<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+		<title>一键导入源</title>
+		<style type="text/css">
+			.el-select {
+				width: 7em;
+			}
+
+			p {
+				word-wrap: break-word;
+				word-break: break-all;
+				overflow: hidden;
+			}
+
+			.el-row {
+				/* margin-top: 1em; */
+			}
+
+			.el-card {
+				margin: 0.5em 0;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="app">
+			<el-card class="box-card" body-style="padding:0px">
+				<el-alert type="success" :closable="false" center effect="dark">
+					<p align="center" style="font-size: 1.5em;margin:  0;">原理</p>
+					<div style="font-size:1.2em">
+						<p>通过url唤起阅读进行一键导入,url格式: legado://import/{path}?src={url}</p>
+						<p>path类型: bookSource,rssSource,replaceRule,textTocRule,httpTTS,theme,readConfig</p>
+						<p>path类型解释: 书源,订阅源,替换规则,本地txt小说目录规则,在线朗读引擎,主题,阅读排版</p>
+					</div>
+				</el-alert>
+			</el-card>
+			<el-row>
+				<h4>自动导入</h4>
+				<el-input v-model="input" placeholder="请输入连接">
+					<el-button slot="append" @click="autoInput">
+						<el-link :href="autoLink" type="primary" :underline="false">一键导入</el-link>
+					</el-button>
+				</el-input>
+			</el-row>
+
+			<el-row>
+				<h4>手动导入</h4>
+				<el-input v-model="input2" placeholder="请输入连接">
+					<el-select v-model="select" slot="prepend" placeholder="请选择">
+						<el-option label="自动" value="auto"></el-option>
+						<el-option label="书源" value="bookSource"></el-option>
+						<el-option label="订阅源" value="rssSource"></el-option>
+						<el-option label="替换规则" value="replaceRule"></el-option>
+						<el-option label="本地txt小说目录规则" value="textTocRule"></el-option>
+						<el-option label="在线朗读引擎" value="httpTTS"></el-option>
+						<el-option label="主题" value="theme"></el-option>
+						<el-option label="阅读排版" value="readConfig"></el-option>
+					</el-select>
+					<el-button slot="append" @click="setInput">
+						<el-link :href="setlink" type="primary" :underline="false">一键导入</el-link>
+					</el-button>
+				</el-input>
+			</el-row>
+			<el-card class="box-card" body-style="padding:0px">
+				<el-alert type="info" :closable="false" show-icon effect="dark">
+					<p style="font-size: 1.6em;">作者: 菊蒻。如有问题请
+						<el-link style="font-size: 1em;color: #ff0;"
+							href="https://github.com/oli-fa/YueDuBackup/issues/new" :underline="false" target="_blank">
+							前往反馈
+						</el-link>
+					</p>
+				</el-alert>
+				</el-crad>
+		</div>
+
+	</body>
+	<!-- import Vue before Element -->
+	<script src="https://unpkg.com/vue/dist/vue.js"></script>
+	<!-- import JavaScript -->
+	<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+	<script>
+		new Vue({
+			el: '#app',
+			data() {
+				return {
+					input: '',
+					autoLink: '',
+					input2: '',
+					select: '',
+					setlink: ''
+				}
+			},
+			methods: {
+				autoInput() {
+					this.autoLink = "yuedu://import/auto?src=" + this.input;
+					console.log(this.input)
+					console.log(this.autoLink)
+				},
+				setInput() {
+					this.setlink = "yuedu://import/" + this.select + "?src=" + this.input2;
+					console.log(this.setlink)
+				}
+			}
+		})
+	</script>
+</html>
