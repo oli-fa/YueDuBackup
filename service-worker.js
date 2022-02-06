@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d6c345bc2957f6ac9c2588499e283293"
+    "revision": "a860360fc6ae726101009eb9203d7f26"
   },
   {
     "url": "assets/css/0.styles.e42cd381.css",
@@ -114,8 +114,8 @@ self.__precacheManifest = [
     "revision": "d600432e0e898e1d52baba833411d249"
   },
   {
-    "url": "assets/js/app.e9e2b736.js",
-    "revision": "263468e0fb81b5043140d99129678461"
+    "url": "assets/js/app.3bbbe29b.js",
+    "revision": "c876555dcd8e7b0e2aa7d85251437273"
   },
   {
     "url": "icons/icon-128x128.png",
@@ -151,51 +151,51 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e8f22b1fe4bd45018e62c45204027e76"
+    "revision": "9f4dc97ac87e98d2495d14054fe2a150"
   },
   {
     "url": "yuedu/index.html",
-    "revision": "403d6ed8ea468a7ef3d6640594977616"
+    "revision": "2273838ddf94a9547625f3612bfaa147"
   },
   {
     "url": "yuedu/一键导入源.html",
-    "revision": "d0b24484c912953de9f618d2a65b363d"
+    "revision": "40eedc9bddb48d11b88fb55f052a665a"
   },
   {
     "url": "yuedu/个人备份说明.html",
-    "revision": "5102ddb58b3a7b6890524edd07fa3a81"
+    "revision": "2aa366d530b0f853c8f9668137462bc9"
   },
   {
     "url": "yuedu/书源校验工具.html",
-    "revision": "d14d1f0a5a1eb1d25e5ce6b4261a2aaf"
+    "revision": "33d89db76eee5e3733431d3c3173d43c"
   },
   {
     "url": "yuedu/公告.html",
-    "revision": "b568fac4e7268a0d52fbf806e78f6bf9"
+    "revision": "fef3778f33ceaafa33abf2be1655a199"
   },
   {
     "url": "yuedu/关耳美化发现工具.html",
-    "revision": "54b7c3a12de9b3eb4fb532874a799bae"
+    "revision": "77975e58fc0f67a355100e1d82d9ce80"
   },
   {
     "url": "yuedu/备份文件说明.html",
-    "revision": "96709122b0ddfab5cc1297642f5e1a3e"
+    "revision": "9a1c91493250fad6ff53db2fdc996ed9"
   },
   {
     "url": "yuedu/批量美化发现列表.html",
-    "revision": "ce2f15ec06975fd2f071f7a6674f286b"
+    "revision": "776a40313dbd42326527c2055ba81106"
   },
   {
     "url": "yuedu/教程.html",
-    "revision": "bcbaeb03ee1cdebf56000322c0bb2a57"
+    "revision": "9caf6eed3c3b58013d885f9f41be3f52"
   },
   {
     "url": "yuedu/资源共享.html",
-    "revision": "7f1afd58ca84a6f70888263192ab6172"
+    "revision": "ed8fefd7e73c9816b940fd9321fe8d9d"
   },
   {
     "url": "yuedu/软件下载.html",
-    "revision": "20b087886a6a51043c98ad422804df8e"
+    "revision": "454ebe6ef49350be494238d026c38499"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
