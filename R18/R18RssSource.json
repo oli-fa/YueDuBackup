@@ -1,6 +1,27 @@
 [
   {
     "articleStyle": 0,
+    "customOrder": -18481,
+    "enableJs": true,
+    "enabled": true,
+    "loadWithBaseUrl": true,
+    "ruleArticles": "@js:\njson=[];\nlist=baseUrl.replace(/http.*?wd=/,'').split('★');\nfor(i in list){\n    href=list[i].match(/【(.*?)】/)[1];\n    title=list[i].match(/《(.*?)》/)[1];\n    json.push({title:title,href:href})\n}\njson",
+    "ruleContent": "",
+    "ruleDescription": "",
+    "ruleLink": "href",
+    "rulePubDate": "href",
+    "ruleTitle": "title",
+    "singleUrl": false,
+    "sortUrl": "工具集::http://www.baidu.com?wd=\t【http://oli-fa.github.io/YueDuBackup】《📔丨小白教程》★【http://oli-fa.github.io/YueDuBackup/import】《🛠️丨一键导入源》★【http://oli-fa.github.io/YueDuBackup/tool】《🛠️丨单源发现列表美化(关耳)》★【http://oli-fa.github.io/YueDuBackup/tool1】《🛠️丨批量发现列表美化》★【http://oli-fa.github.io/YueDuBackup/link】《🛠️丨获取github加速链接》★【https://github.com/oli-fa/YueDuBackup/issues/new】《💬丨意见反馈》★【https://github.com/oli-fa/YueDuBackup/releases/release】《🎊丨更新记录》",
+    "sourceComment": "投稿邮箱：wen@sbfc6.onmicrosoft.com\n<js>github@ifwlzs</js>",
+    "sourceGroup": "ifwlzs,工具,R18",
+    "sourceIcon": "https://avatars.githubusercontent.com/u/89572235",
+    "sourceName": "菊渊工具集",
+    "sourceUrl": "https://github.com/oli-fa/",
+    "style": "##github@ifwlzs"
+  },
+  {
+    "articleStyle": 0,
     "customOrder": -18480,
     "enableJs": false,
     "enabled": true,
