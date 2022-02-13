@@ -18,10 +18,3 @@ if __name__ == '__main__':
         url = f'https://purge.jsdelivr.net/gh/oli-fa/YueDuBackup/{file}'
         print(url)
         print(requests.get(url).text)
-        url = f'https://purge.jsdelivr.net/gh/oli-fa@master/YueDuBackup/R18/{file}'
-        print(url)
-        print(requests.get(url).text)
-        url = f'https://purge.jsdelivr.net/gh/oli-fa@master/YueDuBackup/legadoBackUp/{file}'
-        print(url)
-        print(requests.get(url).text)
-        
