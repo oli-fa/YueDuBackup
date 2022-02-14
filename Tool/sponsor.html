@@ -21,6 +21,15 @@
 				max-width: 100%;
 				max-height: auto;
 			}
+
+			.v-list-item__content {
+				border-top: solid #ea4235 2px;
+				border-right: solid #4286f5 2px;
+				border-bottom: solid #34a853 2px;
+				border-left: solid #fabc05 2px;
+				margin: 0px;
+				padding-left: 1em
+			}
 		</style>
 	</head>
 	<body>
@@ -30,7 +39,7 @@
 					<v-container fluid>
 						<v-row style="width: 90%;margin: 0 auto;margin-top: 10px;">
 							<v-select v-model="itemsSelected" :items="items" label="选择大佬进行打赏" @change="f1" outlined
-								return-object id="selected">
+								color="#66ccff" return-object id="selected">
 							</v-select>
 						</v-row>
 						<v-row style="width: 90%;margin: 0 auto;">
