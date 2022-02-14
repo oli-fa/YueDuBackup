@@ -52,6 +52,13 @@ module.exports = {
                 '/yuedu/书源校验工具',
 				'/yuedu/一键导入源',						
             ]
-        }
+        },{
+			title: '打赏大佬',
+            collapsable: false,
+            children: [
+                '/yuedu/打赏大佬',
+            ]
+			
+		}
     ]
 }
