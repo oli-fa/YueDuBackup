@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c84bf9bc0910ef774c1bc07954ea6caf"
+    "revision": "1ab07339560ec047f10c3fa5765e4d5f"
   },
   {
     "url": "assets/css/0.styles.e42cd381.css",
@@ -54,20 +54,20 @@ self.__precacheManifest = [
     "revision": "c2900dab58777b1a8e9cb08fc2c753e7"
   },
   {
-    "url": "assets/js/14.e0f76169.js",
-    "revision": "3336e733fe6ecc8686f14420f23d4f64"
+    "url": "assets/js/14.35eaf1af.js",
+    "revision": "31e4c9ea71e5d8c1c192588c046a6eda"
   },
   {
-    "url": "assets/js/15.b896fb7a.js",
-    "revision": "3f58881a033d179a01672cf0e53879cb"
+    "url": "assets/js/15.70f7c32e.js",
+    "revision": "3692b75b156139905b30d56b41024f24"
   },
   {
-    "url": "assets/js/16.32e93871.js",
-    "revision": "aff6fafc36934fa6fea7323ac89e4df0"
+    "url": "assets/js/16.d8fe2e4c.js",
+    "revision": "1be20c3b66918ded922e0e7db91775d0"
   },
   {
-    "url": "assets/js/17.43041c2c.js",
-    "revision": "0714d502dd2de48d945604b87b2e9748"
+    "url": "assets/js/17.f971274e.js",
+    "revision": "f0d5e37c2173cbaf1be92a0c7fd8d6ad"
   },
   {
     "url": "assets/js/18.5515d32e.js",
@@ -118,8 +118,8 @@ self.__precacheManifest = [
     "revision": "3f8e7eca7d3888f15f4247a80fe64475"
   },
   {
-    "url": "assets/js/app.08302c6e.js",
-    "revision": "b8d6ac06d8546e1b62c51e35b6be2704"
+    "url": "assets/js/app.491f34b5.js",
+    "revision": "ea6ccf95a8b9103e808230d0463423e9"
   },
   {
     "url": "icons/icon-128x128.png",
@@ -155,55 +155,55 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0b78e49b3bb0a7f6c5e60ebcd6c66247"
+    "revision": "caacad7df2047cde978bbbfd5f8964e5"
   },
   {
     "url": "yuedu/index.html",
-    "revision": "5ae24b33cbe4c9fc8c7d55f6faf393c0"
+    "revision": "56c2ce33700dc7842027afabdbdb8f7f"
   },
   {
     "url": "yuedu/一键导入源.html",
-    "revision": "c74d108d96a4f508351e431eadfa93f6"
+    "revision": "5be6138f183423ea9ff38e89e5fb5679"
   },
   {
     "url": "yuedu/个人备份说明.html",
-    "revision": "7e59602744f4a2531979e1f4ee0d098b"
+    "revision": "cfb8933f5f2e5c7d265fd3bc80de0549"
   },
   {
     "url": "yuedu/书源校验工具.html",
-    "revision": "21148cec3d74c48cdced1125e9d2eb54"
+    "revision": "c1c4a7afcc5a44b4ae39c9428e1f4c6b"
   },
   {
     "url": "yuedu/公告.html",
-    "revision": "ff543f8a75aa309de60ef9080b7c8210"
+    "revision": "37c9aa6581b14ab814145000936b7dcc"
   },
   {
     "url": "yuedu/关耳美化发现工具.html",
-    "revision": "2bde62ca629405c55707097bf21a4cec"
+    "revision": "77a880db274bc3e3c947c4c8c9cc5bff"
   },
   {
     "url": "yuedu/备份文件说明.html",
-    "revision": "e3d5cca1f751c224b64876e7fa338c9c"
+    "revision": "710da2410dbf4c2700934eaa9185e0ef"
   },
   {
     "url": "yuedu/打赏大佬.html",
-    "revision": "9e9b6944fb92f84399f60be097e25d2c"
+    "revision": "c7bb277a53e27c7b6627ed8c87673cdd"
   },
   {
     "url": "yuedu/批量美化发现列表.html",
-    "revision": "88a26eda6215f682aa9b2d3ea0923e19"
+    "revision": "eb75adb22eed14b1a4fd5e66e7a74372"
   },
   {
     "url": "yuedu/教程.html",
-    "revision": "ba1b3aa785c882464037fd9e812486ee"
+    "revision": "631c63dc2da8c77f00b620c02b4b5747"
   },
   {
     "url": "yuedu/资源共享.html",
-    "revision": "41034a8fee7f3aebb7f949a5bb748253"
+    "revision": "8496281534bf18d9d2cb1ea05a17f663"
   },
   {
     "url": "yuedu/软件下载.html",
-    "revision": "8b0635002c2ab60eee000dacd83838bf"
+    "revision": "423e63971224fb79019e5df63760c5fc"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
