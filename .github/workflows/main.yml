@@ -6,6 +6,7 @@ on:
     branches:
       - master
       - main
+  workflow_dispatch: 
 #  watch:
 #    types: [started]
 
