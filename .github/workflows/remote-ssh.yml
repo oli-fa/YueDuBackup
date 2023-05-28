@@ -1,25 +1,25 @@
-name: Remote-SSH
-on:
-  watch:
-    types: started
-jobs:
-  SSH:
-    name: Run on ${{ matrix.os }}
-    runs-on: ${{ matrix.os }}
-    strategy:
-      max-parallel: 4
-      matrix:
-        python-version: [3.6]
-        os: [windows-latest, ubuntu-latest, macOS-latest]
-    steps:
-      - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v1
-        with:
-          python-version: ${{ matrix.python-version }}
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          python -m pip install -U tmate
-      - name: SSH connection to Actions
-        run: |
-            python -m tmate
+# name: Remote-SSH
+# on:
+#   watch:
+#     types: started
+# jobs:
+#   SSH:
+#     name: Run on ${{ matrix.os }}
+#     runs-on: ${{ matrix.os }}
+#     strategy:
+#       max-parallel: 4
+#       matrix:
+#         python-version: [3.6]
+#         os: [windows-latest, ubuntu-latest, macOS-latest]
+#     steps:
+#       - name: Set up Python ${{ matrix.python-version }}
+#         uses: actions/setup-python@v1
+#         with:
+#           python-version: ${{ matrix.python-version }}
+#       - name: Install dependencies
+#         run: |
+#           python -m pip install --upgrade pip
+#           python -m pip install -U tmate
+#       - name: SSH connection to Actions
+#         run: |
+#             python -m tmate
